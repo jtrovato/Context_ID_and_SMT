@@ -1,0 +1,626 @@
+{{redirect2|Lord Palmerston|Henry Temple|the title|Viscount Palmerston|the Congressman from Pennsylvania|Henry Wilson Temple}}
+{{Use dmy dates|date=April 2012}}
+{{Infobox Prime Minister
+| honorific-prefix = [[The Right Honourable]]
+| name             = The Viscount Palmerston
+| honorific-suffix = [[Order of the Garter|KG]] [[Order of the Bath|GCB]] [[Privy Council of the United Kingdom|PC]]
+| image            = Lord Palmerston 1855.jpg
+| imagesize        = 245px
+| caption          = Lord Palmerston, ''circa'' 1855 by Francis Cruikshank.
+| order            = [[Prime Minister of the United Kingdom]]
+| term_start       = 12 June 1859
+| term_end         = 18 October 1865
+| monarch          = [[Queen Victoria|Victoria]]
+| predecessor      = [[Edward Smith-Stanley, 14th Earl of Derby|The Earl of Derby]]
+| successor        = [[John Russell, 1st Earl Russell|The Earl Russell]]
+| term_start2      = 6 February 1855
+| term_end2        = 19 February 1858
+| monarch2         = Victoria
+| predecessor2     = [[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]
+| successor2       = The Earl of Derby
+| order3           = [[Leader of the Opposition (United Kingdom)|Leader of the Opposition]]
+| term_start3      = 19 February 1858
+| term_end3        = 11 June 1859
+| monarch3         = Victoria
+| primeminister3   = The Earl of Derby
+| predecessor3     = The Earl of Derby
+| successor3       = The Earl of Derby
+| order4           = [[Home Secretary]]
+| term_start4      = 28 December 1852
+| term_end4        = 6 February 1855
+| primeminister4   = The Earl of Aberdeen
+| predecessor4     = [[Spencer Horatio Walpole]]
+| successor4       = [[Sir George Grey, 2nd Baronet|Sir George Grey, Bt]]
+| order5           = [[Secretary of State for Foreign and Commonwealth Affairs|Secretary of State for Foreign Affairs]]
+| term_start5      = 6 July 1846
+| term_end5        = 26 December 1851
+| primeminister5   = Lord John Russell
+| predecessor5     = The Earl of Aberdeen
+| successor5       = [[Granville Leveson-Gower, 2nd Earl Granville|The Earl Granville]]
+ | term_start6     = 18 April 1835
+ | term_end6       = 2 September 1841
+ | primeminister6  = [[William Lamb, 2nd Viscount Melbourne|The Viscount Melbourne]]<br/>[[Robert Peel|Sir Robert Peel, Bt]]
+ | predecessor6    = [[Arthur Wellesley, 1st Duke of Wellington|The Duke of Wellington]]
+ | successor6      = The Earl of Aberdeen
+| term_start7      = 22 November 1830
+| term_end7        = 15 November 1834
+| primeminister7   = [[Charles Grey, 2nd Earl Grey|The Earl Grey]]<br/>The Viscount Melbourne
+| predecessor7     = The Earl of Aberdeen
+| successor7       = The Earl Granville
+| birth_date       = {{birth date|1784|10|20|df=y}}
+| birth_place      = [[Westminster]], [[Middlesex]], [[England]]
+| death_date       = {{death date and age|1865|10|18|1784|10|20|df=y}}
+| death_place      = [[Brocket Hall]], [[Hertfordshire]], [[England]]
+| spouse           = [[Emily Lamb, Lady Cowper|Emily]]
+| alma_mater       = [[University of Edinburgh]], [[University of Cambridge]]
+| party            = [[British Whig Party|Whig]] and [[Liberal Party (UK)|Liberal]]
+| signature        = Henry John Temple, 3rd Viscount Palmerston Signature.svg
+| signature_alt    = Cursive signature in ink
+}}
+
+'''Henry John Temple, 3rd Viscount Palmerston''', [[Order of the Garter|KG]], [[Order of the Bath|GCB]], [[Privy Council of the United Kingdom|PC]] (20 October 1784 – 18 October 1865) was a [[United Kingdom|British]] statesman who served twice as [[Prime Minister of the United Kingdom|Prime Minister]] in the mid-19th century. Popularly nicknamed "Pam",<ref>Illustration, "One Head Better than Two", from ''Punch'', November 1862, reproduced in [[Amanda Foreman (biographer)|Amanda Foreman]] (2010), ''A World on Fire'', New York:  Random House, Part I, "Cotton Is King", Chapter 14, "A Fateful Decision", p. 327.</ref> he was in government office almost continuously from 1807 until his death in 1865, beginning his parliamentary career as a [[Tory (British political party)|Tory]] and concluding it as a [[Liberal Party (UK)|Liberal]].
+
+He is best remembered for his direction of British foreign policy through a period when Britain was at the height of its power, serving terms as both [[Secretary of State for Foreign and Commonwealth Affairs|Foreign Secretary]] and Prime Minister. Some of his aggressive actions, now sometimes termed liberal [[Interventionism (politics)|interventionist]], were highly controversial at the time, and remain so today. He was the only Prime Minister to be over 70 years old at the beginning of his first term and is the most recent British Prime Minister to [[List of heads of state and government who died in office|die in office]].
+
+==Early life: 1784–1806==
+[[Image:Palmerston 1802.jpg|thumb|left|200px|Palmerston at age 18, 1802]]
+Henry John Temple was born in his family's [[Westminster]] house to the [[Kingdom of Ireland|Irish]] branch of the Temple family on 20 October 1784. Henry was to become the 3rd [[Viscount Palmerston]]. His family derived their title from the [[Peerage of Ireland]].<ref>Karl Marx, "Palmerston: First Article" contained in ''Collected Works of Karl Marx and Frederick Engels: Volume 12'' (International Publishers: New York, 1979) p. 348.</ref>  His father was [[Henry Temple, 2nd Viscount Palmerston]] (1739–1802), and his mother Mary (1752–1805), daughter of Benjamin Mee, a London merchant.<ref>Edward J. Davies, "The Ancestry of Lord Palmerston", ''The Genealogist'', 22(2008):62–77.</ref> From 1792 to 1794, the young future Lord Palmerston accompanied his family on a Continental tour of [[French First Republic|France]], [[Old Swiss Confederacy|Switzerland]], [[History of Italy (1559-1814)|Italy]], [[Duchy of Brunswick-Luneburg|Hanover]] and the [[Dutch Republic|Netherlands]].<ref>Jasper Ridley, ''Lord Palmerston'' (London: Constable, 1970), pp. 7–9.</ref> Whilst in Italy Palmerston acquired an Italian tutor, Signor Gaetano, who taught him to speak and write fluent [[Italian language|Italian]].<ref>Ridley, p. 9.</ref>
+
+He was educated at [[Harrow School]] (1795–1800). [[Admiral (Royal Navy)|Admiral]] [[Augustus Clifford|Sir Augustus Clifford]], 1st [[Baronet|Bt.]], was a [[fagging|fag]] to Palmerston, [[John Spencer, 3rd Earl Spencer|Viscount Althorp]] and [[John Ponsonby, 4th Earl of Bessborough|Viscount Duncannon]] and later remembered Palmerston as by far the most merciful of the three.<ref name="Ridley, p. 10">Ridley, p. 10.</ref> Palmerston was often engaged in school fights and fellow Old Harrovians remembered Palmerston as someone who stood up to bullies twice his size.<ref name="Ridley, p. 10"/> Palmerston's father took him to the House of Commons in 1799, where young Palmerston shook hands with the Prime Minister, [[William Pitt the Younger|William Pitt]].<ref>Ridley, p. 12.</ref>
+
+Palmerston was then at the [[University of Edinburgh]] (1800–1803), where he learnt political economy from [[Dugald Stewart]], a friend of the Scottish philosophers [[Adam Ferguson]] and [[Adam Smith]].<ref>Ridley, p. 14.</ref> Palmerston later described his time at Edinburgh as producing "whatever useful knowledge and habits of mind I possess".<ref name="ODNB">David Steele, ‘[http://www.oxforddnb.com/view/article/27112 Temple,  Henry John, third Viscount Palmerston  (1784–1865)]’, ''Oxford Dictionary of National Biography'', Oxford University Press,  2004; online edn, May 2009, accessed 11 December 2010.</ref> [[Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto|Lord Minto]] wrote to Palmerston's parents that young Palmerston was well-mannered and charming. Stewart wrote to a friend, saying of Palmerston: "In point of temper and conduct he is everything his friends could wish. Indeed, I cannot say that I have ever seen a more faultless character at this time of life, or one possessed of more amiable dispositions".<ref>Ridley, p. 15.</ref>
+
+Palmerston succeeded his father to the title of [[Viscount Palmerston]] on 17 April 1802, before he had turned 18. The young 3rd Lord Palmerston also inherited a vast [[country estate]] in the north of [[County Sligo]] in the west of [[Ireland]]. He later built [[Classiebawn Castle]] on this estate. Palmerston went to [[St John's College, Cambridge]] (1803–1806).<ref>{{acad|id=PLMN803HJ|name=Palmerston, Henry John (Temple), Viscount}}</ref> As a nobleman, he was entitled to take his [[Master of Arts (Oxbridge and Dublin)|MA]] without examinations, but Palmerston wished to obtain his degree through examinations. This was declined, although he was allowed to take the separate College examinations, where he obtained first-class honours.<ref>Ridley, p. 18.</ref>
+
+After war was declared on France in 1803, Palmerston joined the [[British anti-invasion preparations of 1803–1805|Volunteers]] mustered to oppose a [[Napoleon's planned invasion of the United Kingdom|French invasion]], being one of the three officers in the unit for St John's College. He was also appointed Lieutenant-Colonel Commander of the Romsey Volunteers.<ref>Ridley, pp. 18–19.</ref>
+
+==Early political career: 1806–1809==
+In February 1806 Palmerston was defeated in the election for the [[Cambridge University (UK Parliament constituency)|University of Cambridge constituency]].<ref>Ridley, pp. 19–22.</ref> In [[United Kingdom general election, 1806|November]] he was elected for [[Horsham (UK Parliament constituency)|Horsham]] but was unseated in January 1807, when the Whig majority in the Commons voted for a petition to unseat him.<ref>Ridley, pp. 24–26.</ref>
+
+Due to the patronage of [[Thomas Pelham, 2nd Earl of Chichester|Lord Chichester]] and [[James Harris, 1st Earl of Malmesbury|Lord Malmesbury]], he was given the post of Junior Lord of the [[Admiralty]] in the ministry of the [[William Henry Cavendish-Bentinck, 3rd Duke of Portland|Duke of Portland]].<ref>Ridley, p. 27.</ref> Palmerston stood again for the Cambridge seat in [[United Kingdom general election, 1807|May]] but he lost by three votes after he advised his supporters to vote for the other Tory candidate in the two-member constituency so as to ensure a Tory was elected.<ref>Ridley, pp. 27–28.</ref>
+
+Palmerston entered Parliament as Tory MP for the [[pocket borough]] of [[Newport (Isle of Wight) (UK Parliament constituency)|Newport]] on the Isle of Wight in June 1807.<ref name="note">Although peers of [[Peerage of England|England]], [[Peerage of Scotland|Scotland]], [[Peerage of Great Britain|Great Britain]] and the [[Peerage of the United Kingdom|United Kingdom]] sat in the House of Lords and were not able to sit as Members of Parliament in the House of Commons, the Viscountcy of Palmerston was in the [[Peerage of Ireland]] which did not automatically grant the right to sit in the Lords. Palmerston was thus able to serve as an MP.</ref>
+
+On 3 February 1808 Palmerston spoke in support of confidentiality in the working of diplomacy and the bombardment of Copenhagen and the capture and destruction of the [[Denmark|Danish]] navy by the Royal Navy in the [[Battle of Copenhagen (1807)|Battle of Copenhagen]].<ref>Karl Marx, "Palmerston: First Article" contained in the ''Collected Works of Karl Marx and Frederick Engels: Volume 12'', p. 348</ref>  At the time of the attack on Copenhagen, Denmark was neutral but [[Napoleon I of France|Napoleon]] had recently agreed with the Russians in the Treaty of Tilsit to build a naval alliance against Britain, including using the Danish navy for invading Britain.<ref>Ridley, pp. 29–30.</ref> Pre-empting this, the British offered Denmark the choice of temporarily handing over her navy until the war's end or the destruction of the navy. The Danes refused to comply and so Copenhagen was bombarded. Palmerston justified the attack by reference to the ambitions of Napoleon to take control of the Danish fleet:
+
+<blockquote>...it is defensible on the ground that the enormous power of France enables her to coerce the weaker state to become an enemy of England...It is the law of self-preservation that England appeals for the justification of her proceedings. It is admitted by the honourable gentleman and his supporters, that if Denmark had evidenced any hostility towards this country, then we should have been justified in measures of retaliation...Denmark coerced into hostility stands in the same position as Denmark voluntarily hostile, when the law of self-preservation comes into play...Does anyone believe that Buonaparte will be restrained by any considerations of justice from acting towards Denmark as he has done towards other countries?...England, according to that law of self-preservation which is a fundamental principle of the law of nations, is justified in securing, and therefore enforcing, from Denmark a neutrality which France would by compulsion have converted into an active hostility.<ref>George Henry Francis, ''Opinions and Policy of the Right Honourable Viscount Palmerston, G.C.B., M.P., &c. as Minister, Diplomatist, and Statesman, During More Than Forty Years of Public Life'' (London: Colburn and Co., 1852), pp. 1–3.</ref></blockquote>
+
+In a letter to a friend on 24 December 1807, Palmerston described the late Whig MP [[Edmund Burke]] as possessing "the palm of political prophecy".<ref>Kenneth Bourne (ed.), ''The Letters of the Third Viscount Palmerston to Laurence and Elizabeth Sulivan. 1804–1863'' (London: The Royal Historical Society, 1979), p. 97.</ref>
+
+==Secretary at War: 1809–1828==
+Palmerston's speech was so successful that [[Spencer Perceval|Perceval]], who formed his government in 1809, asked him to become [[Chancellor of the Exchequer]], then a less important office than it was to become from the mid nineteenth century. Palmerston preferred the office of Secretary at War, charged exclusively with the financial business of the army. Without a seat in the cabinet, he remained in the latter post for 20 years.<ref>Karl Marx, "Palmerston: First Article" contained in the ''Collected Works of Karl Marx and Frederick Engels: Volume 12'', p. 348.</ref>
+
+After the suicide of [[Robert Stewart, Viscount Castlereagh|Castlereagh]] in 1822, the Cabinet of [[Robert Banks Jenkinson, 2nd Earl of Liverpool|Lord Liverpool]]'s Tory administration began to split along political lines. The more liberal wing of the Tory government made some ground, with [[George Canning]] becoming [[Secretary of State for Foreign Affairs|Foreign Secretary]] and [[Leader of the House of Commons]], [[William Huskisson]] advocating and applying the doctrines of free trade, and Catholic emancipation emerging as an open question. Although Palmerston was not in the Cabinet, he cordially supported the measures of Canning and his friends. On 26 February 1828 Palmerston delivered a speech in favour of Catholic Emancipation.  He felt that it was unseemly to relieve the "imaginary grievances" of the Dissenters from the established church while at the same time "real afflictions pressed upon the Catholics" of Great Britain.<ref>[http://hansard.millbanksystems.com/commons/1828/feb/26/repeal-of-the-test-and-corporation-acts REPEAL OF THE TEST AND CORPORATION ACTS.                    ''HC Deb 26 February 1828 vol 18 cc676-781'']</ref>  Palmerston also supported the campaign to pass the Reform Bill to extend the voting franchise to more men in Britain.<ref>Ridley, pp. 147–153.</ref> One of his biographers has stated that: "Like many Pittites, now labelled tories, he was a good whig at heart".<ref name="ODNB" />  Catholic Emancipation finally passed Parliament in 1829 when Palmerston was in the opposition.<ref>Ridley, p. 98.</ref>  The [[Reform Act 1832|Great Reform Act]] passed Parliament in 1832.
+
+On 1 April 1818 a retired officer on half-pay, Lieutenant Davies, who had a grievance about his application from the War Office for a pension and was also mad, shot Palmerston as he walked up the stairs of the War Office. However the bullet only grazed his back and the wound was slight. After Palmerston learned that Davies was mad, he paid for his legal defence at the trial (Davies was sent to [[Bethlem Royal Hospital|Bedlam]]).<ref>Ridley, pp. 64–65.</ref>
+
+Upon the death of Lord Liverpool, Canning was called to be Prime Minister. The more conservative Tories, including [[Robert Peel|Sir Robert Peel]], withdrew their support, and an alliance was formed between the liberal members of the late ministry and the Whigs. The post of Chancellor of the Exchequer was offered to Palmerston, who accepted it, but this appointment was frustrated by some intrigue between the [[George IV of the United Kingdom|King]] and [[John Charles Herries]]. Palmerston remained Secretary at War, though he gained a seat in the cabinet for the first time. The Canning administration ended after only four months on the death of the Prime Minister, and was followed by the ministry of [[Frederick John Robinson, 1st Viscount Goderich|Lord Goderich]], which barely survived the year.
+
+The [[Canningites]] remained influential, and the [[Arthur Wellesley, 1st Duke of Wellington|Duke of Wellington]] hastened to include Palmerston, Huskisson, [[Charles Grant, 1st Baron Glenelg|Charles Grant]], [[William Lamb, 2nd Viscount Melbourne|William Lamb]], and [[John William Ward, 1st Earl of Dudley|The Earl of Dudley]] in the government he subsequently formed. However, a dispute between Wellington and Huskisson over the issue of parliamentary representation for Manchester and Birmingham led to the resignation of Huskisson and his allies, including Palmerston. In the spring of 1828, after more than twenty years continuously in office, Palmerston found himself in opposition.
+
+==Opposition: 1828–1830==
+[[Image:Viscount Palmerston statue.jpg|thumb|upright|[[Statue of Lord Palmerston, Parliament Square|Statue of Lord Palmerston]] in [[Parliament Square]], London, by [[Thomas Woolner]].]]
+[[Image:Southampton-Palmerston-Statue.jpg|thumb|upright|Statue of Lord Palmerston in [[Southampton]]]]
+
+Following his move to opposition, Palmerston appears to have focused closely on foreign policy. He had already urged Wellington into active interference in the [[Greek War of Independence]], and he had made several visits to [[Paris]], where he foresaw with great accuracy the impending overthrow of the [[Bourbon Restoration|Bourbons]]. On 1 June 1829 he made his first great speech on foreign affairs.
+
+Palmerston was a great orator. His language was relatively unstudied and his delivery somewhat embarrassed, but he generally found words to say the right thing at the right time and to address the House of Commons in the language best adapted to the capacity and the temper of his audience. An attempt was made by the Duke of Wellington in September 1830 to induce Palmerston to re-enter the cabinet, but he refused to do so without [[Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne|Lord Lansdowne]] and [[Charles Grey, 2nd Earl Grey|Lord Grey]], two notable Whigs. This can be said to be the point in 1830, when his party allegiance changed.<ref>Ridley, pp. 105–106.</ref>
+
+==Foreign Secretary: 1830–1841==
+Palmerston entered the office with great energy and continued to exert his influence there for twenty years; he held it from 1830 to 1834, 1835 to 1841, and 1846 to 1851. Basically, Palmerston was responsible for the whole of English foreign policy from the time of the French and Belgian Revolutions of 1830 until December 1851.  His abrasive style earned him the nickname "Lord Pumice Stone", and his manner of dealing with foreign governments who crossed him was the original "[[gunboat diplomacy]]".
+
+===Crises of 1830===
+The revolutions of 1830 gave a jolt to the settled European system that had been created in 1814–15. The [[United Kingdom of the Netherlands]] was rent in half by the [[Belgian Revolution]], the [[Kingdom of Portugal]] was the scene of [[Liberal Wars|civil war]], and the [[Mid-nineteenth century Spain|Spanish]] were about [[Pragmatic Sanction of 1830|to place]] [[Isabella II of Spain|an infant princes]]s on the throne. [[Congress Poland|Poland]] was in arms against the [[Russian Empire]], while the northern powers (Russia, Prussia, and Austria) formed a closer alliance that seemed to threaten the peace and liberties of Europe. Polish exiles called on Britain to intervene against Russia during the [[November Uprising]] of 1830.
+
+Palmerston's overall policy was to safeguard British interests, maintain peace, keep the balance of power, and retain the status quo in Europe. He had no grievance against Russia and while he privately sympathized with the Polish cause, in his role as foreign minister he rejected Polish demands. With serious trouble simultaneously taking place in Belgium and Italy, and lesser issues in Greece and Portugal, he sought to de-escalate European tensions rather than aggravate them.  He therefore focused chiefly on achieving a peaceful settlement of the crisis in Belgium.<ref>David Brown, ''Palmerston: A Biography'' (2010) pp. 148–54.</ref>
+
+===Belgium===
+[[William I of the Netherlands]] appealed to the great powers that had placed him on the throne after the Napoleonic Wars to maintain his rights; a conference assembled accordingly in London. The British solution involved the independence of Belgium, which Palmerston believed would greatly contribute to the security of Britain, but any solution was not straightforward. On the one hand, the northern powers were anxious to defend William I; on the other, many Belgian revolutionaries, like [[Charles de Brouckère]] and [[Charles Rogier]], supported the reunion of the Belgian provinces to France. The British policy was a close alliance with France, but one subject to the balance of power on the Continent, and in particular the preservation of Belgium. If the northern powers supported William I by force, they would encounter the resistance of France and the UK united in arms. If France sought to annex Belgium, she would forfeit the British alliance and find herself opposed by the whole of Europe. In the end the British policy prevailed. Although the continent had been close to war, peace was maintained on London's terms and Prince [[Léopold I of Belgium|Leopold of Saxe-Coburg]], the widower of a British princess, was placed upon the throne of Belgium.
+
+===France, Spain and Portugal 1830s===
+In 1833 and 1834 the youthful Queens [[Maria II of Portugal]] and [[Isabella II of Spain]] were the representatives and the hope of the constitutional parties of their countries. Their positions were under some pressure from their absolutist kinsmen, Dom [[Miguel of Portugal]] and [[Don Carlos]] of Spain, who were the closest males in the lines of succession. Palmerston conceived and executed the plan of a quadruple alliance of the constitutional states of the West to serve as a counterpoise to the northern alliance. A treaty for the pacification of the Peninsula was signed in London on 22 April 1834 and, although the struggle was somewhat prolonged in Spain, it accomplished its objective.
+
+France had been a reluctant party to the treaty, and never executed her role in it with much zeal. [[Louis Philippe of France|Louis Philippe]] was accused of secretly favouring the [[Carlism|Carlists]] – the supporters of Don Carlos – and he rejected direct interference in Spain. It is probable that the hesitation of the French court on this question was one of the causes of the enduring personal hostility Palmerston showed towards the French King thereafter, though that sentiment may well have arisen earlier. Although Palmerston wrote in June 1834 that Paris was "the pivot of my foreign policy", the differences between the two countries grew into a constant but sterile rivalry that brought benefit to neither.
+
+===Balkans and Near East: defending Turkey, 1830s===
+Palmerston was greatly interested by the diplomatic questions of Eastern Europe. During the [[Greek War of Independence]] he had energetically supported the Greek cause and backed the Treaty of Constantinople that gave Greece its independence. However, from 1830 the defence of the [[Ottoman Empire]] became one of the cardinal objects of his policy. He believed in the regeneration of Turkey. "All that we hear", he wrote to Bulwer (Lord Dalling), "about the decay of the Turkish Empire, and its being a dead body or a sapless trunk, and so forth, is pure unadulterated nonsense."<ref>[http://stilltitled.com/post/217158914/mistakes-metaphor-and-nation-building abuse of metaphors]</ref> His two great aims were to prevent Russia establishing itself on the [[Bosporus]] and to prevent France doing likewise on the Nile. He regarded the maintenance of the authority of the [[Sublime Porte]] as the chief barrier against both these developments.
+[[Image:3rd Viscount Palmerston young.jpg|thumb|left|200px|Palmerston, ca. 1830s–1840s.]]
+Palmerston had long maintained a suspicious and hostile attitude towards Russia, whose autocratic government offended his liberal principles and whose ever-growing size challenged the strength of the British Empire. He was angered by the 1833 Treaty of [[Treaty of Unkiar-Skelessi|Hünkâr Iskelesi]], a mutual assistance pact between Russia and the Ottomans, but was annoyed and hostile towards David Urquhart, the creator of the Vixen affair, running the Russian blockade of [[Circassia]] in the mid-1830s.
+
+Despite his popular reputation he was hesitant in 1831 about aiding the Sultan of Turkey, who was under threat from Muhammad Ali, the pasha of Egypt.<ref>Ridley, pp. 208–209.</ref>  Later, after Russian successes, in 1833 and 1835 he made proposals to afford material aid, which were overruled by the cabinet. Palmerston held that "if we can procure for it ten years of peace under the joint protection of the five Powers, and if those years are profitably employed in reorganizing the internal system of the empire, there is no reason whatever why it should not become again a respectable Power" and challenged the [metaphor] that an old country, such as Turkey should be in such disrepair as would be warranted by the comparison: "Half the wrong conclusions at which mankind arrive are reached by the abuse of metaphors, and by mistaking general resemblance or imaginary similarity for real identity."<ref>[http://stilltitled.com/post/217154522/half-the-wrong-conclusions-at-which-mankind-arrive Metaphor, reported by Trollope]</ref> However, when the power of Ali appeared to threaten the existence of the Ottoman dynasty, particularly given the death of the Sultan on 1 July 1839, he succeeded in bringing the great powers together to sign a collective note on 27 July pledging them to maintain the independence and integrity of the Turkish Empire in order to preserve the security and peace of Europe. However, by 1840 Ali had occupied [[Ottoman Syria|Syria]] and won the [[Battle of Nezib]] against the Turkish forces. [[John Ponsonby, 1st Viscount Ponsonby|Lord Ponsonby]], the British ambassador at [[Constantinople]], vehemently urged the British government to intervene. Having closer ties to the pasha than most, France refused to be a party to coercive measures against Ali despite having signed the note in the previous year.
+
+Palmerston, irritated at France's Egyptian policy, signed the [[Convention of London (1840)|London Convention]] of 15 July 1840 in London with [[Austrian Empire|Austria]], [[Russian Empire|Russia]] and [[Kingdom of Prussia|Prussia]] – without the knowledge of the French government. This measure was taken with great hesitation, and strong opposition on the part of several members of the UK cabinet. Palmerston forced the measure through in part by declaring in a letter to the Prime Minister, [[William Lamb, 2nd Viscount Melbourne|Lord Melbourne]], that he would resign from the ministry if his policy were not adopted.
+
+The London Convention granted Muhammad Ali hereditary rule in Egypt in return for withdrawal from Syria and Lebanon, but was rejected by the pasha. The European powers intervened with force, and the bombardment of [[Beirut]], the fall of [[Acre, Israel|Acre]], and the total collapse of the power of Ali followed in rapid succession. Palmerston's policy was triumphant, and the author of it had won a reputation as one of the most powerful statesmen of the age.
+
+===China: Forcing free trade===
+China had sealed itself off from the world, permitting only limited trade under the [[Canton System]] and allowing no diplomatic contact. Palmerston saw this as an affront to his free trade principles, and demanded reform, sending [[William Napier, 9th Lord Napier|Lord Napier]] to negotiate in 1834.  China refused, and harassed the British traders bringing in opium from India. The upshot was the [[First Opium War]], 1839–42, which ended in the conquest of [[Zhoushan|Chusan]] by [[Henry Pottinger]]. It was later exchanged for the island of [[Hong Kong]]. Under the [[Treaty of Nanjing]],  China paid an indemnity and opened five [[treaty ports]] to world trade.  Palmerston thus achieved his main goal of opening China to trade, although his critics focused on the immorality of the opium trade.<ref>Ridley, ''Lord Palmerston,'' pp. 248–60</ref><ref>{{cite book|author=Glenn Melancon|title=Britain's China Policy and the Opium Crisis: Balancing Drugs, Violence and National Honour, 1833–1840|url=http://books.google.com/books?id=V527VTyT29gC&pg=PA126|year=2003|publisher=Ashgate }}</ref>
+
+In all these actions Palmerston brought to bear a great deal of patriotic vigour and energy. This made him very popular among the ordinary people of Britain, but his passion, propensity to act through personal animosity, and imperious language made him seem dangerous and destabilising in the eyes of the [[Queen Victoria|Queen]] and his more conservative colleagues in government.
+
+==Marriage==
+In 1839,Palmerston married his mistress of many years, [[Emily Lamb (Lady Cowper)|Emily, Lady Cowper]] (née Lamb), following the death of her husband, Lord Cowper. She was a noted Whig hostess and sister of [[William Lamb, 2nd Viscount Melbourne|Lord Melbourne]]. They had no legitimate children, although at least one of Lord Cowper's putative children, [[Anthony Ashley-Cooper, 7th Earl of Shaftesbury|Lady Emily Cowper, later Countess of Shaftesbury]], was widely believed to have been Palmerston's.<ref>K D Reynolds, ''Oxford DNB'', 'Temple, Emily'. Palmerston left his family seat [[Broadlands]] to her fourth, but 2nd surviving son Rt. Hon. [[Evelyn Ashley|Evelyn Melbourne Ashley]] (24 July 1836 – 15 November 1907)</ref>
+
+==Opposition: 1841–46==
+Within a few months Melbourne's administration came to an end (1841) and Palmerston remained for five years out of office. The crisis was past, but the change which took place by the substitution of [[François Guizot]] for [[Adolphe Thiers]] in France, and of [[George Hamilton-Gordon, 4th Earl of Aberdeen|Lord Aberdeen]] for Palmerston in the UK, was a fortunate event for the peace of the world. Palmerston had adopted the opinion that peace with France was not to be relied on, and indeed that war between the two countries was sooner or later inevitable. Aberdeen and Guizot inaugurated a different policy; by mutual confidence and friendly offices, they entirely succeeded in restoring the most cordial understanding between the two governments, and the irritation which Palmerston had inflamed gradually subsided. During the administration of [[Robert Peel|Sir Robert Peel]], Palmerston led a retired life, but he attacked with characteristic bitterness the [[Webster-Ashburton Treaty]] with the United States.  The Webster-Ashburton Treaty of 1842, resolved the several Canadian boundary disputes between the Great Britain and the United States, particularly over the exact border between New Brunswick and the State of Maine of the United States and the exact boundary between Canada and the State of Minnesota from Lake Superior and the Lake of the Woods.<ref>Robert Remini, ''Daniel Webster'' (W. W. Norton and Co.: New York, 1997) pp. 538–565.</ref>  Much as he criticised the Treaty, the Webster-Ashburton Treaty did, however, successfully close some other questions with which Palmerston had long been concerned.
+
+Palmerston's reputation as an interventionist and his unpopularity with the Queen and other Whig grandees was such that when [[John Russell, 1st Earl Russell|Lord John Russell]] attempted in December 1845 to form a ministry, the combination failed because [[Henry Grey, 3rd Earl Grey|Lord Grey]] refused to join a government in which Palmerston should resume the direction of foreign affairs. A few months later, however, this difficulty was surmounted; the Whigs returned to power, and Palmerston to the Foreign Office (July 1846). Russell replied to critics that Palmerston's policies had "a ''tendency'' to produce war" by pointing out that he had advanced British interests without a major conflict, if not quite peacefully.<ref name="ODNB" />
+
+==Foreign Secretary: 1846–1851==
+
+===France and Spain, 1845===
+{{Main|Affair of the Spanish Marriages}}
+[[Image:Henry John Temple, 3rd Viscount Palmerston by John Partridge.jpg|thumb|right|200px|Lord Palmerston, ca. 1845.]]
+The French government regarded the appointment of Palmerston as a certain sign of renewed hostilities. They availed themselves of a dispatch in which he had put forward the name of a Coburg prince as a candidate for the hand of the young queen of Spain as a justification for a departure from the engagements entered into between Guizot and Lord Aberdeen. However little the conduct of the French government in this transaction of the Spanish marriages can be vindicated, it is certain that it originated in the belief that in Palmerston France had a restless and subtle enemy. The efforts of the British minister to defeat the French marriages of the Spanish princesses, by an appeal to the [[Treaty of Utrecht (1713)|Treaty of Utrecht]] and the other powers of Europe, were wholly unsuccessful; France won the game, though with no small loss of honourable reputation.
+
+Brown rejects the traditional interpretation to the effect that Aberdeen had forged an entente cordiale with France in the early 1840s whereupon the belligerent Palmerston after 1846 destroyed that friendly relationship. Brown argues that as foreign secretary from 1846 to 1851 and subsequently as prime minister, Palmerston sought to maintain the balance of power in Europe, sometimes even aligning with France to do so.<ref>David Brown, "Palmerston and Anglo–French Relations, 1846–1865," ''Diplomacy & Statecraft,'' (Dec 2006) 17#4 pp 675–692</ref><ref>Brown, ''Palmerston'' ch 9</ref>
+
+===Support for revolutions abroad===
+The revolutions of 1848 spread like a conflagration through Europe, and shook every throne on the Continent except those of Russia, Spain, and Belgium. Palmerston sympathised openly with the revolutionary party abroad. In particular, he was a strong advocate of [[national self-determination]], and stood firmly on the side of constitutional liberties on the Continent. Despite this, he was bitterly opposed to Irish independence, being very opposed to the [[Young Ireland]] movement.
+
+===Italian independence===
+No state was regarded by him with more aversion than [[Austrian Empire|Austria]]. Yet, his opposition to Austria was chiefly based upon her occupation of northeastern Italy and her Italian policy. Palmerston maintained that the existence of Austria as a great power north of the Alps was an essential element in the system of Europe. Antipathies and sympathies had a large share in the political views of Palmerston, and his sympathies had ever been passionately awakened by the cause of Italian independence. He supported the Sicilians against the [[Ferdinand II of the Two Sicilies|King]] of [[Naples]], and even allowed arms to be sent them from the arsenal at Woolwich. Although he had endeavoured to restrain the [[Charles Albert of Sardinia|King]] of [[Kingdom of Sardinia|Sardinia]] from his rash attack on the superior forces of Austria, he obtained for him a reduction of the penalty of defeat. Austria, weakened by the revolution, sent an envoy to London to request the mediation of Britain, based on a large cession of Italian territory. Palmerston rejected the terms he might have obtained for Piedmont. After a couple of years this wave of revolution was replaced by a wave of reaction.
+
+===Hungarian independence===
+In [[Hungary]] the civil war, which had thundered at the gates of [[Vienna]], was brought to a close by Russian intervention. [[Prince Felix of Schwarzenberg|Prince Schwarzenberg]] assumed the government of the empire with dictatorial power. In spite of what Palmerston termed his judicious bottle-holding, the movement he had encouraged and applauded, but to which he could give no material aid, was everywhere subdued. The British government, or at least Palmerston as its representative, was regarded with suspicion and resentment by every power in Europe, except the French republic. Even that was shortly afterwards to be alienated by Palmerston's attack on Greece. When [[Lajos Kossuth]], the Hungarian democrat and leader of its constitutionalists, landed in England, Palmerston proposed to receive him at Broadlands, a design which was only prevented by a peremptory vote of the cabinet.
+
+===Royal and parliamentary reaction to 1848===
+This state of things was regarded with the utmost annoyance by the British court and by most of the British ministers. On many occasions, Palmerston had taken important steps without their knowledge, which they disapproved.  Over the [[Foreign Office]] he asserted and exercised an arbitrary dominion, which the feeble efforts of the premier could not control. The Queen and the [[Albert, Prince Consort|Prince Consort]] did not conceal their indignation at the fact that they were held responsible for Palmerston's actions by the other Courts of Europe.
+
+When [[Benjamin Disraeli]] and others took several nights in the House of Commons to impeach Palmerston's foreign policy, the foreign minister responded to a five-hour speech by [[Thomas Chisholm Anstey|Anstey]] with a five-hour speech of his own, the first of two great speeches in which he laid out a comprehensive defence of his foreign policy and of liberal interventionism more generally. Reviewing his whole parliamentary career — reminding him, he joked, of a drowning man's visions of his past life — he said:
+
+{{quote |I hold that the real policy of England... is to be the champion of justice and right, pursuing that course with moderation and prudence, not becoming the Quixote of the world, but giving the weight of her moral sanction and support wherever she thinks that justice is, and whenever she thinks that wrong has been done.}}
+
+It is generally supposed that Russell and the Queen both hoped that the other would take the initiative and dismiss Palmerston; the Queen was dissuaded by Prince Albert, who took the limits of constitutional power very seriously, and Russell by Palmerston's prestige with the people and his competence in an otherwise remarkably inept Cabinet.
+
+===Don Pacifico Affair: Parliament and the Queen, 1850===
+In 1847 the home of [[Don Pacifico]], a Gibraltaran merchant living in Athens, Greece, was attacked by an anti-Semitic mob. The mob included the sons of a Greek government minister and, during the attack, Greek police did not intervene and stood by and watched the attack.<ref>Ridley, pp. 374–375.</ref>  Because Don Pacifico was a British subject, the British government expressed concern. In January 1850 Palmerston took advantage of Don Pacifico's claims on the Greek government and blockaded the port of Piraeus in the kingdom of Greece.<ref>Ridley, p. 379.</ref> As Greece was under the joint protection of three powers, Russia and France protested against its coercion by the British fleet.<ref>Ridley, p. 381.</ref>
+
+After a memorable debate (17 June), Palmerston's policy was condemned by a vote of the House of Lords. The House of Commons was moved by Roebuck to reverse the sentence, which it did 29 June by a majority of 46, after having heard from Palmerston on 25 June. This was the most eloquent and powerful speech he ever delivered, wherein he sought to vindicate not only his claims on the Greek government for Don Pacifico, but his entire administration of foreign affairs.
+{{wikisource|Don Pacifico Speech}}
+It was in this speech, which lasted five hours, Palmerston made the well known declaration that a British subject ought everywhere to be protected by the strong arm of the British government against injustice and wrong; comparing the reach of the British Empire to that of the Roman Empire, in which a Roman citizen could walk the earth unmolested by any foreign power. This was the famous ''[[Civis Romanus sum]]'' ("I am a citizen of Rome") speech.<ref>Ridley, p. 387.</ref> After this speech Palmerston's popularity had never been greater.<ref>Ridley, p. 394.</ref>
+
+Yet, notwithstanding this parliamentary triumph, there were not a few of his own colleagues and supporters who condemned the spirit in which the foreign relations of the Crown were carried on. In that same year, the Queen addressed a minute to the Prime Minister in which she recorded her dissatisfaction at the manner in which Palmerston evaded the obligation to submit his measures for the royal sanction as failing in sincerity to the Crown. This minute was communicated to Palmerston, who accepted its criticisms.<ref>Ridley, pp. 394–395.</ref>
+
+On 2 December 1851 [[Napoleon III|Louis Napoleon]]—who had been elected President of France in 1848—carried out a ''coup d'état'' by dissolving the National Assembly and arresting the leading Republicans. Palmerston privately congratulated Napoleon on his triumph, noting that Britain's constitution was rooted in history but that France had had five revolutions since 1789, with the French Constitution of 1850 being a "day-before-yesterday tomfoolery which the scatterbrain heads of Marrast and [[Alexis de Tocqueville|Tocqueville]] invented for the torment and perplexity of the French nation".<ref>Ridley, p. 398.</ref> However the Cabinet decided that Britain must be neutral and so Palmerston requested his officials to adopt a neutral attitude towards the ''coup''. However Prince Albert came to learn of Palmerston's favourable opinion of the ''coup'' and the Queen learnt that Palmerston had sent a dispatch without showing it to her first, in which he protested that he had merely expressed his personal opinion. Victoria demanded that the Prime Minister dismiss him, and so Palmerston duly resigned.<ref>Ridley, pp. 398–399.</ref>
+
+==Home Secretary: 1852–1855==
+After a brief period of Conservative minority government, the [[George Hamilton Gordon, 4th Earl of Aberdeen|Earl of Aberdeen]] became Prime Minister in a coalition government of Whigs and Peelites (with [[John Russell, 1st Earl Russell|Russell]] taking the role of Foreign Secretary and Leader of the [[British House of Commons|House of Commons]]). It was regarded as impossible for them to form a government without Palmerston, so he was made [[Home Secretary]] in December 1852. Many people considered this a curious appointment because Palmerston's expertise was so obviously in foreign affairs.<ref>Ridley, pp. 413–414.</ref> There was a story that after a great wave of strikes swept Northern England, the Queen summoned Palmerston to discuss the situation. When she enquired after the latest news, Palmerston is said to have replied: "There is no definite news, Madam, but it seems certain that the Turks have crossed the Danube".<ref name="Ridley, p. 414">Ridley, p. 414.</ref>
+
+===Social reform===
+Palmerston passed the Factory Act 1853 which removed loopholes in previous Factory Acts and outlawed all labour by young persons between 6pm and 6am.<ref>Ridley, pp. 406–407.</ref> He attempted to pass a Bill that confirmed the rights of workers to combine but this was thrown out by the House of Lords.<ref name="Ridley, p. 407">Ridley, p. 407.</ref> He introduced the [[Truck Acts|Truck Act]] which stopped the practice of employers paying workmen in goods instead of money, or forcing them to purchase goods from shops owned by the employers.<ref name="Ridley, p. 407"/> In August 1853 Palmerston introduced the Smoke Abatement Act in order to combat the increasing smoke from coal fires, a problem greatly aggravated by the Industrial Revolution.<ref name="Ridley, p. 407"/> He also oversaw the passage of the [[Vaccination Act 1853]] into law, which was introduced as a private member's bill, and which Palmerston persuaded the government to support. The Act made vaccination of children compulsory for the first time.<ref name="Ridley, p. 407"/> Palmerston outlawed the burying of the dead in churches. The right to bury the dead in churches was held by wealthy families whose ancestors had purchased the right in the past. Palmerston opposed this practice on public health grounds and ensured that all bodies were buried in the churchyard or public cemetery.<ref name="Ridley, p. 407"/>
+
+===Penal reform===
+Palmerston reduced the period in which prisoners could be held in [[solitary confinement]] from eighteen months to nine months.<ref>Ridley, p. 408.</ref> He also ended transportation to [[Tasmania|Van Diemen's Land]] for prisoners by passing the Penal Servitude Act 1853, which also reduced the maximum sentences for most offences.<ref>Ridley, pp. 408–409.</ref> Palmerston passed the Reformatory Schools Act 1854 which gave the Home Secretary powers to send juvenile prisoners to a reformatory school instead of prison. He was forced to accept an amendment which ensured that the prisoner had to have spent at least three months in jail first.<ref>Ridley, pp. 409–410.</ref> When in October 1854 Palmerston visited [[Parkhurst (HM Prison)|Parkhurst]] jail and conversed with three boy inmates, he was impressed by their behaviour and ordered that they be sent to a reformatory school. He found the ventilation in the cells unsatisfactory and ordered that they be improved.<ref>Ridley, p. 410.</ref>
+
+===Electoral reform===
+Palmerston strongly opposed [[John Russell, 1st Earl Russell|Lord John Russell]]'s plans for giving the vote to sections of the urban working-classes. When the Cabinet agreed in December 1853 to introduce a bill during the next session of Parliament in the form which Russell wanted, Palmerston resigned. However, Aberdeen told him that no definite decision on reform had been taken and persuaded Palmerston to return to the Cabinet.  The electoral Reform Bill did not pass Parliament that year.
+
+===Crimean War===
+Palmerston's exile from his traditional realm of the Foreign Office meant he did not have full control over British policy during the events precipitating the [[Crimean War]]. One of his biographers, [[Jasper Ridley]], argues that had he been in control of foreign policy at this time, war in the Crimea would have been avoided.<ref name="Ridley, p. 414"/> Palmerston argued in Cabinet, after Russian troops concentrated on the Ottoman border in February 1853, that the Royal Navy should join the French fleet in the [[Dardanelles]] as a warning to Russia. He was overruled, however.
+
+In May 1853 the Russians threatened to invade the principalities [[Wallachia]] and [[Moldavia]] unless the Ottoman Sultan surrendered to their demands. Palmerston argued for immediate decisive action; the Royal Navy should be sent to the Dardanelles to assist the Turkish navy and that Britain should inform Russia of her intention to go to war with her if she invaded the principalities. However, Aberdeen objected to all of Palmerston's proposals. After prolonged arguments, a reluctant Aberdeen agreed to send a fleet to the Dardanelles but objected to his other proposals. The Russian Tsar was annoyed by Britain's actions but it was not enough to deter him. When the British fleet arrived at the Dardanelles the weather was rough so the fleet took refuge in the outer waters of the straits. The Russians argued that this was a violation of the [[Straits Convention]] of 1841 and therefore invaded the two principalities. Palmerston thought that this was the result of British weakness and thought that if Russia had been told that if they invaded the principalities the British and French fleets would enter the [[Bosphorus]] or the [[Black Sea]], she would have been deterred.<ref>Ridley, pp. 415–416.</ref> In Cabinet, Palmerston argued for a vigorous prosecution of the war against Russia by Britain but Aberdeen objected, as he wanted peace. Public opinion was on the side of the Turks and with Aberdeen becoming steadily unpopular, [[Lord Dudley Stuart]] in February 1854 noted, "Wherever I go, I have heard but one opinion on the subject, and that one opinion has been pronounced in a single word, or in a single name – Palmerston."<ref>Ridley, p. 419.</ref>
+
+On 28 March 1854 Britain and France declared war on Russia for refusing to withdraw from the principalities. The war progressed slowly, with no gains in the Baltic and slow gains in Crimea at the long [[Siege of Sevastopol (1854–1855)]].  Dissatisfaction with the conduct of the war was growing with the public in Britain and in other countries, aggravated by reports of fiascoes and failures, especially the mismanagement of the heroic [[Charge of the Light Brigade]] at the [[Battle of Balaclava]]. The health and living conditions of the British soldiers was notorious  and the press, with correspondents in the field, made the most of it. Tories demanded an accounting of all soldiers, cavalry and sailors sent to the Crimea and accurate figures as to the number of casualties. When Parliament passed a bill to investigate by the vote of 305 to 148, Aberdeen said he had lost a vote of no confidence and resigned as prime minister on 30 January 1855.<ref>{{cite book|first=Dick |last=Leonard|title=The Great Rivalry: Gladstone and Disraeli|url={{Google books|7Kosl75aYPAC|The Great Rivalry: Gladstone and Disraeli|page=98|plainurl=yes}}|year=2013|publisher=I.B. Tauris|location=London|page=98}}</ref> 
+Queen Victoria deeply distrusted Palmerston and first asked [[Edward Smith-Stanley, 14th Earl of Derby|Lord Derby]] to accept the premiership. Derby offered Palmerston the office of Secretary of State for War which he accepted under the condition that [[George Villiers, 4th Earl of Clarendon|Clarendon]] remained as Foreign Secretary. Clarendon refused and so Palmerston refused Derby's offer and Derby subsequently gave up trying to form a government. The Queen sent for [[Henry Petty-FitzMaurice, 3rd Marquess of Lansdowne|Lansdowne]] but he was too old to accept:  so she asked Russell; but none of his former colleagues except Palmerston wanted to serve under him. Having exhausted the possible alternatives, the Queen invited Palmerston to Buckingham Palace on 4 February 1855 to form a government.
+
+==Prime Minister: 1855–1858==
+===Ending the Crimean War===
+Palmerston took a hard line on the war; he wanted to expand the fighting, especially in the Baltic where St. Petersburg could be threatened by superior British naval power. His goal was to permanently reduce the Russian threat to Europe. Sweden and Prussia were willing to join, and Russia stood alone. However, France, which had sent far more soldiers to the war than Britain, and had suffered far more casualties, wanted the war to end, as did Austria.<ref>Orlando Figes, ''The Crimean War: A History'' (2010) pp 402-408</ref>  In March 1855 the old Tsar died and was succeeded by his son, [[Alexander II of Russia|Alexander II]], who wished to make peace. However, Palmerston found the peace terms too soft on Russia and so persuaded [[Napoleon III of France]] to break off the peace negotiations until Sevastopol could be captured, putting the allies in a stronger negotiating position. In September Sevastopol finally surrendered and the allies had full control of the Black Sea theatre. Russia came to terms. On 27 February 1856 an armistice was signed and after a month's negotiations an agreement was signed at the [[Congress of Paris (1856)|Congress of Paris]]. Palmerston's demand for a demilitarised Black Sea was secured, although his wish for the Crimea to be returned to the Ottomans was not. The [[Treaty of Paris (1856)|peace treaty]] was signed on 30 March 1856. In April 1856 Palmerston was awarded the [[Order of the Garter]] by Victoria.
+
+===Arrow controversy and the Second Opium War===
+In October 1856 the Chinese seized the pirate ship ''Arrow'' and in the process, according to the local British official [[Harry Smith Parkes|Harry Parkes]], insulted the British flag. The Chinese Commissioner [[Ye Mingchen]] refused to apologize. The British shelled his compound and Ye retaliated by issuing a proclamation calling on the people of Canton to "unite in exterminating these troublesome English villains" and offering a $100 bounty for the head of any Englishman as the British factories outside the city were burned to the ground in reprisal.  Palmerston supported Parkes. In Parliament the British policy was strongly attacked on high moral grounds by [[Richard Cobden]] and Gladstone. Palmerston played the patriotism card, saying that Cobden demonstrated "an anti-English feeling, an abnegation of all those ties which bind men to their country and to their fellow-countrymen, which I should hardly have expected from the lips of any member of this House. Everything that was English was wrong, and everything that was hostile to England was right."<ref name=R467>Ridley, p. 467.</ref> Palmerston said that if the motion of censure was carried it would signal that the House had voted to "abandon a large community of British subjects at the extreme end of the globe to a set of barbarians – a set of kidnapping, murdering, poisoning barbarians."<ref name=R467/> The censure motion was carried by a majority of sixteen and the [[United Kingdom general election, 1857|election of 1857 followed]]. Palmerston's stance proved popular among a large section of the workers, the growing middle classes and the commercial and financial interests. With the expanded franchise, his party swept on a wave of popular feeling to a majority of 83, the largest since 1835. Cobden and [[John Bright]] lost their seats.
+
+In China the [[Second Opium War]] (1856–1860) was another humiliating defeat for Qing  dynasty.<ref>J. Y. Wong, ''Deadly Dreams: Opium, Imperialism, and the Arrow War (1856–1860) in China'' (1998)</ref>
+
+===Resignation===
+[[Image:Lord-Palmerston-Addressing-The-House-Of-Commons-During-The-Debates-On-The-Treaty-Of-France-In-February-1860,-1863.jpg|thumb|250px|Lord Palmerston Addressing the House of Commons During the Debates on the [[Cobden–Chevalier Treaty|Treaty of France]] in February 1860, as painted by [[John Phillip]] (1863).]]
+After the election, Palmerston passed the [[Matrimonial Causes Act 1857]] which for the first time made it possible for courts to grant a divorce and removed divorce from the jurisdiction of the ecclesiastical courts. The opponents in Parliament, which included Gladstone, were the first in British history to try to kill a bill by [[Filibuster|talking it out]]. Nonetheless, Palmerston was determined to get the bill through, which he did.
+
+In June news came to Britain of the [[Indian Rebellion of 1857]]. Palmerston sent Sir [[Colin Campbell, 1st Baron Clyde|Colin Campbell]] and reinforcements to India. Palmerston also agreed to transfer the authority of the [[British East India Company]] to the Crown. This was enacted in the [[Government of India Act 1858]].
+
+After the Italian republican [[Felice Orsini]] tried to assassinate the French emperor with a bomb made in Britain, the French were outraged (see [[Orsini affair]]). Palmerston introduced a Conspiracy to Murder Bill which made it a [[felony]] to plot in Britain to murder someone abroad. At first reading, the Conservatives voted for it but at second reading they voted against it. Palmerston lost by nineteen votes. Therefore, in February 1858 he was forced to resign.
+
+==Opposition: 1858–1859==
+However, the Conservatives lacked a majority and Russell introduced a resolution in March 1859 arguing for widening the franchise, which the Conservatives opposed but which was carried. Parliament was dissolved and [[United Kingdom general election, 1859|a general election]] ensued, which the Whigs won. Palmerston rejected an offer from Disraeli to become Conservative leader, but he attended the meeting of 6 June 1859 in Willis's Rooms at St James Street where the Liberal Party was formed. The Queen asked [[Granville Leveson-Gower, 2nd Earl Granville|Lord Granville]] to form a government but although Palmerston agreed to serve under him, Russell did not. Therefore, on 12 June the Queen asked Palmerston to become Prime Minister. Russell and Gladstone agreed to serve under him.
+
+==Prime Minister: 1859–1865==
+In his last premiership Palmerston oversaw the passage of important legislation. The [[Offences against the Person Act 1861]] codified and reformed the law, and was part of a wider process of [[criminal law consolidation Acts 1861|consolidating criminal law]]. The [[Companies Act 1862]] was the basis of modern company law.<ref>Ridley, p. 506.</ref>
+
+Palmerston was considered by some of his contemporaries to be a womaniser; ''[[The Times]]'' named him Lord Cupid (on account of his youthful looks), and he was cited, at the age of 79, as co-respondent in an 1863 divorce case, although it emerged that the case was nothing more than an attempted blackmail.
+
+===Relationship with Gladstone===
+Although both Palmerston and [[William Gladstone]] treated each other as gentleman, they disagreed fundamentally over Church appointments, foreign affairs, defence and reform.<ref>Ridley, p. 565.</ref> How to handle his Chancellor of the Exchequer was Palmerston's greatest problem during his last premiership. The MP Sir [[William Henry Gregory|William Gregory]] was told by a member of the Cabinet that "at the beginning of each session and after each holiday, Mr Gladstone used to come in charged to the muzzle with all sorts of schemes of all sorts of reforms which were absolutely necessary in his opinion to be immediately undertaken. Palmerston used to look fixedly at the paper before him, saying nothing until there was a lull in Gladstone's outpouring. He then rapped the table and said cheerfully: “Now, my Lords and gentlemen, let us go to business”."<ref>Ridley, p. 563.</ref> Palmerston told Lord Shaftesbury: "Gladstone will soon have it all his own way and whenever he gets my place we shall have strange doings". He told another friend that he thought Gladstone would wreck the Liberal Party and end up in a madhouse.<ref>Ridley, p. 566.</ref>
+
+When in May 1864 the MP [[Edward Baines (1800–1890)|Edward Baines]] introduced a Reform Bill in the Commons, Palmerston ordered Gladstone in his reply not to commit himself and the government to any particular scheme.<ref>Philip Guedalla (ed.), ''Gladstone and Palmerston, being the Correspondence of Lord Palmerston with Mr. Gladstone 1851–1865'' (London: Victor Gollancz, 1928), p. 279.</ref> Instead Gladstone said in his speech in the Commons that he did not see why any man should not have the vote unless he was mentally incapacitated, but added that this would not come about unless the working class showed an interest in reform. Palmerston believed that this was incitement to the working class to begin agitating for reform and told Gladstone: "What every Man and Woman too have a Right to, is to be well governed and under just Laws, and they who propose a change ought to shew that the present organization does not accomplish those objects".<ref>Guedalla, p. 282.</ref>
+
+===Defence===
+[[Second Italian War of Independence|French intervention in Italy]] had created an invasion scare and Palmerston established a [[Royal Commission on the Defence of the United Kingdom]] which reported in 1860. It recommended a huge [[Palmerston Forts|programme of fortifications]] to protect the [[Royal Navy Dockyards]] and ports, which Palmerston vigorously supported. Objecting to the enormous expense, Gladstone repeatedly threatened to resign as Chancellor when the proposals were accepted. Palmerston said that he had received so many resignation letters from Gladstone that he feared that they would set fire to the chimney.<ref>Ridley, p. 564.</ref>
+
+===American Civil War===
+Palmerston's sympathies in the [[American Civil War]] (1861–5) were with the secessionist [[Confederate States of America|Southern Confederacy]]. Although a professed opponent of the slave trade and slavery, he also had a deep lifelong hostility towards the United States and believed that a dissolution of the Union would weaken the United States (and therefore enhance British power) and that the Southern Confederacy "would afford a valuable and extensive market for British manufactures".<ref>Ridley, p. 552.</ref>
+
+At the beginning of the Civil War, Britain had issued [[s:British proclamation of neutrality in the American Civil War|a proclamation of neutrality]] on 13 May 1861. Palmerston decided to recognise the Confederacy as a [[belligerent]] and to receive their unofficial representatives (although he decided against recognising the South as a sovereign state because he thought this would be premature). The [[United States Secretary of State]], [[William H. Seward|William Seward]], threatened to treat as hostile any country which recognised the Confederacy. Britain depended more on American corn than Confederate cotton, and a war with the U.S. would not be in Britain's economic interest.<ref>{{cite book|author1=Thomas Paterson|author2=J. Garry Clifford|author3=Shane J. Maddock|title=American Foreign Relations: A History  to 1920|url=http://books.google.com/books?id=9-alDgRk-IYC&pg=PA149|year=2009|publisher=Cengage Learning|page=149}}</ref> Palmerston ordered that reinforcements be sent to the [[Province of Canada]] because he was convinced that the North would make peace with the South and then invade Canada. When news reached him of the Confederate victory at [[First Battle of Bull Run|Bull Run]] in July 1861 he was very pleased, although 15 months later he wrote that "the American [Civil] War...has manifestly ceased to have any attainable object as far as the Northerns are concerned, except to get rid of some more thousand troublesome Irish and Germans. It must be owned, however, that the Anglo-Saxon race on both sides have shown courage and endurance highly honourable to their stock".<ref name=R559>Ridley, p. 559.</ref>
+
+The [[Trent Affair|''Trent'' Affair]] in November 1861 produced a crisis. A U.S. Navy warship stopped the British steamer ''Trent'', and seized two Confederate envoys ''en route'' to Europe. British opinion was outraged. Palmerston called the action "a declared and gross insult". He demanded the release of the two diplomats, and ordered 3,000 troops to Canada. In a letter to Queen Victoria on 5 December 1861 he said that if his demands were not met, "Great Britain is in a better state than at any former time to inflict a severe blow upon and to read a lesson to the United States which will not soon be forgotten."<ref name=R554>Ridley, p. 554.</ref> In another letter to his Foreign Secretary the next day, he predicted war between Britain and the Union:
+
+<blockquote>It is difficult not to come to the conclusion that the rabid hatred of England which animates the exiled Irishmen who direct almost all the Northern newspapers, will so excite the masses as to make it impossible for Lincoln and Seward to grant our demands; and we must therefore look forward to war as the probable result.<ref name=R554/></blockquote>
+
+In fact Irishmen did not control any major newspapers in the North and Washington decided to release the prisoners rather than risk war. Lord Palmerston was convinced that the troops sent to Canada had persuaded the U.S. to acquiesce.<ref>Kenneth Bourne, "British Preparations for War with the North, 1861–1862," ''The English Historical Review'' Vol 76 No 301 (Oct 1961) pp 600–632 [http://www.jstor.org/stable/558199 in JSTOR]</ref>
+
+After the Confederate defeat at the [[Battle of Antietam]] in September 1862, and the subsequent issuance of the [[Emancipation Proclamation]], Palmerston declined [[Napoleon III of France]]'s proposal for the two powers to try to arbitrate the war.<ref name=R559/> Palmerston rejected all further efforts to gain British recognition for the Confederacy, as he thought the military situation did not warrant it.<ref name="R559"/>
+[[Image:Lord Palmerston 1863.jpg|thumb|left|200px|[[Carte de visite]] depicting Lord Palmerston, 1863.]]
+
+Another difficulty for Palmerston was the raiding ship [[CSS Alabama|CSS ''Alabama'']], built in [[Birkenhead]] in England. On 29 July 1862, a law officer's report he had commissioned advised him to detain ''Alabama'', as its construction was a breach of Britain's neutrality. Palmerston ordered ''Alabama'' detained on 31 July, but she had already put to sea before the order reached Birkenhead. In her subsequent cruise, ''Alabama'' captured or destroyed many Union merchant ships, as did other raiders also fitted out in Britain. (All of the raiders were armed after leaving Britain, though.)  The U.S. accused Britain of complicity in the construction of the raiders. This was the basis of the postwar [[Alabama claims|''Alabama'' claims]] for damages against Britain. Palmerston refused to pay damages or to refer the dispute to [[arbitration]]. After Palmerston's death, Gladstone acknowledged the U.S. claim and agreed to arbitration. Britain paid $15,500,000 as damages.
+
+===Denmark===
+The [[Kingdom of Prussia|Prussia]]n Chancellor [[Otto von Bismarck]] wanted to annex the Danish territory of Schleswig and the German territory of Holstein, whose Duke was the King of Denmark, chiefly for its port of [[Kiel]], and had an alliance with Austria for this purpose. In a speech to the Commons on 23 July 1863, Palmerston said the British government, like those of France and Russia, wished that "the independence, the integrity, and the rights of Denmark may be maintained. We are convinced—I am convinced at least—that if any violent attempt were made to overthrow those rights and interfere with that independence, those who made the attempt would find in the result that it would not be Denmark alone with which they would have to contend".<ref>Ridley, pp. 570–571.</ref> Palmerston's stance derived from the traditional belief that France was the greater threat to Britain and believed she was much stronger than Austria and Prussia.<ref name="Ridley, p. 571">Ridley, p. 571.</ref>
+
+For five months Bismarck did nothing. However in November the Danish government instituted a new constitution whereby Holstein was bound closer to Denmark. Schleswig had already been a part of Denmark for centuries. By the year's end, the Prussian and Austrian armies were massing on the [[River Eider]]. On 1 February 1864 the Prussian-Austrian armies [[Second Schleswig War|invaded Schleswig-Holstein]] and ten days afterwards the Danish government requested British help to resist this. Russell urged Palmerston to send a fleet to Copenhagen and persuade Napoleon III that he should mobilise his soldiers that were placed on the borders of Prussia's Rhineland provinces. Palmerston replied that the fleet could not do much to assist the Danes in Copenhagen and that nothing should be done to persuade Napoleon to cross the Rhine.<ref name="Ridley, p. 571"/>
+
+In April Austria's navy was on its way to attack Copenhagen and Palmerston saw the Austrian ambassador and informed him that Britain could not allow their navy to sail through the English Channel if their intent was to attack Denmark, and if it entered the Baltic the result would be war with Britain. The ambassador replied that the Austrian navy would not enter the Baltic and it did not do so.<ref name="Ridley, p. 572">Ridley, p. 572.</ref>
+
+Palmerston accepted Russell's suggestion that the war should be settled at a conference in London but at the conference in May and June the Danes refused to accept their loss of Schleswig-Holstein. The armistice ended on 26 June and Prussian-Austrian troops quickly invaded more of Denmark. On 25 June the Cabinet was against going to war to save Denmark but Russell's suggestion to send the Royal Navy to defend Copenhagen was only carried by Palmerston's vote. Palmerston however said the fleet could not be sent in view of the deep division in the Cabinet.<ref name="Ridley, p. 572"/>
+
+On 27 June Palmerston gave his statement to the Commons and said Britain would not go to war with the German powers unless the existence of Denmark as an independent power was at stake or that her capital was threatened. The Conservatives replied that Palmerston had betrayed the Danes and a vote of censure in the House of Lords was carried by nine votes. In the debate in the Commons the Conservative MP [[Jonathan Peel|General Peel]] said: "It is come to this, that the words of the Prime Minister of England{{sic}}, uttered in the Parliament of England, are to be regarded as mere idle menaces to be laughed at and despised by foreign powers?"<ref>Ridley, pp. 573–574.</ref> Palmerston replied in the last night of the debate: "I say that England stands as high as she ever did and those who say she had fallen in the estimation of the world are not the men to whom the honour and dignity of England should be confided".<ref name="Ridley, p. 574">Ridley, p. 574.</ref>
+
+The vote of censure was defeated by 313 votes to 295, with Palmerston's old enemies in the pacifist camp, Cobden and Bright, voting for him. The result of the vote was announced at 2.30 in the morning and when Palmerston heard the news he ran up the stairs to the Ladies' Gallery and embraced his wife. Disraeli wrote: "What pluck to mount those dreadful stairs at three o'clock in the morning, and eighty years of age!"<ref name="Ridley, p. 574"/>
+
+In a speech at his constituency at Tiverton in August, Palmerston told his constituents:
+
+<blockquote>I am sure every Englishman who has a heart in his breast and a feeling of justice in his mind, sympathizes with those unfortunate Danes (cheers), and wishes that this country could have been able to draw the sword successfully in their defence (continued cheers); but I am satisfied that those who reflect on the season of the year when that war broke out, on the means which this country could have applied for deciding in one sense that issue, I am satisfied that those who make these reflections will think that we acted wisely in not embarking in that dispute. (Cheers.) To have sent a fleet in midwinter to the Baltic every sailor would tell you was an impossibility, but if it could have gone it would have been attended by no effectual result. Ships sailing on the sea cannot stop armies on land, and to have attempted to stop the progress of an army by sending a fleet to the Baltic would have been attempting to do that which it was not possible to accomplish. (Hear, hear.) If England could have sent an army, and although we all know how admirable that army is on the peace establishment, we must acknowledge that we have no means of sending out a force at all equal to cope with the 300,000 or 400,000 men whom the 30,000,000 or 40,000,000 of Germany could have pitted against us, and that such an attempt would only have insured a disgraceful discomfiture—not to the army, indeed, but to the Government which sent out an inferior force and expected it to cope successfully with a force so vastly superior. (Cheers.) ... we did not think that the Danish cause would be considered as sufficiently British, and as sufficiently bearing on the interests and the security and the honour of England, as to make it justifiable to ask the country to make those exertions which such a war would render necessary.<ref>‘Lord Palmerston At Tiverton’, ''The Times'' (24 August 1864), p. 9.</ref></blockquote>
+
+===Electoral victory===
+Palmerston won another [[United Kingdom general election, 1865|general election in July 1865]], increasing his majority. The leadership of Palmerston was a great electoral asset to the Liberal Party.<ref>Ridley, p. 579.</ref> He then had to deal with the outbreak of [[Fenian]] violence in Ireland. Palmerston ordered the [[Viceroy of Ireland]], [[John Wodehouse, 1st Earl of Kimberley|Lord Wodehouse]], to take measures against this, including a possible suspension of trial-by-jury and a monitoring of Americans travelling to Ireland. He believed that the [[Fenian]] agitation was caused by America. On 27 September 1865 he wrote to the Secretary for War:
+
+<blockquote>The American assault on Ireland under the name of Fenianism may be now held to have failed, but the snake is only scotched and not killed. It is far from impossible that the American conspirators may try and obtain in our North American provinces compensation for their defeat in Ireland.<ref>Ridley, p. 581.</ref></blockquote>
+
+He advised that more armaments be sent to Canada and more troops sent to Ireland. During these last few weeks of his life, Palmerston pondered on developments in foreign affairs. He began thinking of a new friendship with France as "a sort of preliminary defensive alliance" against America and looked forward to Prussia becoming more powerful as this would balance against the growing threat from Russia. In a letter to Russell he warned him that Russia "will in due time become a power almost as great as the old Roman Empire...Germany ought to be strong in order to resist Russian aggression."<ref>Ridley, p. 582.</ref>
+
+==Death==
+Palmerston enjoyed robust health in old age,<ref>Hibbert, Christopher ''Disraeli: A Personal History'' (2004) p. 256</ref> living at [[Romsey]] in his home Foxhills, built in about 1840. On 12 October 1865 he caught a chill and instead of retiring immediately to bed he spent an hour-and-a-half dawdling. He then had a violent fever but his condition stabilised for the next few days. However on the night of 17 October his health worsened, and when his doctor asked him if he believed in regeneration of the world through Jesus Christ, Palmerston replied: "Oh, surely."<ref name="Ridley, p. 583">Ridley, p. 583.</ref> His last words were, "That's Article 98; now go on to the next." (He was thinking about diplomatic treaties.)<ref name="Ridley, p. 583"/> An apocryphal version of his last words is: "Die, my dear doctor? That is the last thing I shall do." He died at 10:45 am on Wednesday, 18 October 1865 two days before his eighty-first birthday. Although Palmerston wanted to be buried at [[Romsey Abbey]], the Cabinet insisted that he should have a [[state funeral]] and be buried at [[Westminster Abbey]], which he was, on 27 October 1865. He was the fourth person not of royalty to be granted a state funeral (after [[Isaac Newton|Sir Isaac Newton]], [[Horatio Nelson, 1st Viscount Nelson|Lord Nelson]], and the [[Arthur Wellesley, 1st Duke of Wellington|Duke of Wellington]]).
+
+Queen Victoria wrote after his death that though she regretted his passing, she had never liked or respected him: "Strange, and solemn to think of that strong, determined man, with so much worldly ambition – gone! He had often worried and distressed us, though as Pr. Minister he had behaved ''very well''."<ref name="Ridley, p. 584">Ridley, p. 584.</ref> [[Florence Nightingale]] reacted differently upon hearing of his death: "He will be a great loss to us. Tho' he made a joke when asked to do the right thing, he always did it. No one else will be able to carry things thro' the Cabinet as he did. I shall lose a powerful protector...He was so much more in earnest than he appeared. He did not do himself justice."<ref name="Ridley, p. 584"/>
+
+He was succeeded by his stepson [[William Cowper-Temple, 1st Baron Mount Temple|William Cowper-Temple]] (later created [[Baron Mount Temple|The 1st Baron Mount Temple]]), whose inheritance included a 10,000 acre estate in the north of [[County Sligo]] in the west of [[Ireland]], on which his stepfather had commissioned the building of the incomplete [[Classiebawn Castle]].<ref>{{cite web|url = http://www.sligoheritage.com/archirishvillage.htm|title= Profile of an Irish Village-Palmerston and the Conquest, Colonisation and Evolution of Mullaghmore, Co. Sligo|accessdate = 26 September 2013}}</ref>
+
+==Legacy==
+Palmerston has traditionally been viewed as "a Conservative at home and a Liberal abroad".<ref>Ridley, p. 587.</ref> He believed that the British constitution as secured by the [[Glorious Revolution]] of 1688 was the best which human hands had made, with a constitutional monarchy subject to the laws of the land but retaining some political power. He supported the rule of law and opposed further democratisation after the Reform Act 1832. He wished to see this liberal system of a mixed constitution in-between the two extremes of absolute monarchy and republican democracy replace the absolute monarchies on the Continent.<ref>Ridley, p. 588.</ref> More recently some historians have seen his domestic policies as Prime Minister as not merely liberal but genuinely progressive by the standards of his era.<ref>David Steele, ''Palmerston and Liberalism, 1855–1865'' (Cambridge University Press, 1991).</ref>
+
+However it is in foreign affairs that Palmerston is chiefly remembered. Palmerston's principal aim in foreign policy was to advance the national interests of England.<ref name="Ridley, p. 589"/> Palmerston is famous for his patriotism. [[Lord John Russell]] said that "his heart always beat for the honour of England".<ref>''The Times'' (10 November 1865), p. 7.</ref> Palmerston believed it was in Britain's interests that liberal governments be established on the Continent. He also practised brinkmanship and bluff in that he was prepared to threaten war to achieve Britain's interests.<ref>Ridely, p. 589.</ref>
+
+When in 1886 [[Archibald Primrose, 5th Earl of Rosebery|Lord Rosebery]] became Foreign Secretary in Gladstone's government, John Bright asked him if he had read about Palmerston's policies as Foreign Secretary. Rosebery replied that he had. "Then", said Bright, "you know what to avoid. Do the exact opposite of what he did. His administration at the Foreign Office was one long crime."<ref>Ridley, p. 591.</ref> The [[John Campbell, 9th Duke of Argyll|Marquis of Lorne]] said of Palmerston in 1866: "He loved his country and his country loved him. He lived for her honour, and she will cherish his memory."<ref>{{cite book|title=Edinburgh Review|url=http://books.google.com/books?id=miQ4AQAAIAAJ&pg=PA275|year=1866|page=275}}</ref>
+
+In 1889 Gladstone recounted a story of when "a Frenchman, thinking to be highly complimentary, said to Palmerston: 'If I were not a Frenchman, I should wish to be an Englishman'; to which Pam coolly replied: 'If I were not an Englishman, I should wish to be an Englishman.'"<ref name="Ridley, p. 589">Ridley, p. 589.</ref> When [[Winston Churchill]] campaigned for rearmament in the 1930s, he was compared to Palmerston in warning the nation to look to its defences.<ref>Martin Gilbert, ''Winston Churchill. The Wilderness Years'' (London: Book Club Associates, 1981), pp. 106–107.</ref> The policy of [[appeasement]] led General [[Jan Smuts]] to write in 1936 that "we are afraid of our shadows. I sometimes long for a ruffian like Palmerston or any man who would be more than a string of platitudes and apologies."<ref>W. K. Hancock, ''Smuts. Volume II: The Fields of Force. 1919–1950'' (Cambridge: Cambridge University Press, 1968), p. 281.</ref>
+
+He was also an avowed [[Abolitionism in the United Kingdom|abolitionist]] whose attempts to abolish the slave trade was one of the most consistent elements of his foreign policy. His opposition to the slave trade created tensions with Southern American countries and the United States over his insistence that the British navy had the right to search the vessels of any country if they suspected the vessels were being used in the slave trade.
+
+Historian [[A.J.P. Taylor]] has summarised his career by emphasising the paradoxes:
+:For twenty years junior minister in a Tory government, he became the most successful of Whig Foreign Secretaries; though always a Conservative, he ended his life by presiding over the transition from Whiggism to Liberalism. He was the exponent of British strength, yet was driven from office for truckling to a foreign despot; he preached the Balance of Power, yet helped to inaugurate the policy of isolation and of British withdrawal from Europe. Irresponsible and flippant, he became the first hero of the serious middle-class electorate. He reached high office solely through an irregular family connection; he retained it through skilful use of the press—the only Prime Minister to become an accomplished leader-writer.<ref>A. J. P. Taylor, "Lord Palmerston," ''History Today'' Jan 1991, Vol. 41#1 p 1</ref>
+
+Palmerston is also remembered for his light-hearted approach to government. He is once said to have claimed of a particularly intractable problem relating to [[Schleswig-Holstein question|Schleswig-Holstein]], that only three people had ever understood the problem: one was [[Prince Albert of Saxe-Coburg-Gotha|Prince Albert]], who was dead; the second was a German professor, who had gone insane; and the third was himself, who had forgotten it.
+
+''The Life of Lord Palmerston up to 1847'' was written by Lord Dalling ([[Henry Bulwer, 1st Baron Dalling and Bulwer|Sir H. Lytton Bulwer]]), volumes I and II (1870), volume III edited and partly written by Evelyn Ashley (1874), after the author's death. Ashley completed the biography in two more volumes (1876). The whole work was reissued in a revised and slightly abridged form by Ashley in 2 volumes in 1879, with the title ''The Life and Correspondence of Henry John Temple, Viscount Palmerston''; the letters are judiciously curtailed, but unfortunately without indicating where the excisions occur; the appendices of the original work are omitted, but much fresh matter is added, and this edition is undoubtedly the standard biography.<ref>Stanley Lane-Poole, '[[s:Temple, Henry John (DNB00)|Temple, Henry John]]', ''Dictionary of National Biography, 1885–1900, Volume 56''.</ref>  An early "biographer" of Palmerston was [[Karl Marx]] in 1853.<ref>[http://www.marxists.org/archive/marx/works/1853/palmerston/index.htm ''The Story of the Life of Lord Palmerston'']</ref>
+
+===Places named===
+[[File:Palmerston - geograph.org.uk - 259077.jpg|thumb|right|200px|Palmerston's Memorial in Southampton]] 
+*The Town of Palmerston located in Southwestern Ontario, Canada was founded and named after Lord Palmerston in 1875. Palmerston is now part of the amalgamated town of Minto.
+* Two distant places in [[New Zealand]] are named after him: the town of [[Palmerston, New Zealand|Palmerston]], in the [[South Island]], and the city of [[Palmerston North]], in the [[North Island|North]].
+*The Australian city of [[Darwin, Northern Territory|Darwin]] was previously named Palmerston in honour of the Viscount. However a satellite city called [[Palmerston, Northern Territory|Palmerston]] was established adjacent to Darwin in 1971.
+*Canberra, Australia has a suburb named [[Palmerston, Australian Capital Territory|Palmerston]], Located in the outer-north of the city.
+*Palmerston Atoll is the most northerly of the Southern Group of the Cook Islands in the South Pacific Ocean.  Amongst the 15 or so islands of the atoll, Palmerston Island is the only one which is inhabited.
+*In the [[Rathmines]] area of [[Dublin]] 6 in the southern suburbs, villas are named after Lord Palmerston, as well as Temple Road and Palmerston Road. Both are quasi-translated variously as Bóthar an Stiguaire, Bóthar P(h)almerston, Bóthar Baile an Phámar and Bóthar an Teampaill.
+*Several places in [[Portsmouth]] are named after Palmerston – notably [[Southsea]]'s main shopping precinct, Palmerston Road.
+*Palmerston Road in [[East Sheen]], London, SW14
+*Palmerston Place in the [[ West End, Edinburgh]], EH12
+*Palmerston Road in [[Walthamstow]], London & The Lord Palmerston Pub at the junction of Palmerston Road and Forest Road.
+*The Lord Palmerston public house in [[Dartmouth Park]], London, NW5 is named after Palmerston.
+*Palmerston Park, [[Southampton]] was named after him, as was nearby Palmerston Road. A seven-foot high marble statue of Palmerston was erected in the park and unveiled on 2 June 1869.<ref>{{cite web|title=Palmerston Park |url=http://www.southampton.gov.uk/s-leisure/parksgreenspaces/citycentreparks/palmerstonpark.aspx|work=City Centre Parks |publisher=Southampton City Council|accessdate=22 June 2012}}</ref>
+*Palmerston Street in [[Derby]]
+*[[Palmerston Boulevard]] and Palmerston Avenue in [[Toronto]] are named for him.
+
+==Cultural references==
+*''[[Flashman in the Great Game]]'' – Early in this historical novel, Lord Palmerston sends [[Harry Paget Flashman|Flashman]] on a mission to India. It happens that the [[Indian rebellion of 1857]] is about to break out.
+*''[[The Simpsons]]'' – In the episode "[[Homer at the Bat]]", [[Barney Gumble]] and [[Wade Boggs]] come to blows over who the UK's greatest Prime Minister was (Barney supported Lord Palmerston, while Boggs favoured [[Pitt the Elder]]). Barney ended the argument by knocking Boggs out cold. He then proceeded to knock [[Moe Szyslak|Moe the bartender]] out after mistakenly thinking that ''he'' was proclaiming Pitt the Elder as being better than Lord Palmerston.
+*''[[1862 (novel)|1862]]'' – Palmerston is featured in the [[alternate history]] novel by [[Robert Conroy]], depicting an [[American Civil War]] in which [[Great Britain]] allies itself with the [[Confederate States of America|Confederacy]] after the [[Trent Affair]] at the direction of Palmerston.
+*''[[Skyfall]]'' – A close-up shot of a statue of Lord Palmerston features in an early scene from the 23rd James Bond film. The scene is one of many in which imperial imagery features prominently.
+*''[[Harry Potter]]'' – On ''[[Pottermore]]'', [[J. K. Rowling]] wrote that Lord Palmerston was the subject of an irrational loathing by Priscilla Dupont ([[Minister for Magic]] in office 1855-1858). Dupont was forced to step down from her office after causing all sorts of trouble for Lord Palmerston, including coins in his coat pockets turning to frogspawn. Ironically, Palmerston was forced to resign two days after Dupont was.
+
+==Lord Palmerston's First Cabinet, February 1855 – February 1858==
+[[Image:Lord-palmerston.png|thumb|Palmerston addressing the House of Commons]]
+
+*Lord Palmerston – [[First Lord of the Treasury]] and [[Leader of the House of Commons]]
+*[[Robert Rolfe, 1st Baron Cranworth|Lord Cranworth]] – [[Lord Chancellor]]
+*[[Granville Leveson-Gower, 2nd Earl Granville|Lord Granville]] – [[Lord President of the Council]] and [[Leader of the House of Lords]]
+*[[George Douglas Campbell, 8th Duke of Argyll|The Duke of Argyll]] – [[Lord Privy Seal]]
+*[[Sir George Grey, 2nd Baronet|Sir George Grey]] – [[Secretary of State for the Home Department]]
+*[[George Villiers, 4th Earl of Clarendon|Lord Clarendon]] – [[Secretary of State for Foreign Affairs]]
+*[[Sidney Herbert, 1st Baron Herbert of Lea|Sidney Herbert]] – [[Secretary of State for the Colonies]]
+*[[Fox Maule Ramsay, 11th Earl of Dalhousie|Lord Panmure]] – [[Secretary of State for War]]
+*[[Sir James Graham, 2nd Baronet|Sir James Graham]] – [[First Lord of the Admiralty]]
+*[[William Ewart Gladstone]] – [[Chancellor of the Exchequer]]
+*[[Charles Wood, 1st Viscount Halifax|Sir Charles Wood]] – [[President of the Board of Control]]
+*[[Edward Stanley, 2nd Baron Stanley of Alderley|Lord Stanley of Alderley]] – [[President of the Board of Trade]]
+*[[Dudley Ryder, 2nd Earl of Harrowby|Lord Harrowby]] – [[Chancellor of the Duchy of Lancaster]]
+*[[Sir William Molesworth, 8th Baronet]] – [[First Commissioner of Works]]
+*[[Charles Canning, 1st Earl Canning|Lord Canning]] – [[United Kingdom Postmaster General|Postmaster-General]]
+*[[Henry Petty-FitzMaurice, 3rd Marquess of Lansdowne|Lord Lansdowne]] – Minister without Portfolio
+
+===Changes===
+*Later in February 1855 – [[George Cornewall Lewis|Sir George Cornewall Lewis]] succeeds Gladstone as [[Chancellor of the Exchequer]]. [[John Russell, 1st Earl Russell|Lord John Russell]] succeeds Herbert as Colonial Secretary. Sir Charles Wood succeeds Sir James Graham as First Lord of the Admiralty. [[Robert Vernon Smith, 1st Baron Lyveden|R.V. Smith]] succeeds Wood as President of the Board of Control
+*July 1855 – Sir William Molesworth succeeds Russell as Colonial Secretary. Molesworth's successor as First Commissioner of Public Works is not in the Cabinet.
+*November 1855 – [[Henry Labouchere, 1st Baron Taunton|Henry Labouchere]] succeeds Molesworth as Colonial Secretary
+*December 1855 – The Duke of Argyll succeeds Lord Canning as Postmaster-General. Lord Harrowby succeeds Argyll as Lord Privy Seal. Harrowby's successor as Chancellor of the Duchy of Lancaster is not in the Cabinet
+*1857 – [[Matthew Talbot Baines|M.T. Baines]], the Chancellor of the Duchy of Lancaster, enters the Cabinet.
+*February 1858 – [[Ulick de Burgh, 1st Marquess of Clanricarde|Lord Clanricarde]] succeeds Harrowby as Lord Privy Seal.
+
+==Lord Palmerston's Second Cabinet, June 1859 – October 1865==
+[[Image:Henry Temple, 3rd Viscount Palmerston - Project Gutenberg eText 13103.jpg|thumb|upright|Henry Temple, 3rd Viscount Palmerston]]
+*Lord Palmerston – [[First Lord of the Treasury]] and [[Leader of the House of Commons]]
+*[[John Campbell, 1st Baron Campbell of St Andrews|Lord Campbell]] – [[Lord Chancellor]]
+*[[Granville George Leveson-Gower, 2nd Earl Granville|Lord Granville]] – [[Lord President of the Council]] and [[Leader of the House of Lords]]
+*The [[George Douglas Campbell, 8th Duke of Argyll|Duke of Argyll]] – [[Lord Privy Seal]]
+*Sir [[George Cornewall Lewis]] – [[Secretary of State for the Home Department]]
+*[[John Russell, 1st Earl Russell|Lord John Russell]] – [[Secretary of State for Foreign Affairs]]
+*[[Henry Pelham-Clinton, 5th Duke of Newcastle|The Duke of Newcastle]] – [[Secretary of State for the Colonies]]
+*[[Sidney Herbert, 1st Baron Herbert of Lea|Sidney Herbert]] – [[Secretary of State for War]]
+*[[Charles Wood, 1st Viscount Halifax|Sir Charles Wood]] – [[Secretary of State for India]]
+*[[Edward Adolphus Seymour, 12th Duke of Somerset|The Duke of Somerset]] – [[First Lord of the Admiralty]]
+*[[William Ewart Gladstone]] – [[Chancellor of the Exchequer]]
+*[[Edward Cardwell, 1st Viscount Cardwell of Ellerbeck|Edward Cardwell]] – [[Chief Secretary for Ireland]]
+*[[Thomas Milner Gibson]] – [[President of the Board of Trade]] and of the [[President of the Poor Law Board|Poor Law Board]]
+*[[Sir George Grey, 2nd Baronet|Sir George Grey]] – [[Chancellor of the Duchy of Lancaster]]
+*[[James Bruce, 8th Earl of Elgin|Lord Elgin]] – [[United Kingdom Postmaster General|Postmaster-General]]
+
+===Changes===
+*July 1859 – [[Charles Pelham Villiers]] succeeds Milner-Gibson as [[President of the Poor Law Board]] (Milner-Gibson remains at the Board of Trade)
+*May 1860 – [[Edward Stanley, 2nd Baron Stanley of Alderley|Lord Stanley of Alderley]] succeeds Lord Elgin as Postmaster-General
+*June 1861 – [[Richard Bethell, 1st Baron Westbury|Lord Westbury]] succeeds Lord Campbell as Lord Chancellor
+*July 1861 – Sir George Cornewall Lewis succeeds Herbert as Secretary for War.  Sir George Grey succeeds Lewis as Home Secretary.  Edward Cardwell succeeds Grey as Chancellor of the Duchy of Lancaster.  Cardwell's successor as Chief Secretary for Ireland is not in the Cabinet.
+*April 1863 – [[George Robinson, 1st Marquess of Ripon|Lord de Grey]] becomes Secretary for War following Sir George Lewis's death.
+*April 1864 – Edward Cardwell succeeds the Duke of Newcastle as Colonial Secretary. [[George Villiers, 4th Earl of Clarendon|Lord Clarendon]] succeeds Cardwell as Chancellor of the Duchy of Lancaster.
+*July 1865 – [[Robert Rolfe, 1st Baron Cranworth|Lord Cranworth]] succeeds Lord Westbury as [[Lord Chancellor]]
+==Ancestry==
+{{ahnentafel top|width=100%}}
+<center>{{ahnentafel-compact5
+|style=font-size: 90%; line-height: 110%;
+|border=1
+|boxstyle=padding-top: 0; padding-bottom: 0;
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1= 1. Rt. Hon. '''Henry John Temple, third Viscount Palmerston'''
+
+|2= 2. Rt. Hon. Henry Temple, second Viscount Palmerston<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, pp. 187–8.</ref>
+|3= 3. Mary Mee<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 188.</ref>
+
+|4= 4. Hon. Henry Temple<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187.</ref>
+|5= 5. Jane Barnard<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187.</ref>
+|6= 6. Banjamin Mee<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 188.</ref>
+|7= 7. Elizabeth Man<ref name=Gen>E.J. Davies, "The Ancestry of Lord Palmerston", ''The Genealogist'', 22, 2008, pp. 62–77</ref>
+
+|8= 8. Rt. Hon. Henry Temple, first Viscount Palmerston<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187.</ref>
+|9= 9. Anne Houblon<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187 ; she was heir to her brother, Sir Richard Houblon.</ref>
+|10= 10. Sir John Barnard<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187 ; Lord Mayor of London.</ref>
+|11= 11. Jane Godschall<ref>E. Cruickshanks, "Barnard, John (c.1685–1764), of Mincing Lane, London, and Clapham, Surr.", ''The History of Parliament: the House of Commons 1715–1754'', ed. R. Sedgwick, 1970.</ref>
+|12= 12. Benjamin Mee<ref name=Gen/>
+|13= 13. Sarah Hooper<ref name=Gen/>
+|14= 14. William Man<ref name=Gen/>
+|15= 15. Mary Malcher<ref name=Gen/>
+
+|16= 16. Sir John Temple<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187 ; Solicitor General, Attorney General and Speaker of the House of Commons ; son of the Rt. Hon. Sir John Temple, sometime Master of the Rolls.</ref>
+|17= 17. Jane Yarner<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187 ; daughter of Sir Abraham Yarner, Muster-Master-General of Ireland.</ref>
+|18= 18. Abraham Houblon<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187 ; a Governor of the Bank of England.</ref>
+|19= 19. Dorothy Herbert<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 6, 1895, p. 187 ; of Essex.</ref>
+|20= 20. John Barnard<ref>E. Cruickshanks, "Barnard, John (c.1685–1764), of Mincing Lane, London, and Clapham, Surr.", ''The History of Parliament: the House of Commons 1715–1754'', ed. R. Sedgwick, 1970 ; a London merchant, of George Lane, St. Botolph's.</ref>
+|21= 21. Sarah Payne<ref>E. Cruickshanks, "Barnard, John (c.1685–1764), of Mincing Lane, London, and Clapham, Surr.", ''The History of Parliament: the House of Commons 1715–1754'', ed. R. Sedgwick, 1970 ; daughter of Robert Payne, of Play Hatch, Sonning, Berkshire.</ref>
+|22= 22. John Godschall<ref>E. Cruickshanks, "Barnard, John (c.1685–1764), of Mincing Lane, London, and Clapham, Surr.", ''The History of Parliament: the House of Commons 1715–1754'', ed. R. Sedgwick, 1970 ; a Turkey merchant.</ref>
+|23= 23. Bethia Charleton<ref>''Notes and Queries: a Medium of Interchange for Literary Men, General Readers, Etc.'', 10th series, vol. vii, 1907, pp. 132–3 ; daughter and coheir of Nicholas Charleton of St. Bennet's Paul's Wharf, and sister of Sir Robert Godschall, Lord Mayor of London.</ref>
+|24= 24. Thomas Mee<ref name=Gen/>
+|25= 25. Elizabeth Pierce<ref name=Gen/>
+|26= 26. Benjamin Hooper<ref name=Gen/>
+|27= 27. Mary Wickes<ref name=Gen/>
+|28= 28. Thomas Man<ref name=Gen/>
+|29= 29. Sarah Haynes<ref name=Gen/>
+|30= 30. Richard Malcher<ref>Cokayne, ''Complete Peerage'', 1st ed., vol. 7, 1896, p. 411 ; Cokayne and Gibbs, ''Complete Peerage'', 2nd ed., vol. 3, p. 422 ; of Caledon and Kinard, county Tyrone.</ref>
+|31= 31. Dorcas Upton<ref name=Gen/>
+}}
+{{ahnentafel bottom}}
+
+==Notes==
+{{reflist|30em}}
+
+==Further reading==
+* Bell, H.C.F. ''Lord Palmerston'' (Archon Books, 1966)
+* Bourne, Kenneth. ''The foreign policy of Victorian England, 1830-1902'' (Clarendon Press, 1970) 
+* Bourne, Kenneth. "The Clayton-Bulwer Treaty and the Decline of British Opposition to the Territorial Expansion of the United States, 1857-60." ''Journal of Modern History'' (1961): 287-291. [http://www.jstor.org/stable/1876138 in JSTOR]
+*Brown, David. ''Palmerston'' (Yale, 2010). ISBN 978-0-300-11898-8, a major scholarly biography
+* Brown, David. ''Palmerston and the politics of foreign policy, 1846-55'' (Manchester University Press, 2002) [http://eprints.soton.ac.uk/42314/1.hasCoversheetVersion/0000327.pdf 1998 PhD dissertation version]
+* Brown, David. "Compelling but not Controlling?: Palmerston and the Press, 1846–1855." ''History'' (2001) 86#201 pp: 41-61.
+* Brown, David. "The Power of Public Opinion: Palmerston and the Crisis of December 1851" ''Parliamentary History'' (2001) 20$3 pp: 333-358.
+* Fenton, Laurence. "Origins of Animosity: Lord Palmerston and The Times, 1830–41." ''Media History'' (2010) 16#4 pp: 365-378.
+* Fenton, Laurence. ''Palmerston and The Times: Foreign Policy, the Press and Public Opinion in Mid-Victorian Britain'' (IB Tauris, 2013)
+* Fuller, Howard J. ''Technology and the Mid-Victorian Royal Navy: Ironc: Royal Navy Crisis in the Age of Palmerston'' (Routledge, 2014)
+*Philip Guedalla, ''Palmerston'' (London: Ernest Benn, 1926)
+* Hicks, Geoffrey. ''Peace, war and party politics: the Conservatives and Europe, 1846-59'' (Manchester University Press, 2007)
+* Hoppen, K. Theodore. ''The Mid-Victorian Generation, 1846-1886'' (1998) major survey of British history; [http://www.questia.com/read/35631622/the-mid-victorian-generation-1846-1886#/25#25 online]
+* Martin, Kingsley. ''The triumph of Lord Palmerston: a study of public opinion in England before the Crimean War'' (1963)
+*Ridley, Jasper. ''Lord Palmerston'' (London: Constable, 1970), full-scale biography.
+*Steele, David ‘[http://www.oxforddnb.com/view/article/27112 Temple,  Henry John, third Viscount Palmerston  (1784–1865)]’, ''Oxford Dictionary of National Biography'', (Oxford University Press,  2004; online edn, May 2009, accessed 11 December 2010); short scholarly biography
+* Webster, Charles K. ''The Foreign Policy of Palmerston, 1830-1841: Britain, the Liberal Movement, and the Eastern Question'' (2 vol 1952) [https://www.questia.com/library/3745971/the-foreign-policy-of-palmerston-1830-1841-britain v1 online]; [https://www.questia.com/library/99495297/the-foreign-policy-of-palmerston-1830-1841-britain v 2 online]
+===Primary sources===
+*Kenneth Bourne (ed.), ''The Letters of the Third Viscount Palmerston to Laurence and Elizabeth Sulivan. 1804–1863'' (London: The Royal Historical Society, 1979).
+* * Kenneth Bourne, ''The foreign policy of Victorian England, 1830-1902'' (Clarendon Press, 1970) pp 195-504 are "selected documents," many of them by Palmerston
+*George Henry Francis, ''Opinions and Policy of The Right Honourable Viscount Palmerston, G.C.B., M.P., &c. as Minister, Diplomatist, and Statesman, During More Than Forty Years of Public Life'' (London: Colburn and Co., 1852).
+*Philip Guedalla (ed.), ''Gladstone and Palmerston, being the Correspondence of Lord Palmerston with Mr. Gladstone 1851–1865'' (London: Victor Gollancz, 1928).
+
+==Further reading==
+*H. C. F. Bell, ''Lord Palmerston'' (London: Longmans, 1936, 2 volumes).
+*Kenneth Bourne, ''Palmerston: The Early Years, 1784–1841'' (London: Viking, 1982).
+* Bourne, Kenneth. ''The foreign policy of Victorian England, 1830-1902'' (Oxford UP, 1970); pp 195-504 are "selected documents", many of them by Palmerston
+* David Brown, "Palmerston and Anglo–French Relations, 1846–1865," ''Diplomacy and Statecraft'' (2006) 17#4 pp 675–692.
+*Donald Southgate, ''‘The most English minister...’: The Policies and Politics of Palmerston'' (London: Macmillan, 1966).
+*E. D. Steele, ''Palmerston and Liberalism, 1855–1865'' (Cambridge: Cambridge University Press, 1991).
+*Charles Webster, ''The Foreign Policy of Palmerston, 1830–1841: Britain, the Liberal Movement and the Eastern Question'' (London: Bell, 1951, 2 volumes).
+
+== External links ==
+* {{Hansard-contribs | viscount-palmerston | Viscount Palmerston }}
+{{sisterlinks|s=Author:Henry Temple, 3rd Viscount Palmerston}}
+* [http://www.liberalhistory.org.uk/item_single.php?item_id=13&item=biography Viscount Palmerston 1784–1865] biography from the Liberal Democrat History Group
+* [http://pm.gov.uk/output/Page149.asp More about Viscount Palmerston] on the Downing Street website.
+* {{Cite EB1911|wstitle=Palmerston, Henry John Temple, 3rd Viscount}}
+* {{EB1911}}
+* {{NRA | id=P28108}}
+* {{npg name|id=03436|name=Henry John Temple, 3rd Viscount Palmerston}}
+*[http://www.edwardjdavies.info/PMs/temple.htm Ancestors of Lord Palmerston]
+*[http://www.genealogics.org/pedigree.php?personID=I00048035&tree=LEO genealogics.org]
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Granville Leveson-Gower, 1st Earl Granville|Lord Granville Leveson-Gower]]}}
+{{s-ttl|title=[[Secretary at War]]|years=1809–1828}}
+{{s-aft|after=[[Henry Hardinge, 1st Viscount Hardinge|Sir Henry Hardinge]]}}
+{{s-bef|before=[[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]}}
+{{s-ttl|title=[[Secretary of State for Foreign Affairs|Foreign Secretary]]|years=1830–1834}}
+{{s-aft|after=[[Arthur Wellesley, 1st Duke of Wellington|The Duke of Wellington]]}}
+{{s-bef|before=[[Arthur Wellesley, 1st Duke of Wellington|The Duke of Wellington]]}}
+{{s-ttl|title=[[Secretary of State for Foreign Affairs|Foreign Secretary]]|years=1835–1841}}
+{{s-aft|after=[[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]}}
+{{s-bef|before=[[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]}}
+{{s-ttl|title=[[Secretary of State for Foreign Affairs|Foreign Secretary]]|years=1846–1851}}
+{{s-aft|after=[[Granville George Leveson-Gower, 2nd Earl Granville|The Earl Granville]]}}
+{{s-bef|before=[[Spencer Horatio Walpole|Spencer Walpole]]}}
+{{s-ttl|title=[[Secretary of State for the Home Department|Home Secretary]]|years=1852–1855}}
+{{s-aft|after=[[Sir George Grey, 2nd Baronet|Sir George Grey]]}}
+{{s-bef|before=[[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]}}
+{{s-ttl|title=[[Prime Minister of the United Kingdom]]|years=6 February 1855 – 19 February 1858}}
+{{s-aft|after=[[Edward Smith-Stanley, 14th Earl of Derby|The Earl of Derby]]}}
+{{s-bef|before=[[John Russell, 1st Earl Russell|Lord John Russell]]}}
+{{s-ttl|title=[[Leader of the House of Commons]]|years=1855–1858}}
+{{s-aft|after=[[Benjamin Disraeli, 1st Earl of Beaconsfield|Benjamin Disraeli]]}}
+{{s-bef|before=[[Edward Smith-Stanley, 14th Earl of Derby|The Earl of Derby]]}}
+{{s-ttl|title=[[Prime Minister of the United Kingdom]]|years=12 June 1859 – 18 October 1865}}
+{{s-aft|after=[[John Russell, 1st Earl Russell|The Earl Russell]]}}
+{{s-bef|before=[[Benjamin Disraeli, 1st Earl of Beaconsfield|Benjamin Disraeli]]}}
+{{s-ttl|title=[[Leader of the House of Commons]]|years=1859–1865}}
+{{s-aft|after=[[William Ewart Gladstone]]}}
+{{s-par|uk}}
+{{s-bef|before=[[Isaac Corry]]<br />[[Sir John Doyle, 1st Baronet|John Doyle]]}}
+{{s-ttl|title=[[Newport (Isle of Wight) (UK Parliament constituency)|Member of Parliament for Newport, Isle of Wight]]
+       |with =[[Arthur Wellesley, 1st Duke of Wellington|Sir Arthur Wellesley]] 1807–1809
+       |with2=[[Sir Leonard Worsley-Holmes, 9th Baronet|Sir Leonard Worsley-Holmes]] 1809–1811
+       |years=1807–1811}}
+{{s-aft|after=[[Sir Leonard Worsley-Holmes, 9th Baronet|Sir Leonard Worsley-Holmes]]<br />[[Cecil Bisshopp]]}}
+{{s-bef|before=[[George FitzRoy, 4th Duke of Grafton|Earl of Euston]]<br />[[Vicary Gibbs|Sir Vicary Gibbs]]}}
+{{s-ttl|title=[[Cambridge University (UK Parliament constituency)|Member of Parliament for Cambridge University]]
+       |with =[[Vicary Gibbs|Sir Vicary Gibbs]] 1811–1812
+       |with2=[[John Henry Smyth]] 1812–1822
+       |with3=[[William John Bankes]] 1822–1826
+       |with4=[[John Copley, 1st Baron Lyndhurst|Sir John Singleton Copley]] 1826–1827
+       |with5=[[Nicholas Conyngham Tindal|Sir Nicholas Conyngham Tindal]] 1827–1829
+       |with6=[[William Cavendish, 7th Duke of Devonshire|William Cavendish]] 1829–1831
+       |years=1811–1831}}
+{{s-aft|after=[[Henry Goulburn]]<br />[[William Yates Peel]]}}
+{{s-bef|before=[[Charles Tennyson d'Eyncourt|Charles Tennyson]]<br />[[John Ponsonby, 5th Earl of Bessborough|John Ponsonby]]}}
+{{s-ttl|title=[[Bletchingley (UK Parliament constituency)|Member of Parliament for Bletchingley]]
+       |with =[[Thomas Hyde Villiers]]
+       |years=1831–1832}}
+{{s-non|reason=Constituency abolished}}
+{{s-new|constituency}}
+{{s-ttl|title=[[Hampshire South (UK Parliament constituency)|Member of Parliament for Hampshire South]]
+       |with = [[Sir George Thomas Staunton, 2nd Baronet|Sir George Thomas Staunton]]
+       |years=1832–1835}}
+{{s-aft|after=[[John Willis Fleming]]<br />[[Henry Combe Compton]]}}
+{{s-bef|before=[[John Heathcoat]]<br />[[James Kennedy (MP)|James Kennedy]]}}
+{{s-ttl|title=[[Tiverton (UK Parliament constituency)|Member of Parliament for Tiverton]]
+       |with =[[John Heathcoat]] 1835–1859
+       |with2=[[George Denman]] 1859–1865
+       |years=1835–1865}}
+{{s-aft|after=[[Sir John Walrond, 1st Baronet|Sir John Walrond]]<br />[[George Denman]]}}
+{{s-ppo}}
+{{s-bef|before=[[John Russell, 1st Earl Russell|Lord John Russell]]}}
+{{s-ttl|title=[[Leaders of the British Whig Party]]|years=1855–1859}}
+{{s-non|rows=2|reason=Party merged with [[Peelite]]s, [[Radicals (UK)|Radicals]] and  [[Independent Irish Party]] to form [[British Liberal party]]}}
+{{s-bef|before=[[John Russell, 1st Earl Russell|Lord John Russell]]}}
+{{s-ttl|title=[[Leaders of the British Whig Party#Leaders of the Whig Party in the House of Commons.2C 1830–1859|Whig Leader in the Commons]]|years=1855–1859}}
+{{s-new|rows=2|party}}
+{{s-ttl|title=[[Liberal Party (UK)#Leaders of the Liberal Party.2C 1916.E2.80.931988|Leader of the British Liberal Party]]|years=1859–1865}}
+{{s-aft|after=[[John Russell, 1st Earl Russell|The Earl Russell]]}}
+{{s-ttl|title=[[Liberal Party (UK)#Leaders of the Liberal Party.2C 1916.E2.80.931988|Liberal Leader in the Commons]]|years=1859–1865}}
+{{s-aft|after=[[William Ewart Gladstone]]}}
+{{s-aca}}
+{{s-bef|before=[[James Bruce, 8th Earl of Elgin|The Earl of Elgin]]}}
+{{s-ttl|title=[[Rector of the University of Glasgow]]|years=1862–1865}}
+{{s-aft|after=[[John Inglis, Lord Glencorse|Lord Glencorse]]}}
+{{s-hon}}
+{{s-bef|before=[[James Andrew Broun-Ramsay, 1st Marquess of Dalhousie|The Marquess of Dalhousie]]}}
+{{s-ttl|title=[[Lord Warden of the Cinque Ports]]|years=1861–1865}}
+{{s-aft|after=[[Granville George Leveson-Gower, 2nd Earl Granville|The Earl Granville]]}}
+{{s-reg|ie}}
+{{s-bef|before=[[Henry Temple, 2nd Viscount Palmerston|Henry Temple]]}}
+{{s-ttl|title=[[Viscount Palmerston]]|years=1802–1865}}
+{{s-non|reason=Extinct}}
+{{s-end}}
+
+{{Navboxes|title= Lord Palmerston navigational boxes|list=
+{{UKLiberalLeaders}}
+{{UKPrimeMinisters}}
+{{Foreign Secretary}}
+{{HomeSecretary}}
+{{Leader of the House of Commons}}
+}}
+
+{{Authority control|VIAF=51698419}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Palmerston, Henry John Temple, 3rd Viscount
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = British politician
+| DATE OF BIRTH     =20 October 1784
+| PLACE OF BIRTH    =[[Westminster]]
+| DATE OF DEATH     =18 October 1865
+| PLACE OF DEATH    =[[Brocket Hall]], [[Hertfordshire]]
+}}
+{{DEFAULTSORT:Palmerston, Henry John Temple, 3rd Viscount}}
+[[Category:Prime Ministers of the United Kingdom]]
+[[Category:People of the Victorian era]]
+[[Category:Leaders of the Liberal Party (UK)]]
+[[Category:British Secretaries of State for Foreign Affairs]]
+[[Category:Secretaries of State for the Home Department]]
+[[Category:Lords of the Admiralty]]
+[[Category:Tory MPs (pre-1834)|Tory MPs]]
+[[Category:Liberal Party (UK) MPs|Liberal MPs]]
+[[Category:UK MPs 1806–07|Temple, Henry John]]
+[[Category:UK MPs 1807–12|Temple, Henry John]]
+[[Category:UK MPs 1812–18|Temple, Henry John]]
+[[Category:UK MPs 1818–20|Temple, Henry John]]
+[[Category:UK MPs 1820–26|Temple, Henry John]]
+[[Category:UK MPs 1826–30|Temple, Henry John]]
+[[Category:UK MPs 1830–31|Temple, Henry John]]
+[[Category:UK MPs 1831–32|Temple, Henry John]]
+[[Category:UK MPs 1832–35|Temple, Henry John]]
+[[Category:UK MPs 1835–37|Temple, Henry John]]
+[[Category:UK MPs 1837–41|Temple, Henry John]]
+[[Category:UK MPs 1841–47|Temple, Henry John]]
+[[Category:UK MPs 1847–52|Temple, Henry John]]
+[[Category:UK MPs 1852–57|Temple, Henry John]]
+[[Category:UK MPs 1857–59|Temple, Henry John]]
+[[Category:UK MPs 1859–65|Temple, Henry John]]
+[[Category:Members of the Parliament of the United Kingdom for English constituencies|Temple, Henry John]]
+[[Category:Members of the Parliament of the United Kingdom for university constituencies|Temple, Henry John]]
+[[Category:Members of Parliament for the University of Cambridge|Temple, Henry]]
+[[Category:Lords Warden of the Cinque Ports]]
+[[Category:Members of the Privy Council of the United Kingdom]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Rectors of the University of Glasgow]]
+[[Category:People educated at Harrow School]]
+[[Category:Knights of the Garter]]
+[[Category:Knights Grand Cross of the Order of the Bath]]
+[[Category:People from Westminster]]
+[[Category:Viscounts in the Peerage of Ireland]]
+[[Category:Burials at Westminster Abbey]]
+[[Category:1784 births]]
+[[Category:1865 deaths]]
+[[Category:Leaders of the House of Commons]]
+[[Category:Fellows of the Royal Society]]

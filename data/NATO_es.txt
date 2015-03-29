@@ -1,0 +1,663 @@
+{{Ficha de entidad internacional
+|nombre_oficial         = Organización del Tratado del Atlántico Norte<br />''Organisation du Traité de l'Atlantique Nord''<small><span title="Francés" style="cursor:help">*</span></small><br />''North Atlantic Treaty Organization''<small><span title="Inglés" style="cursor:help">*</span></small>
+|de=de las|nombre_común =
+|imagen-bandera         = Flag of NATO.svg
+|bandera-enlace         = Bandera de la OTAN
+|imagen-escudo          = NATO OTAN Insignia.svg
+|emblema                = Insignia
+|escudo-enlace          =
+|lema                   =
+|himno                  =
+|mapa                   = North Atlantic Treaty Organization (orthographic projection).svg
+|sede                   = [[Bruselas]], [[Bélgica]]
+|capital_nombre         = [[Sede de la Organización del Tratado del Atlántico Norte|Sede]]
+|miembros={{Lista desplegable
+ |título        = [[#Estados miembros|28 estados]]
+ |marco_estilo  = border:none; padding: 0;
+ |lista_estilo  = text-align:left; display:none; 
+|1= {{ALB}}
+|2= {{DEU}}
+|3=  {{BEL}}
+|4=  {{BUL}}
+|5=  {{CAN}}
+|6=  {{CRO}}
+|7=  {{DEN}}
+|8=  {{SVK}}
+|9=  {{SLO}}
+|10=  {{ESP}}
+|11=  {{USA}}
+|12=  {{EST}}
+|13=  {{FRA}}
+|14=  {{GRE}}
+|15=  {{HUN}}
+|16=  {{ISL}}
+|17=  {{ITA}}
+|18=  {{LAT}}
+|19=  {{LTU}} 
+|20=  {{LUX}}
+|21=  {{NOR}}
+|22=  {{NLD}}
+|23=  {{POL}}
+|24=  {{POR}}
+|25=  {{GBR}}
+|26=  {{CZE}}
+|27=  {{ROM}}
+|28=  {{TUR}}
+}}
+|fundación_fechas       = [[4 de abril]] de [[1949]]
+|idiomas_oficiales      = [[Idioma inglés|Inglés]] y [[Idioma francés|francés]]<ref>"English and French shall be the official languages for the entire North Atlantic Treaty Organization.", [http://www.nato.int/docu/comm/49-95/c490917a.htm Final Communiqué following the meeting of the North Atlantic Council on 17 September 1949]. "(..) the English and French texts [of the Treaty] are equally authentic (...)" [http://www.nato.int/docu/basictxt/treaty.htm#Art14 Tratado del Atlántico Norte, Artículo 14]</ref>
+|gobierno               = [[Alianza militar]]
+|dirigentes_títulos     = Secretario general
+|dirigentes_nombres     = [[Jens Stoltenberg]]
+|sitio                  = [http://www.nato.int/ www.nato.int]
+}}
+{{redirige aquí|NATO|Nato}}
+
+La '''Organización del Tratado del Atlántico Norte''', '''OTAN''' (en inglés: ''North Atlantic Treaty Organization'', ''NATO''), también denominada '''Alianza del Atlántico''' o del '''Atlántico Norte''', es una [[alianza militar]] [[organismo internacional|intergubernamental]] basada en el [[Tratado del Atlántico Norte]] firmado el 4 de abril de [[1949]]. La organización constituye un sistema de [[defensa colectiva]] en la cual los estados miembros acuerdan defender a cualquiera de sus miembros si son atacados por una [[facción]] externa. El cuartel general de la OTAN se encuentra en [[Bruselas]], [[Bélgica]], uno de los 28 estados miembros de la organización que se extiende por [[Norteamérica]] y [[Europa]]. Las últimas incorporaciones fueron [[Albania]] y [[Croacia]], en abril de 2009. Además, hay 22 países que colaboran con la OTAN dentro del programa "[[Asociación para la Paz]]", con otros 15 países involucrados en programas de diálogo. El gasto militar combinado de todos los países miembros de la OTAN supera el 70% del [[Anexo:Países por gastos militares|gasto militar mundial]].<ref name="sipri1">{{cita web|url=http://milexdata.sipri.org/|título=The SIPRI Military Expenditure Database|fechaacceso=22 de agosto de 2010|editorial=Milexdata.sipri.org}}</ref>
+
+En sus primeros años, la OTAN no era mucho más que una asociación política. Sin embargo, la [[Guerra de Corea]] hizo que se planteara una coalición permanente, y desde entonces una nueva estructura militar fue creada bajo la dirección de los comandantes de [[Estados Unidos]]. El curso de la [[Guerra Fría]] llevó a las naciones rivales a crear el [[Pacto de Varsovia]], que se formó en 1955. Las dudas sobre la alianza europeo-norteamericana ante una invasión soviética siempre estuvieron en discusión, desacuerdos que se plasmaron con la creación por parte de [[Francia]] de [[Force de frappe|la fuerza de choque nuclear]], y finalmente con su retirada de la alianza en [[1966]].
+
+Después de la caída del [[Muro de Berlín]] en [[1989]], la organización intervino dentro de la [[Guerra de Yugoslavia]], lo que se convirtió en la primera intervención conjunta de la OTAN, y también después en 1999. Políticamente la organización ha mejorado progresivamente sus relaciones con los antiguos miembros del Bloque del Este, que culminó con incorporar varios miembros del Pacto de Varsovia entre 1999 y 2004. En septiembre de 2001 ha sido la única ocasión que un país miembro, [[Estados Unidos]], ha invocado el Artículo 5 del tratado<ref>{{cita web|url=http://www.nato.int/docu/update/2001/1001/e1002a.htm|título=Invocation of Article 5 confirmed|fechaacceso=29 de enero de 2013|obra=North Atlantic Treaty Organization}}</ref> reivindicando la ayuda en su defensa. Después de eso los países miembros colaboraron con los Estados Unidos en la Guerra de Afganistán y de Irak. El artículo 4 del tratado prevé llamar a consulta a los países miembros y ha sido convocado 4 veces, 3 de ellas por [[Turquía]], la primera por la [[Guerra de Irak]] y las dos restantes por ataques recibidos durante la [[Guerra Civil Siria]],<ref>{{cite news |url= http://www.reuters.com/article/2012/10/03/us-syria-crisis-alliance-idUSBRE8921F220121003 |title= NATO demands halt to Syria aggression against Turkey |work= [[Reuters]] |first= Adrian |last= Croft |date= 3 October 2012 |accessdate= 3 October 2012}}</ref> la cuarta ha sido invocado por [[Polonia]], durante la [[Crisis de Crimea de 2014]], debido a la movilización de tropas rusas en la frontera polaca con Kaliningrado, y maniobras rusas en el Báltico.
+
+== Historia ==
+
+=== Origen de la OTAN ===
+En [[1949]], en plena postguerra de la [[Segunda Guerra Mundial]], en [[Occidente]] se veía con preocupación la política expansionista que estaba siguiendo la [[Unión de Repúblicas Socialistas Soviéticas]]. Era evidente que la [[ONU]] no podría ser capaz por sí sola de mantener la estabilidad en el mundo, ya que los intereses de Estados Unidos conllevaron numerosos vetos soviéticos. La aparición de gobiernos comunistas en [[Europa Central]] y [[Europa Oriental|Oriental]] por influencia soviética aumentaban la presión en Europa Occidental. Entre [[1947]] y [[1949]], una serie de sucesos, más dramáticos por el hecho de la reciente marcha de las tropas estadounidenses y canadienses que aún se encontraban en [[Europa]] desde el fin de la [[Segunda Guerra Mundial]], marcaron el punto más alto en la tensión que se estaba experimentando. Estos sucesos fueron amenazas a la soberanía de [[Noruega]], [[Grecia]], [[Turquía]] y [[Checoslovaquia]], entre otros, donde el [[golpe de Praga]] fue interpretado como un ataque directo a los intereses europeos. Además, el [[Bloqueo de Berlín]], que empezó en [[abril]] de [[1948]], empeoró la situación para los países antes mencionados.<ref>David C. Isby & Charles Kamps Jr, Armies of NATO's Central Front, Jane's Publishing Company Ltd 1985, p.13</ref>
+
+La necesidad de una asociación de países cada vez era más manifiesta, de forma que en marzo de [[1948]], [[Cuarta República Francesa|Francia]], [[Bélgica]], [[Países Bajos]], [[Luxemburgo]] y el [[Reino Unido de Gran Bretaña e Irlanda del Norte]] firmaron el Tratado de Bruselas, con el que creaban una alianza militar, la [[Alianza Atlántica]].
+
+Ante la creciente expansión socialista, se decidió ampliar la Alianza, por lo que se llevaron a cabo negociaciones entre [[Estados Unidos]], [[Canadá]] y la Alianza Atlántica, a las que se decidió invitar a  [[Dinamarca]], [[Islandia]], [[Italia]], [[Noruega]] y [[Portugal]]. Las negociaciones giraron en torno a la creación de una alianza militar que tuviese una base en el artículo 51 de la [[Carta de las Naciones Unidas]], y tuvieron como resultado la firma del Tratado de Washington, el 4 de abril de 1949, por la que se establecían las bases de la creación la Organización del Tratado del Atlántico Norte.
+
+Una de las dificultades surgidas durante las negociaciones estuvieron relacionadas con la integración de [[Estados Unidos]] en la Organización. Los países europeos, devastados después de la guerra, estaban interesados en aliarse con Estados Unidos para así asegurarse una defensa eficaz, pero en Estados Unidos no se compartía esta voluntad. Sin embargo, el [[golpe de Praga]], el [[12 de marzo]] de [[1948]] y el [[bloqueo de Berlín]] en [[1949]] aumentaron la reivindicación por parte de los europeos, especialmente de [[Curata República Francesa|Francia]], de la creación de una alianza militar con Estados Unidos: en secreto, en el [[Reino Unido]] se firmó un acuerdo, llamado [[Pentagon Paper]]{{demostrar}}, con el que se establecía un esbozo de como debía ser una alianza en el [[Atlántico Norte]].
+
+El último elemento a tener en cuenta en el proceso de integración de Estados Unidos pasó por la necesidad de sortear la dificultad que suponía la prohibición por parte de la [[Constitución de los Estados Unidos]] de aliarse militarmente en tiempos de paz. El [[Arthur Vandenberg|senador Vandenberg]] promovió la votación de la [[Resolución 239]], que el [[11 de junio]] de [[1948]] dio luz verde a la unión de Estados Unidos a la Alianza. Bajo petición del [[Senado de Estados Unidos]], se hizo constar en el tratado de constitución de la alianza (artículo 5) que las medidas a tomar en caso de agresión a algún país miembro fuesen resultado de la libre elección de cada país. El Senado quería mantener así el poder de elección del [[Congreso de los Estados Unidos|Congreso]] en materia militar.
+
+Después de la constitución de la OTAN, nuevos países se fueron adhiriendo a ella. En [[1952]] se unieron los dos primeros, [[Reino de Grecia]] y [[Turquía]]. La [[República Federal de Alemania]] accedió en [[1955]] y, en [[1982]], [[España]] también firmó el Tratado. La [[República Checa]], [[Hungría]] y [[Polonia]] se convirtieron en miembros en [[1999]]. En [[2004]] accedieron [[Bulgaria]], [[Eslovaquia]], [[Eslovenia]], [[Estonia]], [[Letonia]], [[Lituania]] y [[Rumanía]]. Y, por último, [[Croacia]] y [[Albania]] en [[2009]]
+
+=== Comienzos ===
+[[Archivo:Bundesarchiv B 145 Bild-098967, Aufnahme der Bundesrepublik in die NATO.jpg|thumb|250px|Conferencia de la OTAN en París en mayo de 1955.]]
+Teóricamente destinado a ser una garantía de seguridad de los estados de [[Europa Occidental]] ante la [[Unión Soviética]] y sus aliados. El [[Pacto de Varsovia]] se creó más tarde, en [[1955]], para contrarrestar a la OTAN tras la admisión y el posible rearme de la [[República Federal de Alemania]]. Como le era propio a la coyuntura de la guerra fría las fuerzas de la OTAN actuaron sólo como fuerza disuasoria.
+
+En [[1954]], la Unión Soviética propuso su unión a la OTAN, con el objetivo de mantener la paz en [[Europa]],<ref>{{cita web |url=http://www.cbc.ca/news/background/nato/ |título=Fast facts |editorial=Canadian Broadcasting Corporation|urlarchivo=http://web.archive.org/web/20040225125521/http://www.cbc.ca/news/background/nato/|fechaarchivo=2004-02-25}}</ref> pero los países aliados rechazaron la propuesta. Esto, junto con la incorporación de [[Alemania Occidental]] a la Organización el [[9 de mayo]] de [[1955]], que fue descrita como "un momento decisorio en la historia de nuestro continente" por el [[Ministro de Asuntos Exteriores]] de [[Noruega]] del momento, [[Halvard Lange]],<ref>BBC On This Day "[http://news.bbc.co.uk/onthisday/hi/dates/stories/may/9/newsid_2519000/2519979.stm1955: West Germany accepted into Nato]" bbc.co.uk</ref> tuvo como consecuencia inmediata la creación del [[Pacto de Varsovia]], firmado el [[14 de mayo]] de [[1955]] por la [[Unión Soviética]] y sus aliados. Este pacto se considera la respuesta formal a la OTAN, poniendo de manifiesto los dos bandos opuestos de la [[Guerra Fría]].
+
+La unidad de la OTAN ha sido puesta en evidencia ya desde sus principios. En [[1958]], [[De Gaulle]] protestó por el papel hegemónico que tenían los [[Estados Unidos]] en la Organización, y por lo que, a entendimiento del presidente, era una relación especial entre Estados Unidos y el [[Reino Unido]]. En un memorándum enviado al presidente [[Eisenhower]] y al primer ministro [[Harold Macmillan|Macmillan]] el [[17 de septiembre]] de [[1958]], argumentaba a favor de la creación de una dirección tripartida, que pusiese a [[Francia]] en igualdad de condiciones que Estados Unidos y el Reino Unido, abogando también por la expansión de la OTAN en las áreas geográficas de interés para Francia, como [[Argelia]], donde Francia intentaba eliminar las fuerzas insurgentes y necesitaba la ayuda de la OTAN.
+
+De Gaulle consideró las respuestas dadas como insatisfactorias, así que decidió construir una defensa independiente para su país. El [[11 de marzo]] de [[1959]], [[Francia]] retiró su flota en el [[Mediterráneo]] del comando de la OTAN; tres meses después, en [[junio]] de [[1959]], De Gaulle prohibió la entrada de [[armas nucleares]] extranjeras en territorio francés. Esto provocó que Estados Unidos transfiriera 200 aviones a Francia y devolviera el control, entre [[1950]] y [[1967]], de las diez mayores bases aéreas que habían operado en Francia. La última base devuelta fue la de [[Toul-Rosières]], base de la [[26ª Ala de Reconocimiento]], que fue trasladada a la [[Base Aérea de Ramstein|base aérea de Ramstein]], en [[Alemania Occidental]].
+
+Mientras tanto, Francia había iniciado independientemente su propio programa nuclear, llamado ''[[Force de frappe]]''. Francia probó su primer arma nuclear, [[Gerboise Bleue]], el [[13 de febrero]] de [[1960]] en la [[Argelia francesa]].
+
+Aunque Francia mostró solidaridad respecto al resto de la OTAN durante la [[Crisis de los misiles de Cuba]] en [[1962]], De Gaulle continuó con su propósito de constituir una defensa independiente retirando del comando la flota francesa del [[Océano Atlántico|Atlántico]] y del [[Canal de la Mancha]]. En [[1966]], las [[Ejército de Francia|fuerzas armadas francesas]] fueron retiradas del comando integrado de la OTAN, y se ordenó que todas las tropas no francesas abandonasen el territorio galo. Todo ello también provocó que el [[16 de octubre]] de [[1967]] se trasladase el Cuartel Supremo de la Alianza en Europa (SHAPE) de [[París]] a [[Casteau]], al norte de [[Mons]], en [[Bélgica]]. Francia continuó siendo miembro de la alianza, y ayudó en la defensa de Europa de un [[Guerra Fría|posible ataque soviético]] con sus tropas estacionadas en [[Alemania Occidental]]. Francia volvió a unirse al [[Comité Militar]] en [[1995]] y el presidente Nicolas [[Sarkozy]] reintegró a Francia en el comando integrado en coincidencia con la cumbre del 60º aniversario de la Alianza del 3 y 4 de abril del 2008, que se celebró entre [[Estrasburgo]] y Kelh, en la frontera franco-alemana.
+
+=== Desintegración de la Unión Soviética ===
+Tras la [[desintegración de la Unión Soviética]], la OTAN ha reformulado sus objetivos y actividades hasta apropiarse de la seguridad de todo el hemisferio norte. En este marco, se desarrolló la única operación de ataque por parte de la OTAN en toda su historia, el ataque contra [[Yugoslavia]] en [[1999]]. Inicialmente, el ataque estaba destinado a parar la limpieza étnica en [[Guerra de Kosovo|Kosovo]], donde se realizó una gran cantidad de crímenes contra la población civil.
+
+=== Después del 11-S ===
+[[Archivo:ISAF-Logo.svg|thumb|200px|Logo del [[ISAF]]. Escrito en [[Idioma pashto|pashto]] se lee: کمک و همکاری (''Komak wa Hamkari''), que significa ''Ayuda y Cooperación''.]]
+Tras la [[Guerra en Afganistán (2001-presente)|invasión de Afganistán]] por parte de EEUU, la OTAN ha llevado una misión encargada por la [[Organización de las Naciones Unidas|ONU]] llamada [[Fuerza Internacional de Asistencia para la Seguridad]] (ISAF). En [[Irak]], simplemente se ha limitado a entrenar a las fuerzas de seguridad de este país. Las negativas de numerosos países europeos a que la OTAN actuara en [[Irak]], encabezados por Alemania, disuadió a éste organismo de involucrarse directamente en una guerra iniciada por EE.UU y el Reino Unido.
+
+En septiembre de 2006, la OTAN puso en marcha la [[Operación Medusa|operación "Medusa]]" sobre el sur de [[Afganistán]], con el objetivo de acabar con los reductos talibán en [[Panjwai]] y [[Zhari]], en [[Kandahar]], donde los [[insurgente]]s poseían una fuerte presencia. Hasta el 10 de septiembre de 2007, se estima que han fallecido unos 400 supuestos [[talibán]], y 20 soldados extranjeros en [[Kandahar]].
+
+Por petición de la OTAN al gobierno colombiano en el año 2008, se solicitó la presencia de tropas del [[Ejército Nacional de Colombia|Ejército Colombiano]] y expertos en antiminas y antinarcóticos para participar en esta labor que se desarrolla en la región bajo la jurisdicción del [[Fuerzas Armadas de España|Ejército de España]], debido a su gran experiencia en estos temas, mayor a la del resto de países que conforman la OTAN. El 20 de febrero de 2009 fue aprobada la participación del Ejército Colombiano en la [[ISAF]] bajo bandera española como lo afirma el comandante de las FF.AA. de [[Colombia]]; inicialmente se enviarán 150 hombres expertos en antiminas, antinarcóticos, y posiblemente en operaciones de fuerzas especiales; aún no se ha confirmado la fecha del envío de estas tropas. El caso de Colombia resulta particular por cuestiones de no pertenecer geográficamente a la región del [[Océano Atlántico|Atlántico Norte]] y, al mismo tiempo, no ser una nación perteneciente a la OTAN.
+
+== El Tratado de Washington ==
+En el tratado se observa cómo se pretendía que Europa llevase a cabo su propia defensa militar, pues en el artículo 3 se permite que Estados Unidos ayude al desarrollo militar de Europa, a modo de Plan Marshall en el ámbito militar.
+
+== Estados miembros ==
+[[Archivo:Map of NATO chronological.gif|1200px|thumb|center|Cronología de la OTAN.]]
+Listado de países miembros y la fecha en que ingresaron a la organización:
+
+{| class="wikitable"
+!width=12% | '''Fecha'''
+!width=14% | '''País'''
+!width=8% | '''Expansión'''
+!width=55% | '''Notas'''
+|-
+| [[4 de abril]] de [[1949]] || {{BEL}}|| rowspan=12 align=center|Fundadores
+|-
+| [[4 de abril]] de [[1949]] || {{CAN}}||<ref>[http://www.dfait-maeci.gc.ca/foreign_policy/nato/canada_in_nato-en.asp/ Canadá y la OTAN] (en inglés, en francés)</ref>
+|-
+| [[4 de abril]] de [[1949]] || {{DEN}}||
+|-
+| [[4 de abril]] de [[1949]] || {{USA}} ||
+|-
+| [[4 de abril]] de [[1949]] || {{FRA}} || Francia se retiró de la estructura militar de la OTAN en 1966 bajo mandato de [[Charles de Gaulle]],<ref>[http://www.diplomatie.gouv.fr/fr/france_829/decouvrir-france_4177/france-a-z_2259/defense_2627/france-otan_6050.html/ Francia y la OTAN] (en francés)</ref> volviéndose a incorporar en 2009 durante la presidencia de [[Nicolás Sarkozy]].<ref>{{cita web
+|url=http://www.elmundo.es/elmundo/2009/03/11/internacional/1236794466.html
+|título=Sarkozy confirma el regreso francés al mando de la OTAN: 'Ha llegado el momento' | Mundo | elmundo.es <!--Generado por Muro Bot. Puedes ayudar a rellenar esta plantilla-->
+|añoacceso=2009
+}}</ref>
+|-
+| [[4 de abril]] de [[1949]] || {{ISL}} ||Islandia, el único miembro de la OTAN que no posee fuerza militar propia (su defensa estuvo asegurada por las [[Fuerzas de Defensa Islandesas]], que fueron dirigidas por Estados Unidos y tuvieron base en [[Keflavík]]), se unió con la condición de que no se vería forzada a participar en ningún acontecimiento bélico.
+|-
+| [[4 de abril]] de [[1949]] || {{ITA}} ||
+|-
+| [[4 de abril]] de [[1949]] || {{LUX}} ||
+|-
+| [[4 de abril]] de [[1949]] || {{NOR}} ||
+|-
+| [[4 de abril]] de [[1949]] || {{NLD}} ||
+|-
+| [[4 de abril]] de [[1949]] || {{POR}} ||
+|-
+| [[4 de abril]] de [[1949]] || {{bandera|Reino Unido}} [[Reino Unido de Gran Bretaña e Irlanda del Norte]] ||
+|-
+| [[18 de febrero]] de [[1952]] || {{GRE}} || rowspan=2 align=center |Primera || Grecia retiró sus tropas de la estructura militar de la OTAN entre 1974 y 1980 a causa de las tensiones entre dicho país y Turquía en 1974.
+|-
+| [[18 de febrero]] de [[1952]] || {{TUR}} ||
+|-
+| [[9 de mayo]] de [[1955]] || {{DEU}}|| align=center| Segunda || Alemania se unió como [[República Federal de Alemania]] en [[1955]] y la Alemania unificada de [[1990]] extendió su participación a las zonas de la extinta [[República Democrática Alemana]].
+|-
+| [[30 de mayo]] de [[1982]] || {{ESP}}|| align=center| Tercera ||El [[12 de marzo]] de 1986 se celebró un [[Referéndum sobre la permanencia de España en la OTAN|referéndum]] para consultar a los españoles si estaban a favor de la permanencia en la alianza, destacando la exclusión de parte del territorio español [[Ceuta]] y [[Melilla]].<ref>[http://www.expansion.com/especiales/20aniversario/20diasespana/otan.html España ingresa en la OTAN]</ref>
+|-
+| [[12 de marzo]] de [[1999]] || {{HUN}} || rowspan=3  align=center| Cuarta ||
+|-
+| [[12 de marzo]] de [[1999]] || {{POL}} ||
+|-
+| [[12 de marzo]] de [[1999]] || {{CZE}} ||
+|-
+| [[29 de marzo]] de [[2004]] || {{BUL}}|| rowspan=7  align=center| Quinta ||
+|-
+| [[29 de marzo]] de [[2004]] || {{SVK}} ||
+|-
+| [[29 de marzo]] de [[2004]] || {{SLO}}||
+|-
+| [[29 de marzo]] de [[2004]] || {{EST}} ||
+|-
+| [[29 de marzo]] de [[2004]] || {{LAT}} ||
+|-
+| [[29 de marzo]] de [[2004]] || {{LTU}} ||
+|-
+| [[29 de marzo]] de [[2004]] || {{ROU}} ||
+|-
+| [[1 de abril]] de [[2009]] || {{CRO}}|| rowspan=7  align=center| Sexta ||
+|-
+| [[1 de abril]] de [[2009]] || {{ALB}} ||
+|-
+|}
+
+[[Archivo:NATO-2002-Summit.jpg|275px|thumb|Fotografía de la Cumbre de la OTAN en Praga 2002.]]
+
+[[Archivo:EU and NATO.svg|275px|thumb|La relación de pertenencia a la UE y a la OTAN en Europa.{{Leyenda|darkblue|Estados de la [[Unión Europea]]}} {{Leyenda|darkorange|Miembros de la OTAN}} {{Leyenda|purple|Miembros de ambas organizaciones}}]]
+
+[[Archivo:NATO Partners.png|275px|thumb|
+{{Leyenda|#181884|Miembros de la OTAN}}
+{{Leyenda|#8c9618|Miembros de Asociación para la Paz}}
+{{Leyenda|#944918|Países del Diálogo Mediterráneo}}]]
+
+=== Adhesiones ===
+{{AP|Ampliación de la OTAN}}
+
+El artículo 10 del [[Tratado del Atlántico Norte]], permite que nuevos estados formen parte de la OTAN:<ref>''Tratado del Atlántico Norte'', Washington D.C. - 4 de abril de 1949, [http://www.nato.int/docu/other/sp/treaty-sp.htm].</ref>
+
+{{cita|Las Partes pueden, por acuerdo unánime, invitar a ingresar a cualquier Estado europeo que esté en condiciones de favorecer el desarrollo de los principios del presente Tratado y de contribuir a la seguridad de la zona del Atlántico Norte. Cualquier Estado que sea así invitado puede ser Parte del Tratado depositando el instrumento de adhesión correspondiente ante el Gobierno de los Estados Unidos de América. Este Gobierno informará a cada una de las Partes de haberse efectuado el depósito de dicho instrumento de adhesión.}}
+
+Este artículo pone dos condiciones al ingreso de nuevos estados:
+
+* Sólo países de [[Europa]] pueden ser nuevos miembros
+
+* Es necesario el acuerdo unánime del resto de estados miembros.
+
+Este último criterio implica que los estados miembros pueden poner una serie de condiciones de cara al ingreso de nuevos países. Sin embargo, en la práctica la OTAN pone una serie de condiciones comunes.
+
+==== Azerbaiyán ====
+
+Aunque [[Azerbaiyán]] no haya presentado una solicitud formal de ingreso a la OTAN, es uno de los países que podría unirse a la alianza en un próximo futuro.<ref name=Azerbaiyán>{{cita publicación 
+  | título= Azerbaijan: NATO’s next member? 
+  | fecha= 31-12-2011
+  | url =http://windowonheartland.blogspot.com/2011/12/azerbaijan-natos-next-member.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+WindowOnHeartland+%28WINDOW+ON+HEARTLAND%29
+  | fechaacceso= 2 de enero de 2012}}</ref>
+
+==== Colombia ====
+
+En junio de 2013 el gobierno de [[Colombia]] suscribió un acuerdo de cooperación y acercamiento con la OTAN, con el objetivo de ser miembro asociado en un futuro de la organización.<ref>{{cita web |url=http://www.europapress.es/internacional/noticia-santos-dice-colombia-otan-firmaran-acuerdo-cooperacion-cara-ingreso-organizacion-20130602032234.html |título=Santos dice que Colombia y la OTAN firmarán un acuerdo de cooperación de cara a su ingreso en la organización|fechaacceso= 2 de junio de 2013 |editorial= Europa Press |fecha=2 de junio de 2013}}</ref><ref>http://www.europapress.es/latam/colombia/noticia-colombia-gobierno-santos-aclara-colombia-quiere-puede-ser-parte-otan-20130604173347.html</ref>
+
+==== Georgia ====
+
+La [[república de Georgia]] celebró un referéndum el 5 de enero de 2008, en el cual fue aprobado por el 72.5% de su población, la incorporación de este país a la Alianza Atlántica.<ref name=Georgia>{{cita publicación 
+  | título= Ucrania: la UE es la prioridad
+  | editorial= www.actualidad.rt.com
+  | fecha= 25-03-2010
+  | url =http://actualidad.rt.com/actualidad/internacional/issue_6248.html
+  | fechaacceso= 27 de marzo de 2010}}</ref>
+
+==== Macedonia ====
+
+El único obstáculo que tiene la [[República de Macedonia]] para entrar en la Alianza Atlántica es superar los [[Disputa sobre el nombre de Macedonia|problemas derivados del nombre]] de la propia república, puesto que [[Grecia]] reclama como patrimonio helénico dicho nombre. Cuando Macedonia llegue a un acuerdo con Grecia será invitada formalmente a pertenecer a la OTAN.
+
+==== Ucrania ====
+
+[[Ucrania]] comenzó su proceso de adhesión en enero de 2008, al ser presentada en [[Bruselas]] la solicitud de ingreso en la alianza, que debe ser respaldada popularmente a través de un [[referéndum]].
+
+==== Suecia y Finlandia ====
+
+Aunque ni [[Suecia]] ni [[Finlandia]] forman parte de la OTAN, ambos países participan activamente en sus ejercicios y, tras la [[guerra civil en el este de Ucrania]] de 2014, ha habido en ambos debates internos invitando a reconsiderar su neutralidad y adherirse a la Organización.<ref>The Economist [http://www.economist.com/news/europe/21604586-russia-stokes-fresh-debate-among-nordics-about-nato-membership-what-price-neutrality ''What price neutrality?''], publicado y consultado el 21 de junio de 2014.</ref>
+
+== Estructura y organización ==
+
+=== Estructura política: Secretaría General ===
+
+El [[secretario general de la Organización del Tratado del Atlántico Norte]] es el presidente del [[Consejo del Atlántico Norte]], el más alto representante de la dirección política de la OTAN. Desde la creación de la OTAN, los secretarios generales han sido:
+{| class="wikitable"
+|+ '''Secretarios generales'''<ref name="secgen">[http://www.nato.int/cv/secgen.htm NATO Who's who? - Secretaries General of NATO<!-- Título generado por un bot -->]</ref>
+|-
+| 1
+| [[General]] [[Hastings Lionel Ismay, 1st Baron Ismay|Lord Ismay]]
+| {{GBR}}
+| [[4 de abril]] de [[1952]] – [[16 de mayo]] de [[1957]]
+|-
+| 2
+| [[Paul-Henri Spaak]]
+| {{BEL}}
+| [[16 de mayo]] de [[1957]] – [[21 de abril]] de [[1961]]
+|-
+| 3
+| [[Dirk Stikker]]
+| {{NLD}}
+| [[21 de abril]] de [[1961]] – [[1 de agosto]] de [[1964]]
+|-
+| 4
+| [[Manlio Brosio]]
+| {{ITA}}
+| [[1 de agosto]] de [[1964]] – [[1 de octubre]] de [[1971]]
+|-
+| 5
+| [[Joseph Luns]]
+| {{NLD}}
+| [[1 de octubre]] de [[1971]] – [[25 de junio]] de [[1984]]
+|-
+| 6
+| [[Peter Carington, 6.º barón Carrington|Lord Carrington]]
+| {{GBR}}
+| [[25 de junio]] de [[1984]] – [[1 de julio]] de [[1988]]
+|-
+| 7
+| [[Manfred Wörner]]
+| {{RFA}}
+| [[1 de julio]] de [[1988]] – [[13 de agosto]] de [[1994]]
+|-
+| 8
+| [[Sergio Balanzino]]
+| {{ITA}}
+| [[13 de agosto]] de [[1994]] – [[17 de octubre]] de [[1994]]''
+|-
+| 9
+| [[Willy Claes]]
+| {{BEL}}
+| [[17 de octubre]] de [[1994]] – [[20 de octubre]] de [[1995]]
+|-
+| 10
+| [[Sergio Balanzino]]
+| {{ITA}}
+| [[20 de octubre]] de [[1995]] – [[5 de diciembre]] de [[1995]]''
+|-
+| 11
+| [[Javier Solana]]
+| {{ESP}}
+| [[5 de diciembre]] de [[1995]] – [[6 de octubre]] de [[1999]]
+|-
+| 12
+| [[George Robertson, Baron Robertson of Port Ellen|Lord Robertson of Port Ellen]]
+| {{GBR}}
+| [[14 de octubre]] de [[1999]] – [[1 de enero]] de [[2004]]
+|-
+| 13
+| [[Jaap de Hoop Scheffer]]
+| {{NLD}}
+| [[1 de enero]] de [[2004]] – [[31 de julio]] de [[2009]]
+|-
+| 14
+| [[Anders Fogh Rasmussen]]
+| {{DEN}}
+| [[1 de agosto]] de [[2009]] – [[28 de marzo]] de [[2014]]
+|-
+| 15
+| [[Jens Stoltenberg]]
+| {{NOR}}
+| [[28 de marzo]] de [[2014]] – presente
+|}
+
+{| class="wikitable"
+|+ '''Vicesecretarios generales'''<ref name="secgen" />
+|-
+| 1
+| style="width:170px" | [[Sergio Balanzino]]
+| style="width:130px" | {{ITA}}
+| style="width:282px" | [[1994]] - [[2001]]
+|-
+| 2
+| style="width:170px" | [[Alessandro Minuto Rizzo]]
+| {{ITA}}
+| [[2001]] - presente
+|}
+
+=== Estructura militar ===
+
+==== Comité Militar ====
+La estructura militar de la OTAN es dirigida por el Comité Militar, que a su vez se encuentra bajo la autoridad del [[Consejo del Atlántico Norte]]. El Comité se encarga de asesorar a la Alianza en materia militar, pudiéndose reunir para ello los [[Jefe del Estado Mayor de la Defensa|Jefes de Estado Mayor]], siendo lo más común la reunión a nivel de Representantes Militares.
+
+{| class="wikitable"
+!width=25% | '''País'''
+!width=25% | '''Rango'''
+!width=25% | '''Nombre'''
+!width=25% | '''Toma de posesión'''
+|-
+| {{BEL}}|| [[General]] || [[August Van Daele]] || [[1 de enero]] de [[2003]]
+|-
+| {{CAN}}|| General || [[Rick Hillier|R.J. Hillier]] || [[4 de febrero]] de [[2005]]
+|-
+| {{DEN}}|| General || [[Hans Jesper Helsø]] || [[2002]]
+|-
+| {{USA}}|| [[Almirante]] || [[Michael Mullen|Mike Mullen]] || [[1 de octubre]] de [[2007]]
+|-
+| {{FRA}} || General || [[Jean-Louis Georgelin]] || [[4 de octubre]] de [[2006]]
+|-
+| {{ISL}} || [[Ministro de Asuntos Exteriores]] || [[Thórir Ibsen]] || 2007
+|-
+| {{ITA}} || Almirante || [[Giampaolo di Paola]] || [[10 de marzo]] de [[2004]]
+|-
+| {{LUX}} || [[Coronel]] || [[Nico Ries]] || [[26 de enero]] de [[2002]]
+|-
+| {{NOR}} || General || [[Sverre Diesen]] || [[2005]]
+|-
+| {{NLD}} || General || [[Dick L. Berlijn]] || [[24 de junio]] de [[2004]]
+|-
+| {{POR}} || General || [[Luis Valença Pinto]] || [[5 de diciembre]] de [[2006]]
+|-
+| {{GBR}} ||  [[Teniente General]] || [[Sir Jock Stirrup]] || [[28 de abril]] de [[2006]]
+|-
+| {{GRE}} || General || [[Dimitrios Grapsas]] ||
+|-
+| {{TUR}} || General || [[Yaşar Büyükanit]] || [[30 de agosto]] de [[2006]]
+|-
+| {{DEU}}|| General || [[Wolfgang Schneiderhan (Militar)|Wolfgang Schneiderhan]] || [[1 de julio]] de [[2002]]
+|-
+| {{ESP}}|| [[Almirante General]] || [[Fernando García Sánchez]] || [[31 de diciembre]] de [[2011]]
+|-
+| {{HUN}} || General || [[András Havril]] ||
+|-
+| {{POL}} || General || [[Franciszek Gągor]] || [[3 de mayo]] de [[2006]]
+|-
+| {{CZE}} || [[General de División]] || [[Vlastimil Picek]] || [[1 de marzo]] de [[2007]]
+|-
+| {{BUL}}|| General || [[Zlatan Kirilov Stoykov]] || 2006
+|-
+| {{SVK}} || General || [[Ľubomír Bulík]] || [[21 de diciembre]] de [[2004]]
+|-
+| {{SLO}}|| General de División || [[Albin Gutman]] || 2006
+|-
+| {{EST}} || [[General de Brigada]] || [[Ants Laaneots]] || [[5 de diciembre]] de 2006
+|-
+| {{LAT}} || General || [[Juris Maklakovs]] ||
+|-
+| {{LTU}} || General de Brigada ||[[Valdas Tutkus]] || [[30 de junio]] de 2004
+|-
+| {{ROU}} ||  Almirante || [[Gheorghe Marin]] || [[13 de septiembre]] de [[2006]]
+|-
+| {{DEN}} ||  General  || [[Knud Bartels]] || [[1 de enero]] de [[2012]]
+|}
+
+El Comité, cumpliendo su objetivo de asesorar en materia militar, da directrices a los tres Comandos Estratégicos de la organización: el '''[[Comandante Supremo Aliado de Transformación]]''' (SACT),
+el '''[[Comandante Supremo Aliado en Europa]]''' (SACEUR) y
+el '''[[Comandante Supremo Aliado en el Atlántico]]''' (SACLANT)
+
+==== Comandante Supremo Aliado de Transformación (Carnelli) ====
+
+==== Comandante Supremo Aliado en Europa ====
+La función del ''SACEUR'' es la de preservar la paz, la seguridad y la integridad territorial de todos los países que conforman la OTAN. El SACEUR, en calidad de Comandante Supremo, se encargará de repeler, mediante las oportunas medidas militares, cualquier ataque que suceda o que con riesgo de que suceda.
+
+También se encarga de planificar las campañas militares, incluyendo el reclutamiento de las fuerzas militares necesarias para llevar a cabo las misiones de la OTAN, que incluyen la promoción de estabilidad, ayuda en crisis y provisión de una defensa efectiva allá donde sea necesario.
+Por otra parte, se encarga de hacer las pertinentes recomendaciones a las autoridades políticas y militares respecto a cualquier asunto militar que se encuentre dentro de su responsabilidad. El SACEUR también tiene acceso directo a los [[Representante del Comité Militar de la OTAN|representantes militares de cada país]], así como, si lo encuentra necesario, con las autoridades pertinentes, para facilitar el cumplimiento de las misiones.
+
+En calidad de [[Presidente del Comité Militar]], el SACEUR tiene un perfil público muy importante, siendo el portavoz del [[Cuartel Supremo de la Alianza en Europa]] (en inglés: ''Supreme Headquarters Allied Powers in Europe, SHAPE''). Mediante sus actos públicos y el personal de su gabinete, mantiene contacto regularmente con la prensa y lleva a cabo viajes por los países pertenecientes a la OTAN, así como con los que se está llevando a cabo programas de diálogo, cooperación y asociación.
+El SACEUR también se responsabiliza de desarrollar los contactos militares con los países pertenecientes al programa Asociación para la Paz.
+
+El SHAPE es el centro de comando militar del SACEUR. Hasta 1967 estaba situado en [[Francia]], en [[Rocquencourt (Yvelines)|Rocquencourt]], en la actual sede del ''[[Institut National de Recherche en Informatique et en Automatique]]'', cerca de [[París]]. Como consecuencia del retiro de Francia de la estructura militar de la OTAN, el SHAPE fue trasladado a [[Bélgica]], en el territorio de las antiguas comunas de [[Comuna de Casteau|Casteau]], [[Comuna de Maisières|Maisières]] y de [[Comuna de Masnuy-Saint-Jean|Masnuy-Saint-Jean]]. Después de la fusión de las comunas, todo el territorio del SHAPE pasó a ser parte de [[Mons]], en la [[provincia de Henao]], [[Bélgica]].
+
+[[Archivo:Maisières JPG02a.jpg|thumb|center|600px|Banderas de los países de la OTAN en la entrada al Cuartel Supremo de la Alianza en Europa.]]
+
+{| class="wikitable"
+! !! Nombre !! Nacionalidad !! Desde !! Hasta
+|-
+|1. ||General de Ejército [[Dwight D. Eisenhower]] || {{USA}} ||  [[2 de abril]] de [[1951]] ||  [[30 de mayo]] de [[1952]]
+|-
+|2. ||General [[Matthew Ridgway]] || {{USA}} ||  [[30 de mayo]] de [[1952]] || [[11 de julio]] de [[1953]]
+|-
+|3. ||General [[Alfred Gruenther]] || {{USA}} ||  [[11 de julio]] de [[1953]] ||  [[20 de noviembre]] de [[1956]]
+|-
+|4. ||General [[Lauris Norstad]] || {{USA}} ||  [[20 de noviembre]] de [[1956]] ||  [[1 de enero]] de [[1963]]
+|-
+|5. ||General [[Lyman Lemnitzer]] || {{USA}} || [[1 de enero]] de [[1963]] ||  [[1 de julio]] de [[1969]]
+|-
+|6. ||General [[Andrew Goodpaster]] || {{USA}} ||    [[1 de julio]] de [[1969]] ||  [[15 de diciembre]] de [[1974]]
+|-
+|7. ||General [[Alexander Haig]] || {{USA}} ||  [[15 de diciembre]] de [[1974]] ||  [[1 de julio]] de [[1979]]
+|-
+|8. ||General [[Bernard W. Rogers]] || {{USA}} ||    [[1 de julio]] de [[1979]] ||  [[26 de junio]] de [[1987]]
+|-
+|9. ||General [[John Galvin]] || {{USA}} ||   [[26 de junio]] de [[1987]] ||  [[23 de junio]] de [[1992]]
+|-
+|10. ||General [[John Shalikashvili]] || {{USA}} ||   [[23 de junio]] de [[1992]] ||  [[22 de octubre]] de [[1993]]
+|-
+|11. ||General [[George Joulwan]] || {{USA}} ||    [[22 de octubre]] de [[1993]] || [[11 de julio]] de [[1997]]
+|-
+|12. ||General [[Wesley Clark]] || {{USA}} ||    [[11 de julio]] de [[1997]] || [[3 de mayo]] de [[2000]]
+|-
+|13. ||General [[Joseph Ralston]] || {{USA}} ||    [[3 de mayo]] de [[2000]] ||  [[17 de enero]] de [[2003]]
+|-
+|14. ||General [[James L. Jones]] || {{USA}} ||   [[17 de enero]] de [[2003]] || [[7 de diciembre]] de [[2006]]
+|-
+|15. ||General [[Bantz J. Craddock]] || {{USA}} ||   [[7 de diciembre]] de [[2006]] || Presente
+|}
+
+==== Comandos regionales ====
+La zona Atlántica la componen cinco mandos regionales: el de la zona occidental atlántica (RC West), en Norfolk, el de la zona oriental (RC East) en Northwood ([[Reino Unido]]); el de la suroriental (RC Southeast), en Oeiras (Lisboa, [[Portugal]]); el Strik FLTLANT, situado en Norfolk ([[Estados Unidos]]), de fuerzas navales, y el SUBACLANT, de fuerzas submarinas, con base en Northwood. La zona Europea consta de dos mandos regionales, uno en el Norte (RC North), que controla el norte y centro de Europa, y se encuentra ubicado en Brunssum ([[Holanda]]) y otro en el sur (RC SOUTH), que controla el sur, incluido todo el Mediterráneo, con base en Nápoles ([[Italia]]).
+La zona del mando Regional del Norte tiene a su vez cinco cuarteles bajo su responsabilidad: tres de categoría subregional divididos por zonas en norte (Stavanger, [[Noruega]]), centro (Heidelberg, [[Alemania]]) y noroeste (Karup, [[Dinamarca]]); y dos mandos, uno naval (Northwood, Reino Unido) y otro aéreo (Ramstein, Alemania).
+
+La zona sur de Europa, bajo dirección del Mando regional del Sur, ubicado en [[Nápoles]] ([[Italia]]), tiene cuatro cuarteles generales subregionales, también divididos por zonas: suroeste ([[Madrid]], España), sur ([[Verona]], [[Italia]]), sur-centro ([[Larissa]], [[Grecia]]) y sur-este ([[Esmirna]], [[Turquía]]). Además cuenta con dos mandos componentes, uno de fuerzas aéreas y otro naval, ambos con base en [[Nápoles]]. Los mandos componentes se encargan de la coordinación de las operaciones aéreas y navales con los mandos subregionales de su zona.
+
+Además de estos dos mandos aliados, existe un Grupo de Planificación Regional Canadá-Estados Unidos, cuya función es la de coordinar las fuerzas de defensa de la OTAN, en ambos países.
+
+== Cooperación con Estados no miembros ==
+
+Para fomentar la cooperación entre los 28 países miembros de la OTAN y los 21 países asociados, se ha creado una red con dos vertientes:
+* por una parte, la [[Asociación para la Paz]] (en inglés: ''Partnership for Peace'', PfP), que es un programa originalmente iniciado en 1994 y basado en las relaciones bilaterales entre cada país asociado y la OTAN: cada país puede elegir hasta qué punto quiere participar.
+
+* por otra parte, el [[Consejo de Asociación Euro-Atlántico]] (en inglés: ''Euro-Atlantic Partnership Council'', EAPC) fue establecido el 29 de mayo de 1997, y consiste en un foro destinado a la coordinación, consulta y diálogo entre los 49 participantes.
+
+Los países asociados son los siguientes:
+
+* Antiguos países de la [[Unión Soviética]]
+# {{bandera2|Armenia}}
+# {{bandera2|Azerbaiyán}}
+# {{bandera2|Bielorrusia}}
+# {{bandera2|Estonia}}
+# {{bandera2|Georgia}}
+# {{bandera2|Kazajistán}}
+# {{bandera2|Kirguistán}}
+# {{bandera2|Letonia}}
+# {{bandera2|Lituania}}
+# {{bandera2|Moldavia}}
+# {{bandera2|Rusia}}
+# {{bandera2|Tayikistán}}
+# {{bandera2|Turkmenistán}}
+# {{bandera2|Ucrania}}
+# {{bandera2|Uzbekistán}}
+
+* Países militarmente neutrales que tuvieron un sistema capitalista durante la [[Guerra Fría]]
+:# {{AUT}}
+:# {{FIN}}
+:# {{IRL}}
+:# {{MLT}}
+:# {{SUE}}
+:# {{SUI}}
+
+* Países militarmente neutrales que tuvieron una economía socialista durante la Guerra Fría
+:# {{BIH}}
+:# {{MNE}}
+:# {{MKD}}
+:# {{SER}}
+
+* {{CYP}} encuentra una gran oposición a su admisión en la Asociación para la Paz por parte de Turquía a causa del conflicto entre los dos países. Por ese motivo, Chipre no participa en la Política Europea de Seguridad y Defensa.
+
+=== Intensificación de relaciones ===
+
+=== Plan de Acción Individual de la Asociación ===
+
+En noviembre de 2002, durante la cumbre de Praga, se abrieron los [[Planes de Acción Individual de la Asociación]] (IPAP) a los países que tienen la voluntad política y la suficiente capacidad para tener una mayor relación con la OTAN. Actualmente los IPAP se están implementando en los siguientes países:
+* {{GEO}} ([[29 de octubre]] de [[2004]])
+* {{AZE}} ([[27 de mayo]] de [[2005]])
+* {{ARM}} ([[16 de diciembre]] de [[2005]])
+* {{KAZ}} ([[31 de enero]] de [[2006]])
+* {{MOL}} ([[19 de mayo]] de [[2006]])
+
+=== Relaciones en el Mediterráneo ===
+
+=== Consejo OTAN-Rusia ===
+
+Actualmente{{¿cuándo?}} las relaciones entre la OTAN y la [[Federación Rusa]] atraviesan momentos de tensión, motivados por los planes de [[EE. UU.]] de instalar diez interceptores antimisiles en [[Polonia]] y un radar en la [[República Checa]] dirigidos a prevenir hipotéticos ataques desde [[Irán]] y [[Corea del Norte]].<ref>[http://www.chile.mid.ru/Politica/Global.htm Rusia en la política global], Embajada de la Federación Rusa en la República de Chile</ref> El sistema de defensa no ofrece protección a [[Rumanía]], [[Bulgaria]], [[Grecia]] y [[Turquía]], que podrían ser alcanzados por misiles provenientes de Irán, pero su construcción ha sido interpretada por Rusia como «el avance de la infraestructura militar de la OTAN hacia nuestras fronteras», según dijo el Ministro de Asuntos Exteriores ruso, [[Serguéi Lavrov]], en [[abril]] de [[2007]]. Ante los argumentos de [[Condoleezza Rice]], la [[Secretario de Estado de los Estados Unidos|secretaria de Estado estadounidense]], Lavrov no se mostró convencido, reacción que creó cierta inquietud entre algunos países de la OTAN, como [[Alemania]] y [[Noruega]].<ref>{{cita web |url= http://actualidad.terra.es/nacional/articulo/escalada_otan_rusia_1538645.htm |título= Escalada de la tensión marca la reunión entre la OTAN y Rusia |editorial= Terra.es |idioma= español |fechaacceso= 16 de mayo de 2008 |urlarchivo=https://archive.is/dl57|fechaarchivo=2012-06-28}}</ref>
+
+[[Archivo:American-MNNA-2007.svg|400px|thumb|Mapa de los países designados por Estados Unidos como Aliado importante no-OTAN.]]
+
+=== Otros asociados ===
+{{AP|Aliado importante extra-OTAN}}
+Aliado importante no-OTAN (en inglés, ''Major non-NATO ally''; o su [[acrónimo]] ''MNNA'') es una designación dada por el gobierno de los [[Estados Unidos]] a un grupo de aliados, quienes mantienen una estrategia de trabajo con las fuerzas norteamericanas, pero no son miembros de la [[Organización del Tratado del Atlántico Norte]]. El ser elevado al estatus de MNNA no incluye automáticamente un pacto de defensa colectiva con los [[Estados Unidos]], aunque brinda una variedad de ventajas militares y financieras que de otra forma no podrían ser obtenidas por [[país]]es que no pertenecen a la [[OTAN]].
+
+== Reforma ==
+
+En febrero de [[2005]] [[Gerhard Schröder]] propone crear una comisión para reformar la OTAN ante el peso creciente de la [[Unión Europea]] (UE). El canciller alemán considera necesario reestructurar la [[Alianza Atlántica]], dado que hoy los desafíos estratégicos están fuera de su ámbito defensivo y no requieren en primera línea una respuesta militar, “últimamente ha habido malos entendidos, malestares, desconfianza y hasta tensiones”, indicó el canciller, como quedó reflejado tras la [[invasión de Iraq de 2003]] que dejó de manifiesto cuán profundas pueden ser las discrepancias y cuán poco preparada está la OTAN para reaccionar a tales dificultades.
+
+== Críticas ==
+
+La OTAN ha recibido numerosas críticas por sus acciones y medidas militares por parte múltiples sectores tales como el primer ministro de Gran Bretaña, William Hague y el ministro de Exteriores de Francia, Alain Juppé, durante las operaciones de la OTAN en Libia.<ref>http://www.cubadebate.cu/noticias/2011/04/08/llueven-criticas-sobre-la-otan-por-su-operacion-en-libia/</ref><ref>http://www.elmundo.es/elmundo/2011/04/12/internacional/1302608779.html</ref> La [[UNESCO]] le acusó de violar las resoluciones de Naciones Unidas y las convenciones de Ginebra que condenan la violencia contra los periodistas y los medios de comunicación al bombardear las instalaciones de la televisión estatal libia.<ref>http://www.elnuevodiario.com.ni/internacionales/110208</ref> Durante este mismo periodo, el entonces canciller de Venezuela, Nicolás Maduro, habló desde la Asamblea General de la Organización de Naciones Unidas, dejó entrever con su discurso que la OTAN apoyó a un grupo de rebeldes para que derrocaran a [[Muamar el Gadafi]] con el único objetivo de apoderarse de los valiosos recursos naturales que posee Libia.<ref>http://www.voanoticias.com/content/venezuela-nicolas-maduro-libia-otan-130665308/104699.html</ref>
+
+Recibió críticas del ministro de Exteriores Ruso, Serguéi Lavrov, debido a la forma en la que afrontó la guerra en Malí, Siria y su actuación frente al programa nuclear Iraní; "El modo en el que la OTAN encara los problemas no ayuda", aseguró el ministro ruso, y agregó que la comunidad internacional debería “adoptar una aproximación más global”, no centrada en los intereses exclusivos de Europa y EE.UU. —la alianza transatlántica—, y que los riesgos son compartidos. Lavrov puso en duda la manera en la que la OTAN está afrontando los “principales problemas de la actualidad”, como la primavera árabe, Siria, Mali o Irán.<ref>http://yucatan.com.mx/internacional/lavrov-critica-a-la-otan-por-su-postura-ante-siria-mali-e-iran</ref>
+
+== Presupuestos ==
+
+Los presupuestos y la inversión de cada país para el año 2009 fueron los siguientes:
+
+{| class="wikitable"
+!| '''País'''
+!| '''NSIP'''
+!| '''Militar'''
+!| '''Civil'''
+!| '''% sobre el total'''
+|-
+| {{BEL}} || 21.1 || 15.5 || 4.4 || bgcolor="LightGrey" | 3.7
+|-
+| {{CAN}} || 16.1 || 29.0 || 8.6 || bgcolor="LightGrey" | 4.8
+|-
+| {{CZE}} || 0.2  || 3.8 || 1.4 || bgcolor="LightGrey" | 0.5
+|-
+| {{DEN}} || 16.9 || 9.2 || 2.4 || bgcolor="LightGrey" | 2.6
+|-
+| {{FRA}} || 34.3 || 32.3 || 24.9 || bgcolor="LightGrey" | 7.9
+|-
+| {{DEU}} || 108.0 || 85.5 || 25.0 || bgcolor="LightGrey" | 19.6
+|-
+| {{GRE}} || 4.2 || 2.1 || 0.6 || bgcolor="LightGrey" | 0.6
+|-
+| {{HUN}} || 0.1 || 2.7 || 1.0 || bgcolor="LightGrey" | 0.3
+|-
+| {{ISL}} || 0 || 0.2 || 0.1 || bgcolor="LightGrey" | 0
+|-
+| {{ITA}} || 36.1 || 32.9 || 9.3 || bgcolor="LightGrey" | 7.0
+|-
+| {{LUX}} || 0.9 || 0.5 || 0.1 || bgcolor="LightGrey" | 0.1
+|-
+| {{NLD}} || 25.0 || 15.5 || 4.4 || bgcolor="LightGrey" | 4.0
+|-
+| {{NOR}} || 13.2 || 6.4 || 1.8 || bgcolor="LightGrey" | 1.9
+|-
+| {{POL}} || 0.5 || 10.3 || 4.0 || bgcolor="LightGrey" | 1.3
+|-
+| {{POR}} || 1.5 || 3.5 || 1.0 || bgcolor="LightGrey" | 0.5
+|-
+| {{ESP}} || 6.5 || 19.5 || 5.6 || bgcolor="LightGrey" | 2.8
+|-
+| {{TUR}} || 4.6 || 8.8 || 2.6 || bgcolor="LightGrey" | 1.4
+|-
+| {{GBR}} || 53.6 || 91.3 || 27.9 || bgcolor="LightGrey" | 15.5
+|-
+| {{USA}} || 115.2 || 129.7 || 36.2 || bgcolor="LightGrey" | 25.2
+|-
+| '''Total''' || bgcolor="LightGrey"| '''458.0''' || bgcolor="LightGrey" |'''495.7''' || bgcolor="LightGrey"| '''161.1''' || bgcolor="LightGrey" |'''100.0'''
+|}
+
+<small>Expresado en millones de dólares.</small>
+
+== Véase también ==
+{{Portal}}
+* [[Programa de Liderazgo Táctico (TLP)]]
+* [[Eurocuerpo]]
+* [[Alfabeto fonético de la OTAN]]
+* [[Empleos y Divisas de la OTAN]]
+* [[Tratado de las Fuerzas Armadas Convencionales en Europa]]
+* [[Cumbre de la OTAN]]
+* [[Movimiento de Países No Alineados]]
+* [[Pacto de Varsovia]]
+* [[Organización del Tratado de la Seguridad Colectiva]] ([[OTSC]])
+* [[OCS]] ([[Organización de Cooperación de Shanghái]])
+* [[Operación Gladio]]
+
+== Referencias ==
+{{listaref|2}}
+
+== Bibliografía ==
+* David C. Isby & Charles Kamps Jr, Armies of NATO's Central Front, Jane's Publishing Company Ltd 1985, ISBN 0-7106-0341-X
+
+== Lecturas adicionales ==
+<div class="references-small">
+;Comienzos
+*
+Francis A. Beer. Integration and Disintegration in NATO: Processes of Alliance Cohesion and Prospects for Atlantic Community. (Columbus: Ohio State University Press, 1969), 330 pp.
+* Francis A. Beer. The Political Economy of Alliances: Benefits, Costs, and Institutions in NATO. (Beverly Hills: Sage, 1972), 40 pp.
+* Eisenhower, Dwight D. ''The Papers of Dwight David Eisenhower. Vols. 12 and 13: NATO and the Campaign of 1952'': Louis Galambos et al., ed. [[Johns Hopkins University Press]], 1989. 1707 pp. in 2 vol.
+* Gearson, John and [[Kori Schake|Schake, Kori]], ed. ''The Berlin Wall Crisis: Perspectives on Cold War Alliances'' [[Palgrave Macmillan]], 2002. 209 pp.
+* John C. Milloy. ''North Atlantic Treaty Organisation, 1948–1957: Community or Alliance?'' (2006), focus on non-military issues
+* Smith, Joseph, ed. ''The Origins of NATO'' Exeter, UK [[University of Exeter Press]], 1990. 173 pp.
+
+;Guerra Fría
+* [[Jean Edward Smith|Smith, Jean Edward]], and Canby, Steven L.''The Evolution of NATO with Four Plausible Threat Scenarios''. Canada Department of Defence: Ottawa, 1987. 117 pp.
+
+;Posterior a la Guerra Fría
+* Asmus, Ronald D. ''Opening NATO's Door: How the Alliance Remade Itself for a New Era'' [[Columbia University Press]], 2002. 372 pp.
+* Bacevich, Andrew J. and Cohen, Eliot A. ''War over Kosovo: Politics and Strategy in a Global Age.'' Columbia University Press, 2002. 223 pp.
+* Caracuel Raya, María Angustias. Los cambios de la OTAN tras el fin de la guerra fría, Tecnos, Madrid, 2004
+* Daclon, Corrado Maria ''Security through Science: Interview with Jean Fournet, Assistant Secretary General of NATO'', Analisi Difesa, 2004. no. 42
+* Gheciu, Alexandra. ''NATO in the 'New Europe''' [[Stanford University Press]], 2005. 345 pp.
+* Hendrickson, Ryan C. ''Diplomacy and War at NATO: The Secretary General and Military Action After the Cold War'' [[University of Missouri Press]], 2006. 175 pp.
+* Lambeth, Benjamin S. ''NATO's Air War in Kosovo: A Strategic and Operational Assessment'' Santa Monica, Calif.: RAND, 2001. 250 pp.
+
+;Historias generales
+* {{cita publicación |apellido= Alasdair|nombre= Roberts|fecha= |año= 2002/2003|mes= |título= NATO, Secrecy, and the Right to Information|publicación= East European Constitutional Review|volumen= 11/12|series= |número= 4/1|page= |páginas= 86–94|editorial= [[New York University]]&nbsp;— School of Law|issn= |pmid= |pmc= |doi= |bibcode= |oclc= |id= |url= http://www1.law.nyu.edu/eecr/vol11_12num4_1/special/roberts.pdf|idioma= |formato= |fechaaceso= |resumenprofano= |fuenteprofano= |fechaprofano= |quote= |ref= |postscript= }}
+* Kaplan, Lawrence S. ''The Long Entanglement: NATO's First Fifty Years.'' Praeger, 1999. 262 pp.
+* Kaplan, Lawrence S. ''NATO Divided, NATO United: The Evolution of an Alliance.'' Praeger, 2004. 165 pp.
+* Létourneau, Paul. ''Le Canada et l'OTAN après 40 ans, 1949–1989'' Quebec: Cen. Québécois de Relations Int., 1992. 217 pp.
+* Paquette, Laure. ''NATO and Eastern Europe After 2000'' (New York: Nova Science, 2001).
+* Powaski, Ronald E. ''The Entangling Alliance: The United States and European Security, 1950–1993.'' [[Greenwood Publishing Group]], 1994. 261 pp.
+* Telo, António José. ''Portugal e a NATO: O Reencontro da Tradiçoa Atlântica '' Lisbon: Cosmos, 1996. 374 pp.
+* Sandler, Todd and Hartley, Keith. ''The Political Economy of NATO: Past, Present, and into the 21st Century.'' Cambridge Uiversity Press, 1999. 292 pp.
+* Zorgbibe, Charles. ''Histoire de l'OTAN'' Brussels: Complexe, 2002. 283 pp.
+
+;Otros conflictos
+* Kaplan, Lawrence S., ed. ''American Historians and the Atlantic Alliance.'' [[Kent State University Press]], 1991. 192 pp.
+</div>
+
+== Enlaces externos ==
+{{commons|NATO}}
+{{Wikinoticias|Categoría:OTAN}}
+* [http://www.nato.int/ Sitio oficial de la OTAN] (en inglés, en francés)
+* [http://www.cbo.gov/ftpdoc.cfm?index=2976&type=0&sequence=4/ Información sobre presupuestos] (en inglés)
+* [http://www.nato.int/docu/handbook/2001/hb120701.htm/ El Comandante Supremo Aliado en Europa (SACEUR)]
+* [http://www.nato.int/cv/chod/cv-chod.htm/ Biografías de los representantes del Comité Militar]
+* [http://nids.hq.nato.int/docu/nato-trans/nato-trans-sp.pdf/ Informe sobre los objetivos y funciones de la OTAN]
+* [http://www.airpower.maxwell.af.mil/apjinternational/apj-s/1996/1trimes96/mccausland.html/ Texto del tratado sobre las Fuerzas Armadas Convencionales en Europa]
+
+
+
+
+
+
+
+[[Categoría:Organización del Tratado del Atlántico Norte| ]]
+[[Categoría:Alianzas militares]]
