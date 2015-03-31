@@ -64,12 +64,3 @@ for s in s_output:
 
 sys.stdout.write(e_file_name + "\n")
 sys.stdout.write(s_file_name + "\n")
-
-
-
-
-
-
-
-
-
