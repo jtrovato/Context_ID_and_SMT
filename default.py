@@ -18,7 +18,7 @@ e_sents = [english.strip() for english in open(e_data)][:opts.num_sents]
 #put each spanish sentence from file into a list
 s_sents = [spanish.strip() for spanish in open(s_data)][:opts.num_sents]
 
-es_lists = [[line.strip().split()] for line in open(opts.esdict)]
+es_lists = [line.strip().split() for line in open(opts.esdict)]
 
 #make a dictionary from spanish word to list of english words
 es_map = {}
