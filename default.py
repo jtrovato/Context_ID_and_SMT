@@ -9,7 +9,7 @@ optparser.add_option("-e", "--english", dest="english", default="orig.enu.snt", 
 optparser.add_option("-s", "--spanish", dest="spanish", default="orig.esn.snt", help="Suffix of French filename")
 optparser.add_option("-o", "--output", dest="output", default="output", help="Prefix of filename to output to")
 optparser.add_option("-r", "--dict", dest="esdict", default="./dict.es", help="Spanish to English Dictionary")
-optparser.add_option("-t", "--threshold", dest="threshold", default=0.5, type="float", help="Threshold (default=0.5)")
+optparser.add_option("-t", "--threshold", dest="threshold", default=0.01, type="float", help="Threshold (default=0.5)")
 optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxint, type="int", help="Number of sentences to use for training and alignment")
 (opts, _) = optparser.parse_args()
 s_data = "%s%s" % (opts.train, opts.spanish)
@@ -48,6 +48,7 @@ for eindex, e in enumerate(e_sents):
 							translated = True
 							count_overlap = count_overlap + 1
 			score = count_overlap / len(e)
+			#append each sentence if above thresh
 			if score > opts.threshold:
 				aligned = True
 				e_output.append(e)
