@@ -16,15 +16,16 @@ opts = optparser.parse_args()[0]
 
 answer_key = {}
 answer_key = {e.strip(): s.strip() for (e,s) in zip(open(opts.answers_en).readlines(), open(opts.answers_es).readlines())}
-preds = [(e.strip(),s.strip()) for (e,s) in zip(open(opts.preds_en).readlines(), open(opts,preds_es).readlines())]
+preds = [(e.strip(),s.strip()) for (e,s) in zip(open(opts.preds_en).readlines(), open(opts.preds_es).readlines())]
 
 f = open('pred.en', 'w')
 for key in answer_key.keys():
 	f.write(key + '\n')
+f.close()
 f = open('pred.es', 'w')
 for val in answer_key.values():
 	f.write(val + '\n')
-
+f.close()
 
 num_preds = len(preds)
 num_ans = len(answer_key.keys())
@@ -37,10 +38,11 @@ for (e,s) in preds:
 		if answer_key[e] == s:
 			correct +=1
 
-
+eps = 1e-10
 precision = float(correct)/num_preds
 recall = float(correct)/num_ans
-fscore = (2*precision*recall)/(precision+recall)
+fscore = (2*precision*recall)/max((precision+recall), eps)
 
-sys.stderr.write("score = %f" % fscore)
+sys.stderr.write("precision = %f recall = %f\n" % (precision, recall))
+sys.stderr.write("score = %f\n" % fscore)
 
