@@ -11,6 +11,7 @@ optparser.add_option("-o", "--output", dest="output", default="output", help="Pr
 optparser.add_option("-r", "--dict", dest="esdict", default="./dict.es", help="Spanish to English Dictionary")
 optparser.add_option("-t", "--threshold", dest="threshold", default=0.01, type="float", help="Threshold (default=0.5)")
 optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxint, type="int", help="Number of sentences to use for training and alignment")
+optparser.add_option("-w", "--windowsize", dest="win_size", default=5, type="int", help="Window size")
 (opts, _) = optparser.parse_args()
 s_data = "%s%s" % (opts.train, opts.spanish)
 e_data = "%s%s" % (opts.train, opts.english)
@@ -33,8 +34,8 @@ for es_line in es_lists:
 	es_map[es_line[0]] = es_line[1:]
 
 for eindex, e in enumerate(e_sents):
-	start = max(0, eindex - 5)
-	end = min(len(s_sents), eindex + 5)
+	start = max(0, eindex - opts.win_size)
+	end = min(len(s_sents), eindex + opts.win_size)
 	aligned = False
 	for s in s_sents[start:end]:
 		if not aligned:
