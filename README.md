@@ -48,7 +48,13 @@ The Challenge
 
 Here are some ideas:
 
-* Create new features such as positional
+* Tune the threshold and the window size parameters using hill climbing or gradient descent.
+* Add a feature that counts the number of proper nouns in each English and Spanish sentence.
+* Add a feature that calculates the difference in relative opsition of words in each English and Spanish sentence.
 * Derive features from the [Wikipedia Markup](http://en.wikipedia.org/wiki/Help:Wiki_markup) files provided.
 * Develop a [context dependent probability model](http://www.aclweb.org/anthology/I05-1053).
 * Build a [maximum entropy](http://www.aclweb.org/anthology/C12-3035) model for parallel sentence alignment.
+
+Ground Rules
+============
+You cannot use any third-party sentence aligners.
