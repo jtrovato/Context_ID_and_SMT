@@ -7,7 +7,7 @@ Consider, for example, the English-language Wikipedia article about the United S
 
 > "Mainstream American cuisine is similar to that in other Western Countries."
 
-THe Spanish-language version of the same article contains this sentence:
+The Spanish-language version of the same article contains this sentence:
 
 > "La gastronomía de Estados Unidos es similar a la de otros países occidentales."
 
