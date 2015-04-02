@@ -21,7 +21,7 @@ Given the text of two Wikipedia articles (the first in English and the second in
 Getting Started
 ===============
 
-To begin, download the starter kit. In the downloaded directory, you know have <> that <does whatever>/ Test it out using this command: <>
+To begin, download the starter kit. In the downloaded directory, you now have `default.py` that <does whatever>/ Test it out using this command: <>
 
 Description of Objective function:
 ----------------------------------
