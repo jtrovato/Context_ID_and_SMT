@@ -1,5 +1,12 @@
-An h1 header
+Introduction
 ============
+
+Consider the Wikipedia article about the United States. It contains 
+
+Getting Started
+===============
+
+To begin, download the starter kit. In the downloaded directory, you know have <> that <does whatever>/ Test it out using this command: <>
 
 Paragraphs are separated by a blank line.
 
