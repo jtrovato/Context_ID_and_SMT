@@ -25,7 +25,6 @@ The underlying task of alignment must be graded with respect to hand aligned dat
 
 F1 Score is used to evaluate the performance of our alignment algorithm because it includes information about both the precision and recall of the data. Precision is the percentage of aligned sentences that are correctly aligned, while recall is the percentage of given sentences that are correctly aligned. Both are necessary to gain an idea of performance. For instance, if we only align one sentence and it is correct we would have 100% accuracy. Using the F1 Score makes sure that both precision and accuracy are considered when evaluating.
 
-![\text{F1 Score}=\frac{2\cdot P(h,e)\cdot R(h,e)}{P(h,e)+R(h,e)}](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29%0D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 $$\text{F1 Score}=\frac{2\cdot P(h,e)\cdot R(h,e)}{P(h,e)+R(h,e)}$$
 
 where $P$ and $R$ are precision and recall, defined as:
