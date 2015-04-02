@@ -5,7 +5,7 @@ As shown in class, it is useful for many purposes to have a vast bank of paralle
 
 Consider, for example, the English-language Wikipedia article about the United States. It contains the following sentence:
 
-> "Mainstream American cuisine is similar to that in other Western Coutnries."
+> "Mainstream American cuisine is similar to that in other Western Countries."
 
 THe Spanish-language version of the same article contains this sentence:
 
