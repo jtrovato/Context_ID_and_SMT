@@ -34,6 +34,7 @@ The Challenge
 
 Here are some ideas:
 
-     * Create new features such as positional
-     * Derive features from the [Wikipedia Markup](http://en.wikipedia.org/wiki/Help:Wiki_markup) files provided.
-     * Develop a [context dependent probability model](http://www.google.com/url?q=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FI05-1053&sa=D&sntz=1&usg=AFQjCNEFk7Dm9XlWTlyTsUy1ZWIn9s1NLw).
+* Create new features such as positional
+* Derive features from the [Wikipedia Markup](http://en.wikipedia.org/wiki/Help:Wiki_markup) files provided.
+* Develop a [context dependent probability model](http://www.aclweb.org/anthology/I05-1053).
+* Build a [maximum entropy](http://www.aclweb.org/anthology/C12-3035) model for parallel sentence alignment.
