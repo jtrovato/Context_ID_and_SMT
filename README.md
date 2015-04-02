@@ -5,7 +5,7 @@ As shown in class, it is useful for many purposes to have a vast bank of paralle
 
 Consider the English-language Wikipedia article about the United States. It contains the following sentence:
 
-> "At 3.80 million square miles (9.85 million km^2) and with over 320 million people, the United States is the world's fourth-largest country by total area and third most populous."
+> "At 3.80 million square miles (9.85 million km$$^2$$) and with over 320 million people, the United States is the world's fourth-largest country by total area and third most populous."
 
 Getting Started
 ===============
