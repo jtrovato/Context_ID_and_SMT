@@ -15,6 +15,8 @@ Unfortunately, whole WIkipedia articles themselves cannot necessarily be treated
 
 However, as the example about shows, articles often contain sentences that are quite similar. We wnat to identify such pairs of parallel sentences and harvest htem for future use. A human can read through the English and Spanish versions of an article and pick out the pairs of similar sentences. **Your challenge is to write a program that identifies pairs of parallel sentences automatically.**
 
+Given the text of two Wikipedia articles (the first in English and the second in Spanish) with one sentence per line, You should output two parallel files (the first in English and the second in Spanish) containing only the parallel sentences that you identified from the articles. The *i*th sentence in your Spanish document for all *i* from 1 to the length of your output files.
+
 
 Getting Started
 ===============
