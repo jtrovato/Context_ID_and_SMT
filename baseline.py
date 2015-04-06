@@ -1,7 +1,17 @@
 #!/usr/bin/env python
 from __future__ import division
+from nltk.corpus import stopwords
 import optparse
 import sys
+import string
+
+stopwords = set(stopwords.words('english'))
+punct = string.punctuation
+for p in punct:
+    stopwords.add(p)
+additions = ['-LRB-', '-RRB-', '\'\'', '``', '...']
+for p in additions:
+    stopwords.add(p)
 
 optparser = optparse.OptionParser()
 optparser.add_option("-d", "--data", dest="train", default="wikidata/es/", help="Data filename prefix (default=data)")
@@ -10,7 +20,7 @@ optparser.add_option("-s", "--spanish", dest="spanish", default="orig.esn.snt", 
 optparser.add_option("-o", "--output", dest="output", default="output", help="Prefix of filename to output to")
 optparser.add_option("-r", "--dict", dest="esdict", default="./dict.es", help="Spanish to English Dictionary")
 optparser.add_option("-t", "--threshold", dest="threshold", default=0.01, type="float", help="Threshold (default=0.5)")
-optparser.add_option("-p", "--PROPER_W", dest="PROPER_W", default=10.0, type="float", help="Proper Noun Weight (default=10.0)")
+optparser.add_option("-p", "--PROPER_W", dest="PROPER_W", default=2.0, type="float", help="Proper Noun Weight (default=10.0)")
 optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxint, type="int", help="Number of sentences to use for training and alignment")
 optparser.add_option("-w", "--windowsize", dest="win_size", default=5, type="int", help="Window size")
 (opts, _) = optparser.parse_args()
@@ -37,7 +47,7 @@ for es_line in es_lists:
 for eindex, e in enumerate(e_sents):
     e_list = e.split()
     e_len = len(e_list)
-    e_bit_vec = [0]
+    e_bit_vec = [0]*e_len
     start = max(0, eindex - opts.win_size)
     end = min(len(s_sents), eindex + opts.win_size)
     aligned = False
@@ -47,16 +57,17 @@ for eindex, e in enumerate(e_sents):
             count_same = 0
             for s_word in s.split():
                 translated = False
-                if s_word in es_map:
-                    translations = es_map[s_word]
+                if s_word.lower() in es_map:
+                    translations = es_map[s_word.lower()]
                     for k, e_word in enumerate(e_list):
-                        if e_word in translations and not translated and e_bit_vec[k] == 0:
+                        if e_word.lower() in translations and not translated and e_bit_vec[k] == 0 and e_word not in stopwords:
                             translated = True
                             e_bit_vec[k] = 1
                             count_overlap = count_overlap + 1
                 else:
                      for k, word in enumerate(e_list):
-                        if not e_bit_vec[k] and word == s_word and not translated:
+                        if not e_bit_vec[k] and word == s_word and not translated and word not in stopwords:
+                            #sys.stderr.write(word + '   ' + s_word + '\n')
                             count_same += 1
                             translated = True
                             e_bit_vec[k] = 1
