@@ -5,13 +5,7 @@ import optparse
 import sys
 import string
 
-stopwords = set(stopwords.words('english'))
-punct = string.punctuation
-for p in punct:
-    stopwords.add(p)
-additions = ['-LRB-', '-RRB-', '\'\'', '``', '...']
-for p in additions:
-    stopwords.add(p)
+
 
 optparser = optparse.OptionParser()
 optparser.add_option("-d", "--data", dest="train", default="wikidata/es/", help="Data filename prefix (default=data)")
@@ -23,11 +17,23 @@ optparser.add_option("-t", "--threshold", dest="threshold", default=0.01, type="
 optparser.add_option("-p", "--PROPER_W", dest="PROPER_W", default=2.0, type="float", help="Proper Noun Weight (default=10.0)")
 optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxint, type="int", help="Number of sentences to use for training and alignment")
 optparser.add_option("-w", "--windowsize", dest="win_size", default=5, type="int", help="Window size")
+optparser.add_option("-l", "--stoplist", dest="stop_file", default="stopwords.txt", help="List of stop words")
+
 (opts, _) = optparser.parse_args()
 s_data = "%s%s" % (opts.train, opts.spanish)
 e_data = "%s%s" % (opts.train, opts.english)
 s_file_name = "%s%s" % (opts.output, ".es")
 e_file_name = "%s%s" % (opts.output, ".en")
+
+#create stopwords
+#stopwords = set(stopwords.words('english'))
+stopwords = set([word.strip() for word in open(opts.stop_file)])
+punct = string.punctuation
+for p in punct:
+    stopwords.add(p)
+additions = ['-LRB-', '-RRB-', '\'\'', '``', '...']
+for p in additions:
+    stopwords.add(p)
 
 #put each english sentence in file into a list
 e_sents = [english.strip() for english in open(e_data) if len(english.strip()) > 0][:opts.num_sents]
