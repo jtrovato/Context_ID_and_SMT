@@ -12,6 +12,7 @@ optparser.add_option("-r", "--dict", dest="esdict", default="./dict.es", help="S
 optparser.add_option("-t", "--threshold", dest="threshold", default=0.01, type="float", help="Threshold (default=0.5)")
 optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxint, type="int", help="Number of sentences to use for training and alignment")
 optparser.add_option("-w", "--windowsize", dest="win_size", default=5, type="int", help="Window size")
+optparser.add_option("-l", "--stoplist", dest="stop_file", default="stopwords.txt", help="List of stop words")
 (opts, _) = optparser.parse_args()
 s_data = "%s%s" % (opts.train, opts.spanish)
 e_data = "%s%s" % (opts.train, opts.english)
@@ -19,11 +20,14 @@ s_file_name = "%s%s" % (opts.output, ".es")
 e_file_name = "%s%s" % (opts.output, ".en")
 
 #put each english sentence in file into a list
+stop_words = [word.strip() for word in open(opts.stop_file)]
 e_sents = [english.strip() for english in open(e_data) if len(english.strip()) > 0][:opts.num_sents]
+
 #put each spanish sentence from file into a list
 s_sents = [spanish.strip() for spanish in open(s_data) if len(spanish.strip()) > 0][:opts.num_sents]
 
 es_lists = [line.strip().split() for line in open(opts.esdict)]
+
 
 e_output = []
 s_output = []
@@ -36,24 +40,29 @@ for es_line in es_lists:
 for eindex, e in enumerate(e_sents):
 	start = max(0, eindex - opts.win_size)
 	end = min(len(s_sents), eindex + opts.win_size)
-	aligned = False
+
+        best_s = ''
+        best_e = ''
+        best_score = 0.0
 	for s in s_sents[start:end]:
-		if not aligned:
-			count_overlap = 0
-			for s_word in s.split():
-				if s_word in es_map:
-					translated = False
-					translations = es_map[s_word]
-					for e_word in e.split():
-						if e_word in translations and not translated:
-							translated = True
-							count_overlap = count_overlap + 1
-			score = count_overlap / len(e)
-			#append each sentence if above thresh
-			if score > opts.threshold:
-				aligned = True
-				e_output.append(e)
-				s_output.append(s)
+                count_overlap = 0
+                for s_word in s.split():
+                        if s_word in es_map:
+                                translations = es_map[s_word]
+                                for e_word in e.split():
+                                        if e_word in translations and e_word not in stop_words:
+                                                #sys.stderr.write("%s %s\n" % (e_word, s_word))
+                                                count_overlap += 1
+                                                break
+                score = float(count_overlap)/len(s)
+                if score > best_score:
+                        best_score = score
+                        best_s = s
+                        best_e = e
+        #append each sentence if above thresh
+        if best_score > opts.threshold:
+                e_output.append(best_e)
+                s_output.append(best_s)
 
 s_file = open(s_file_name, "w")
 e_file = open(e_file_name, "w")
