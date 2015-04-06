@@ -51,6 +51,8 @@ for es_line in es_lists:
     es_map[es_line[0]] = es_line[1:]
 
 for eindex, e in enumerate(e_sents):
+    best_score = 0
+    best_s = ""
     e_list = e.split()
     e_len = len(e_list)
     e_bit_vec = [0]*e_len
@@ -58,31 +60,32 @@ for eindex, e in enumerate(e_sents):
     end = min(len(s_sents), eindex + opts.win_size)
     aligned = False
     for s in s_sents[start:end]:
-        if not aligned:
-            count_overlap = 0
-            count_same = 0
-            for s_word in s.split():
-                translated = False
-                if s_word.lower() in es_map:
-                    translations = es_map[s_word.lower()]
-                    for k, e_word in enumerate(e_list):
-                        if e_word.lower() in translations and not translated and e_bit_vec[k] == 0 and e_word not in stopwords:
-                            translated = True
-                            e_bit_vec[k] = 1
-                            count_overlap = count_overlap + 1
-                else:
-                     for k, word in enumerate(e_list):
-                        if not e_bit_vec[k] and word == s_word and not translated and word not in stopwords:
-                            #sys.stderr.write(word + '   ' + s_word + '\n')
-                            count_same += 1
-                            translated = True
-                            e_bit_vec[k] = 1
-            score = (count_overlap+PROPER_W*count_same) / e_len
-            #append each sentence if above thresh
-            if score > opts.threshold:
-                aligned = True
-                e_output.append(e)
-                s_output.append(s)
+        count_overlap = 0
+        count_same = 0
+        for s_word in s.split():
+            translated = False
+            if s_word.lower() in es_map:
+                translations = es_map[s_word.lower()]
+                for k, e_word in enumerate(e_list):
+                    if e_word.lower() in translations and not translated and e_bit_vec[k] == 0 and e_word not in stopwords:
+                        translated = True
+                        e_bit_vec[k] = 1
+                        count_overlap = count_overlap + 1
+            else:
+                 for k, word in enumerate(e_list):
+                    if not e_bit_vec[k] and word == s_word and not translated and word not in stopwords:
+                        #sys.stderr.write(word + '   ' + s_word + '\n')
+                        count_same += 1
+                        translated = True
+                        e_bit_vec[k] = 1
+        score = (count_overlap+PROPER_W*count_same) / e_len
+        #append each sentence if above thresh
+        if score > best_score:
+            best_s = s
+            best_score = score
+    if best_score > opts.threshold:
+        e_output.append(e)
+        s_output.append(best_s)
 
 s_file = open(s_file_name, "w")
 e_file = open(e_file_name, "w")
