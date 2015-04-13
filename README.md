@@ -53,7 +53,6 @@ Here are some other ideas:
 * Derive features from the [Wikipedia Markup](http://en.wikipedia.org/wiki/Help:Wiki_markup) files provided.
 * Develop a [context dependent probability model](http://www.aclweb.org/anthology/I05-1053).
 * Build a [maximum entropy](http://www.aclweb.org/anthology/C12-3035) model for parallel sentence alignment.
-=======
 
 Ground Rules
 ============
