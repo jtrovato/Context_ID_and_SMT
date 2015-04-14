@@ -35,7 +35,7 @@ F1 Score is used to evaluate the performance of our alignment algorithm because 
 
 $$\text{F1 Score}=\frac{2\cdot P(h,e)\cdot R(h,e)}{P(h,e)+R(h,e)}$$
 
-where $P$ and $R$ are precision and recall, defined as:
+where $$P$$ and $$R$$ are precision and recall, defined as:
 
 $$R(h,e)=\frac{\mid h \cap e\mid}{\mid e\mid}$$ and $$P(h,e)=\frac{\mid h \cap e\mid}{\mid h \mid}$$
 
