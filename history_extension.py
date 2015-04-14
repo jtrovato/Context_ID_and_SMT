@@ -69,7 +69,7 @@ for eindex, e in enumerate(e_sents):
     end = min(len(s_sents), eindex + opts.win_size)
     aligned = False
     for sindex, s in enumerate(s_sents[start:end]):
-        if sindex not in s_hist:
+        #if sindex not in s_hist:
             sindex += start
             count_overlap = 0
             count_same = 0
