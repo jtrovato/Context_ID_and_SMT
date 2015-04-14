@@ -42,8 +42,6 @@ eps = 1e-10
 precision = float(correct)/num_preds
 recall = float(correct)/num_ans
 fscore = (2*precision*recall)/max((precision+recall), eps)
-
-#sys.stderr.write("correctf: %f, correcti: %i, num_preds: %i, num_ans: %i" % (correct, correct, num_preds, num_ans))
 sys.stderr.write("precision = %f recall = %f\n" % (precision, recall))
 sys.stderr.write("score = %f\n" % fscore)
 

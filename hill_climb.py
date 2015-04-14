@@ -61,7 +61,7 @@ for es_line in es_lists:
     es_map[es_line[0]] = es_line[1:]
 
 ## start hill climb
-theta = [200,0.2,2.0] # w, t, p
+theta = [33,0.2,0.2] # w, t, p
 dw = 32
 dt = 0.1
 dp = 0.1
