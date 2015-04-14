@@ -100,3 +100,13 @@ for s in s_output:
 
 sys.stdout.write(e_file_name + "\n")
 sys.stdout.write(s_file_name + "\n")
+
+
+
+"""
+For this extension, we introduced a penalty based on the relative positions of the spanish sentence and the english sentence in the raw data.
+This effectively penalized translation sentences that are very far apart. We noticed that this did not have much of an effect on the fscore and in fact severly hurt
+our model. Only by weighting this penalty to be a very small fracton, do we see an improvement in the overall score. This is due to the fact that the english
+and spanish raw data are not ordered in the same way. We noticed that the sections do not match up and that to find an optimal translation, we usually have to look
+for a sentence that is in a far away position. This thought is supported by setting the window size to 200. 
+"""
