@@ -95,11 +95,11 @@ for eindex, e in enumerate(e_sents):
                 best_s = s
                 best_sindex = sindex
                 best_score = score
-        if best_score > opts.threshold:
-            e_output.append(e)
-            e_hist += [eindex]
-            s_output.append(best_s)
-            s_hist += [best_sindex]
+    if best_score > opts.threshold:
+        e_output.append(e)
+        e_hist += [eindex]
+        s_output.append(best_s)
+        s_hist += [best_sindex]
 
 s_file = open(s_file_name, "w")
 e_file = open(e_file_name, "w")
