@@ -52,7 +52,7 @@ Here are some other ideas:
 
 * Use a translation model to score sentences that are likely to be good translations.
 * Tune the threshold and the window size parameters using hill climbing or gradient descent.
-* Add a one-to-one constraint on the sentence alignment instead of allowing a spanish sentence to be aligned with more than one english sentence.
+* Add a one-to-one constraint on the sentence alignment instead of allowing a spanish sentence to be aligned with more than one english sentence as described on page 151 of [this paper](http://www.micai.org/rcs/2013_70/Parallel-Wiki_%20A%20Collection%20of%20Parallel%20Sentences%20Extracted%20from%20Wikipedia.pdf)
 * Add a feature that rewards sentences for having an optimal english-to-spanish length ratio.
 * Reward matched proper nouns more if they are found fewer times in the document.
 * Add a feature that calculates the difference in relative opsition of words in each English and Spanish sentence.
