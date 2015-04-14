@@ -56,6 +56,7 @@ for es_line in es_lists:
 #mathcing
 e_hist = [] #mathcing history variables to consider previous matches as an idication of future performance
 s_hist = []
+hist_const = 1
 
 for eindex, e in enumerate(e_sents):
     if eindex % 50 == 0:
@@ -69,8 +70,8 @@ for eindex, e in enumerate(e_sents):
     end = min(len(s_sents), eindex + opts.win_size)
     aligned = False
     for sindex, s in enumerate(s_sents[start:end]):
+        sindex += start
         if sindex not in s_hist:
-            sindex += start
             count_overlap = 0
             count_same = 0
             for s_word in s.split():
@@ -89,7 +90,7 @@ for eindex, e in enumerate(e_sents):
                             count_same += 1
                             translated = True
                             e_bit_vec[k] = 1
-            score = (count_overlap+PROPER_W*count_same) / e_len
+            score = hist_const*((count_overlap+PROPER_W*count_same) / e_len)
             #append each sentence if above thresh
             if score > best_score:
                 best_s = s
