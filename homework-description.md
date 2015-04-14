@@ -23,13 +23,13 @@ Getting Started
 
 To begin, download the starter kit. In the downloaded directory, you now have `default.py` that looks at each English sentence and all the Spanish sentence within some window $$w$$ of sentences before or after the English sentence. It takes the ratio of the number of Spanish words in the sentence that have a dictionary translation in the English sentence to the length of the Spanish sentence, and if this ratio is above a certain threshold $$t$$ it defines the sentences as being aligned. Test it out using this command: `./default.py | ./grade.py`.
 
-The default program relies on some other resources which we have provided you, which are a spanish-english dictionary and a text file of stopwords for the program to ignore when computing the score (for example, 'and' and 'the').
+The default program relies on some other resources which we have provided you, which are a Spanish-English dictionary called dict.es and a text file of stopwords called stopwords.txt for the program to ignore when computing the score (for example, 'and' and 'the').
 
 The data you are given are pre-parsed sentences and headers from parallel Wikipedia articles in English and Spanish. The data comes in the form of pairs of files, labeled `<name>.enu.snt` for the parsed English sentences and `<name>.esn.snt` fo rhte parsed Spanish sentences. Each sentence is on a separate line. There is no guarantee that there are equal numbers of sentences in the English and Spanish files.
 
 Your program will take in a pair of such files and find the likely sentence alignments. Your program should create two files in the current directory, one for English output and one for Spanish output, and output these filenames to standard output so the grade program can then locate your files. Within these files, you should write only the sentences which your program determines are aligned. Make sure that aligned sentences are at the same line number in the two output files. Your English and Spanish output files should have the same number of lines.
 
-Description of Objective function:
+Description of Objective Function:
 ----------------------------------
 The underlying task of alignment must be graded with respect to hand aligned data. Because we require the true "labels" we must split the data into a testing and training set. This ensures that results are not being evaluated on the data used to train the algorithms. This separation is standard in machine learning applications. With a sufficient test set, alignment performance can be determined forma  few simple statistics taken on the results.
 
