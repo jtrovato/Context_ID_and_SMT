@@ -11,7 +11,7 @@ These scripts can be used with pipes like so...
 
 `./default | ./grade`
 
-The data you will be using is contained in `./wikidata/es/` . In this directory, you find the original wikipedia articles that look like `orig.enu.snt`  and the test file that have a ",test" appended to the file name. In this folder, there are also aligned sentence in files that begin with "pairs".
+The data you will be using is contained in `./wikidata/es/` . In this directory, you find the original wikipedia articles that look like `orig.enu.snt`  and the test file that have a ".test" appended to the file name. In this folder, there are also aligned sentence in files that begin with "pairs".
 
 For CIS526 Staff:
 =================
