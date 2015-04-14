@@ -70,13 +70,8 @@ for eindex, e in enumerate(e_sents):
     end = min(len(s_sents), eindex + opts.win_size)
     aligned = False
     for sindex, s in enumerate(s_sents[start:end]):
-<<<<<<< HEAD
-        #if sindex not in s_hist:
-            sindex += start
-=======
         sindex += start
         if sindex not in s_hist:
->>>>>>> 24600fc40fe41d5d15c0908a5086238de12baff5
             count_overlap = 0
             count_same = 0
             for s_word in s.split():
