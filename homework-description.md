@@ -21,7 +21,7 @@ This [paper by Smith, Quirk, and Toutanouva](https://www.aclweb.org/anthology/N/
 Getting Started
 ===============
 
-To begin, download the starter kit. In the downloaded directory, you now have `default.py` that looks at each English sentence and all the Spanish sentence within some window $w$ of sentences before or after the English sentence. It takes the ratio of the number of Spanish words in the sentence that have a dictionary translation int he English sentence to the length of the Spanish sentence, and if this ratio is above a certain threshold $t$ it defines the sentences as being aligned. Test it out using this command: `./default.py | ./grade.py`.
+To begin, download the starter kit. In the downloaded directory, you now have `default.py` that looks at each English sentence and all the Spanish sentence within some window $$w$$ of sentences before or after the English sentence. It takes the ratio of the number of Spanish words in the sentence that have a dictionary translation in the English sentence to the length of the Spanish sentence, and if this ratio is above a certain threshold $$t$$ it defines the sentences as being aligned. Test it out using this command: `./default.py | ./grade.py`.
 
 The default program relies on some other resources which we have provided you, which are a spanish-english dictionary and a text file of stopwords for the program to ignore when computing the score (for example, 'and' and 'the').
 
@@ -52,7 +52,7 @@ Here are some other ideas:
 
 * Use a translation model to score sentences that are likely to be good translations.
 * Tune the threshold and the window size parameters using hill climbing or gradient descent.
-* Add a one-to-one constraint on the sentence alignment instead of allowing a spanish sentence to be aligned with more than one english sentence as described on page 151 of [this paper](http://www.micai.org/rcs/2013_70/Parallel-Wiki_%20A%20Collection%20of%20Parallel%20Sentences%20Extracted%20from%20Wikipedia.pdf)
+* Add a one-to-one constraint on the sentence alignment instead of allowing a spanish sentence to be aligned with more than one english sentence as described on page 151 of [this paper](http://www.micai.org/rcs/2013_70/Parallel-Wiki_%20A%20Collection%20of%20Parallel%20Sentences%20Extracted%20from%20Wikipedia.pdf).
 * Add a feature that rewards sentences for having an optimal english-to-spanish length ratio.
 * Reward matched proper nouns more if they are found fewer times in the document.
 * Add a feature that calculates the difference in relative opsition of words in each English and Spanish sentence.
