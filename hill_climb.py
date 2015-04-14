@@ -61,69 +61,84 @@ for es_line in es_lists:
     es_map[es_line[0]] = es_line[1:]
 
 ## start hill climb
-theta = [0,0,0]
-eta = 0.1
-e_output = []
-s_output = []
-PROPER_W = opts.PROPER_W
+theta = [5,0.1,0.5] # w, t, p
+dw = 1
+dt = 0.01
+dp = 0.01
+dtheta = [[0,0,0],
+          [-dw,0,0],
+          [dw,0,0],
+          [0,-dt,0],
+          [0,dt,0],
+          [0,0,-dp],
+          [0,0,dp]]
+num_samples = len(dtheta)
+
+for params in theta:
+	weights = []
+	for i,p in enumerate(params):
+		weights[i] = theta[i]+p
+	e_output = []
+	s_output = []
+	#PROPER_W = opts.PROPER_W
+	PROPER_W = weights[i]
+
+	for eindex, e in enumerate(e_sents):
+		best_score = 0
+		best_s = ""
+		e_list = e.split()
+		e_len = len(e_list)
+		e_bit_vec = [0]*e_len
+		start = max(0, eindex - opts.win_size)
+		end = min(len(s_sents), eindex + opts.win_size)
+		aligned = False
+		for s in s_sents[start:end]:
+			count_overlap = 0
+			count_same = 0
+			for s_word in s.split():
+				translated = False
+				if s_word.lower() in es_map:
+					translations = es_map[s_word.lower()]
+					for k, e_word in enumerate(e_list):
+						if e_word.lower() in translations and not translated and e_bit_vec[k] == 0 and e_word not in stopwords:
+							translated = True
+							e_bit_vec[k] = 1
+							count_overlap = count_overlap + 1
+				else:
+					for k, word in enumerate(e_list):
+						if not e_bit_vec[k] and word == s_word and not translated and word not in stopwords:
+							#sys.stderr.write(word + '   ' + s_word + '\n')
+							count_same += 1
+							translated = True
+							e_bit_vec[k] = 1
+			score = (count_overlap+PROPER_W*count_same) / e_len
+			#append each sentence if above thresh
+			if score > best_score:
+				best_s = s
+				best_score = score
+		if best_score > opts.threshold:
+			e_output.append(e)
+			s_output.append(best_s)
+
+	########## grading
+	preds = [(e.strip(),s.strip()) for (e,s) in zip(e_output, s_output)]
 
 
-for eindex, e in enumerate(e_sents):
-    best_score = 0
-    best_s = ""
-    e_list = e.split()
-    e_len = len(e_list)
-    e_bit_vec = [0]*e_len
-    start = max(0, eindex - opts.win_size)
-    end = min(len(s_sents), eindex + opts.win_size)
-    aligned = False
-    for s in s_sents[start:end]:
-        count_overlap = 0
-        count_same = 0
-        for s_word in s.split():
-            translated = False
-            if s_word.lower() in es_map:
-                translations = es_map[s_word.lower()]
-                for k, e_word in enumerate(e_list):
-                    if e_word.lower() in translations and not translated and e_bit_vec[k] == 0 and e_word not in stopwords:
-                        translated = True
-                        e_bit_vec[k] = 1
-                        count_overlap = count_overlap + 1
-            else:
-                 for k, word in enumerate(e_list):
-                    if not e_bit_vec[k] and word == s_word and not translated and word not in stopwords:
-                        #sys.stderr.write(word + '   ' + s_word + '\n')
-                        count_same += 1
-                        translated = True
-                        e_bit_vec[k] = 1
-        score = (count_overlap+PROPER_W*count_same) / e_len
-        #append each sentence if above thresh
-        if score > best_score:
-            best_s = s
-            best_score = score
-    if best_score > opts.threshold:
-        e_output.append(e)
-        s_output.append(best_s)
+	num_preds = len(preds)
+	num_ans = len(answer_key.keys())
 
-########## grading
-preds = [(e.strip(),s.strip()) for (e,s) in zip(e_output, s_output)]
+	#parse the reference and prediction calculating score
+	num_sents = len(answer_key)
+	correct = 0 
+	for (e,s) in preds:
+		if e in answer_key:
+			if answer_key[e] == s:
+				correct +=1
 
+	eps = 1e-10
+	precision = float(correct)/num_preds
+	recall = float(correct)/num_ans
+	fscore = (2*precision*recall)/max((precision+recall), eps)
 
-num_preds = len(preds)
-num_ans = len(answer_key.keys())
-
-#parse the reference and prediction calculating score
-num_sents = len(answer_key)
-correct = 0 
-for (e,s) in preds:
-	if e in answer_key:
-		if answer_key[e] == s:
-			correct +=1
-
-eps = 1e-10
-precision = float(correct)/num_preds
-recall = float(correct)/num_ans
-fscore = (2*precision*recall)/max((precision+recall), eps)
-
-sys.stderr.write("precision = %f recall = %f\n" % (precision, recall))
-sys.stderr.write("score = %f\n" % fscore)
+	sys.stderr.write("precision = %f recall = %f\n" % (precision, recall))
+	sys.stderr.write("score = %f\n" % fscore)
