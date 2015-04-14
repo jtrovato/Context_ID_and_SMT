@@ -4,7 +4,7 @@ from nltk.corpus import stopwords
 import optparse
 import sys
 import string
-
+import math
 
 
 optparser = optparse.OptionParser()
@@ -18,15 +18,27 @@ optparser.add_option("-p", "--PROPER_W", dest="PROPER_W", default=2.0, type="flo
 optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxint, type="int", help="Number of sentences to use for training and alignment")
 optparser.add_option("-w", "--windowsize", dest="win_size", default=5, type="int", help="Window size")
 optparser.add_option("-l", "--stoplist", dest="stop_file", default="stopwords.txt", help="List of stop words")
-
 (opts, _) = optparser.parse_args()
 s_data = "%s%s" % (opts.train, opts.spanish)
 e_data = "%s%s" % (opts.train, opts.english)
 s_file_name = "%s%s" % (opts.output, ".es")
 e_file_name = "%s%s" % (opts.output, ".en")
 
-#create stopwords
-#stopwords = set(stopwords.words('english'))
+# load answer key for grading portion
+answers_en = 'wikidata/es/pairs.enu.snt'
+answers_es = 'wikidata/es/pairs.esn.snt'
+answer_key = {}
+answer_key = {e.strip(): s.strip() for (e,s) in zip(open(answers_en).readlines(), open(answers_es).readlines())}
+f = open('pred.en', 'w')
+for key in answer_key.keys():
+	f.write(key + '\n')
+f.close()
+f = open('pred.es', 'w')
+for val in answer_key.values():
+	f.write(val + '\n')
+f.close()
+
+# create stopwords
 stopwords = set([word.strip() for word in open(opts.stop_file)])
 punct = string.punctuation
 for p in punct:
@@ -37,18 +49,24 @@ for p in additions:
 
 #put each english sentence in file into a list
 e_sents = [english.strip() for english in open(e_data) if len(english.strip()) > 0][:opts.num_sents]
+
 #put each spanish sentence from file into a list
 s_sents = [spanish.strip() for spanish in open(s_data) if len(spanish.strip()) > 0][:opts.num_sents]
 
 es_lists = [line.strip().split() for line in open(opts.esdict)]
 
-e_output = []
-s_output = []
-PROPER_W = opts.PROPER_W
 #make a dictionary from spanish word to list of english words
 es_map = {}
 for es_line in es_lists:
     es_map[es_line[0]] = es_line[1:]
+
+## start hill climb
+theta = [0,0,0]
+eta = 0.1
+e_output = []
+s_output = []
+PROPER_W = opts.PROPER_W
+
 
 for eindex, e in enumerate(e_sents):
     best_score = 0
@@ -87,13 +105,25 @@ for eindex, e in enumerate(e_sents):
         e_output.append(e)
         s_output.append(best_s)
 
-s_file = open(s_file_name, "w")
-e_file = open(e_file_name, "w")
+########## grading
+preds = [(e.strip(),s.strip()) for (e,s) in zip(e_output, s_output)]
 
-for e in e_output:
-    e_file.write(e + "\n")
-for s in s_output:
-    s_file.write(s + "\n")
 
-sys.stdout.write(e_file_name + "\n")
-sys.stdout.write(s_file_name + "\n")
+num_preds = len(preds)
+num_ans = len(answer_key.keys())
+
+#parse the reference and prediction calculating score
+num_sents = len(answer_key)
+correct = 0 
+for (e,s) in preds:
+	if e in answer_key:
+		if answer_key[e] == s:
+			correct +=1
+
+eps = 1e-10
+precision = float(correct)/num_preds
+recall = float(correct)/num_ans
+fscore = (2*precision*recall)/max((precision+recall), eps)
+
+sys.stderr.write("precision = %f recall = %f\n" % (precision, recall))
+sys.stderr.write("score = %f\n" % fscore)
