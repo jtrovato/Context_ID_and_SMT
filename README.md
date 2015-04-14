@@ -5,9 +5,9 @@ As shown in class, it is useful for many purposes to have a vast bank of paralle
 
 Consider, for example, the English-language Wikipedia article about the United States. It contains the following sentence:
 
-> "Mainstream American cuisine is similar to that in other Western Coutnries."
+> "Mainstream American cuisine is similar to that in other Western Countries."
 
-THe Spanish-language version of the same article contains this sentence:
+The Spanish-language version of the same article contains this sentence:
 
 > "La gastronomía de Estados Unidos es similar a la de otros países occidentales."
 
@@ -45,11 +45,10 @@ Your program will take in a pair of such files and find the likely sentence alig
 
 The Challenge
 =============
-
-Here are some ideas:
+The baseline was achieved by adding a feature that adds to weight to the score for co-occurring proper nouns in the English and Spanish sentences. 
+Here are some other ideas:
 
 * Tune the threshold and the window size parameters using hill climbing or gradient descent.
-* Add a feature that counts the number of proper nouns in each English and Spanish sentence.
 * Add a feature that calculates the difference in relative opsition of words in each English and Spanish sentence.
 * Derive features from the [Wikipedia Markup](http://en.wikipedia.org/wiki/Help:Wiki_markup) files provided.
 * Develop a [context dependent probability model](http://www.aclweb.org/anthology/I05-1053).
