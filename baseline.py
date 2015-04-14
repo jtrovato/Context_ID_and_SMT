@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 from __future__ import division
-from nltk.corpus import stopwords
 import optparse
 import sys
 import string
